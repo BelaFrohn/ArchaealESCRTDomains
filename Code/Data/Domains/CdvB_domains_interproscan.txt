@@ -1,0 +1,270 @@
+#Q9HIZ5
+Snf7 family,17,183
+consensus disorder prediction,166,187
+consensus disorder prediction,166,212
+#Q97BR8
+consensus disorder prediction,188,212
+Snf7 family,19,179
+consensus disorder prediction,173,187
+consensus disorder prediction,170,212
+#C5A5F7
+Coil,56,86
+Coil,19,39
+#A0A0S1XCM4
+Coil,69,89
+consensus disorder prediction,182,204
+Coil,120,140
+Coil,18,52
+#A0A0S1XCN4
+Coil,17,51
+Coil,143,163
+#A0A0S1XCQ9
+Coil,24,44
+Coil,121,141
+Coil,61,91
+#I3ZW42
+Coil,25,59
+Coil,69,89
+consensus disorder prediction,178,204
+#I3ZW43
+Coil,18,52
+Coil,144,164
+#I3ZW30
+Coil,56,86
+Coil,19,39
+#C9RH08
+Coil,20,54
+Coil,71,91
+#C9RGZ9
+Coil,147,167
+Coil,21,55
+#D5VRF4
+Coil,21,55
+#D5VRF2
+Coil,20,54
+Coil,175,195
+Coil,71,98
+#Q9YFV7
+Snf7 family,38,206
+#Q9YDF1
+Coil,237,257
+Winged helix-like DNA-binding domain superfamily,215,264
+Winged helix DNA-binding domain superfamily,215,262
+#A8A8N3
+Coil,113,133
+Coil,25,52
+#A0A0V8RVW9
+Winged helix DNA-binding domain superfamily,229,273
+Winged helix-like DNA-binding domain superfamily,227,276
+#A0A0V8RRG7
+consensus disorder prediction,200,226
+consensus disorder prediction,207,226
+#A2BKY9
+Coil,229,249
+Winged helix DNA-binding domain superfamily,239,284
+Coil,26,53
+Winged helix-like DNA-binding domain superfamily,232,286
+#A2BM29
+Coil,139,159
+#I3XQE4
+Coil,41,61
+Winged helix-like DNA-binding domain superfamily,239,291
+Winged helix DNA-binding domain superfamily,238,291
+#A3DP08
+Winged helix-like DNA-binding domain superfamily,209,259
+#Q97ZJ6
+Snf7 family,27,125
+Coil,23,50
+Winged helix-like DNA-binding domain superfamily,206,259
+#Q972B4
+Winged helix-like DNA-binding domain superfamily,210,266
+Coil,23,50
+Snf7 family,27,193
+#Q970W7
+Coil,135,159
+#Q4J924
+Coil,23,50
+Winged helix-like DNA-binding domain superfamily,205,261
+Winged helix DNA-binding domain superfamily,211,258
+#Q4J8G7
+Coil,143,163
+#A4YHC4
+Snf7 family,29,195
+Coil,23,50
+Winged helix-like DNA-binding domain superfamily,216,270
+#A4YHE8
+Snf7 family,42,209
+#F0NEW1
+Coil,23,50
+Snf7 family,27,125
+Winged helix-like DNA-binding domain superfamily,206,259
+#F0NI90
+Coil,141,161
+#A0A2U9IP34
+Snf7 family,30,191
+Winged helix-like DNA-binding domain superfamily,207,261
+#A0A2U9IQQ8
+Coil,128,152
+#A0A1W6K243
+Winged helix-like DNA-binding domain superfamily,206,261
+Snf7 family,30,191
+#A0A1W6K1Z7
+Snf7 family,41,170
+#A0A1W6K1F7
+Coil,137,161
+#F4B4A9
+Coil,43,63
+Winged helix-like DNA-binding domain superfamily,202,258
+#L0ABT6
+consensus disorder prediction,208,225
+consensus disorder prediction,204,225
+#D9Q2V7
+consensus disorder prediction,200,226
+consensus disorder prediction,209,226
+Snf7 family,45,208
+#D9Q219
+Winged helix-like DNA-binding domain superfamily,208,261
+#A9A5K1
+Snf7 family,35,201
+consensus disorder prediction,1,22
+consensus disorder prediction,1,15
+#A9A520
+Coil,38,58
+consensus disorder prediction,193,215
+consensus disorder prediction,195,215
+#A9A552
+consensus disorder prediction,196,216
+consensus disorder prediction,192,216
+#F3KM46
+Coil,38,58
+consensus disorder prediction,1,25
+consensus disorder prediction,1,18
+Snf7 family,38,203
+#F3KIU6
+Coil,14,34
+Snf7 family,16,131
+#F3KM09
+consensus disorder prediction,196,214
+consensus disorder prediction,186,214
+#F3KJI1
+Snf7 family,34,195
+#K0IJ37
+consensus disorder prediction,202,224
+Coil,38,69
+consensus disorder prediction,200,224
+Snf7 family,42,205
+#K0IP38
+consensus disorder prediction,1,17
+consensus disorder prediction,1,30
+#K0IHX6
+consensus disorder prediction,1,32
+consensus disorder prediction,1,22
+#K0IIB5
+Coil,33,53
+#K0IDT2
+consensus disorder prediction,187,207
+consensus disorder prediction,192,207
+#A0A060HNA5
+Coil,34,61
+Snf7 family,38,202
+consensus disorder prediction,193,216
+#A0A060HN76
+Coil,33,53
+consensus disorder prediction,196,216
+consensus disorder prediction,197,216
+#A0A060HRH3
+consensus disorder prediction,1,17
+consensus disorder prediction,1,31
+#A0A060HNV8
+Coil,40,64
+consensus disorder prediction,1,22
+consensus disorder prediction,1,35
+#A0A060HRY9
+consensus disorder prediction,184,205
+#I0A072
+Winged helix DNA-binding domain superfamily,267,314
+Winged helix-like DNA-binding domain superfamily,259,314
+#H9ZZG7
+Coil,41,75
+consensus disorder prediction,199,222
+#I0A2N3
+Coil,156,176
+Coil,11,38
+#A0A0F8VCM7
+Coil,32,52
+Snf7 family,27,193
+Coil,188,208
+#A0A0F8W953
+Coil,190,215
+Snf7 family,35,182
+#A0A5C9EC31
+Coil,153,180
+consensus disorder prediction,202,235
+Snf7 family,53,210
+consensus disorder prediction,220,235
+Coil,49,87
+#A0A1Q9P869
+Coil,124,144
+Coil,24,58
+Snf7 family,25,176
+#A0A1Q9N7Y8
+Coil,32,52
+consensus disorder prediction,176,203
+Snf7 family,22,187
+#A0A523XLA6
+Coil,38,58
+consensus disorder prediction,203,221
+consensus disorder prediction,167,221
+#A0A523TB66
+Coil,27,54
+Snf7 family,23,177
+#A0A523X658
+Snf7 family,22,182
+Coil,20,50
+#A0A523X670
+Snf7 family,19,182
+consensus disorder prediction,170,202
+G3DSA:1.10.287.1060,11,90
+Coil,18,45
+consensus disorder prediction,170,195
+Coil,199,217
+#A0A5B9DFP8
+Coil,27,54
+Snf7 family,26,194
+#A0A5B9DGK4
+consensus disorder prediction,180,199
+Snf7 family,33,195
+Coil,195,215
+#A0A5B9DB92
+consensus disorder prediction,183,202
+Snf7 family,20,181
+Coil,73,93
+Coil,119,139
+consensus disorder prediction,171,202
+#Q9H444
+Coil,26,46
+consensus disorder prediction,1,23
+consensus disorder prediction,185,224
+Coil,161,181
+Coil,89,109
+G3DSA:1.10.287.1060,19,97
+Snf7 family,24,198
+Coil,128,148
+#Q9Y3E7
+Coil,34,54
+Coil,144,171
+Snf7 family,18,187
+Coil,196,216
+consensus disorder prediction,180,222
+#P39929
+Coil,70,90
+G3DSA:1.10.287.1060,16,95
+Coil,207,237
+consensus disorder prediction,216,230
+consensus disorder prediction,193,210
+Snf7 family,22,206
+Coil,160,180
+consensus disorder prediction,193,240
+#P36095
+Coil,31,51
+Snf7 family,22,189

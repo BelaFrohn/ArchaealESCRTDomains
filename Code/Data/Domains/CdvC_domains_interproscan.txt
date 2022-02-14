@@ -1,0 +1,502 @@
+#Q9HJ01
+AAA ATPase; AAA+ lid domain,303,350
+P-loop containing nucleoside triphosphate hydrolase,107,372
+AAA+ ATPase domain,145,283
+ATPase; AAA-type; core,149,280
+G3DSA:3.40.50.300,107,372
+MIT domain superfamily,10,60
+cd00009,146,281
+G3DSA:1.10.8.60,282,357
+#S0ATL8
+ATPase; AAA-type; conserved site,240,258
+G3DSA:1.10.8.60,271,346
+ATPase; AAA-type; core,138,269
+AAA ATPase; AAA+ lid domain,293,339
+G3DSA:3.40.50.300,96,361
+AAA+ ATPase domain,134,272
+cd00009,136,270
+P-loop containing nucleoside triphosphate hydrolase,96,359
+#O59026
+Vps4 oligomerisation; C-terminal,320,362
+P-loop containing nucleoside triphosphate hydrolase,90,361
+cd00009,96,252
+AAA+ ATPase domain,120,254
+ATPase; AAA-type; core,124,252
+G3DSA:1.10.8.60,253,342
+G3DSA:3.40.50.300,87,359
+#Q5JE76
+ATPase; AAA-type; core,126,255
+ATPase; AAA-type; conserved site,228,247
+G3DSA:3.40.50.300,87,362
+G3DSA:1.10.8.60,257,346
+cd00009,119,256
+Vps4 oligomerisation; C-terminal,326,366
+P-loop containing nucleoside triphosphate hydrolase,90,365
+AAA+ ATPase domain,122,258
+#C5A5F6
+Vps4 oligomerisation; C-terminal,338,380
+Coil,50,70
+G3DSA:1.10.8.60,268,360
+ATPase; AAA-type; conserved site,239,258
+consensus disorder prediction,64,85
+ATPase; AAA-type; core,138,267
+P-loop containing nucleoside triphosphate hydrolase,102,379
+cd00009,119,267
+G3DSA:3.40.50.300,100,376
+AAA+ ATPase domain,134,269
+#C5A5G2
+cd09867,15,51
+G3DSA:1.10.8.60,287,379
+P-loop containing nucleoside triphosphate hydrolase,118,398
+cd00009,139,286
+ATPase; AAA-type; core,155,286
+ATPase; AAA-type; conserved site,258,277
+consensus disorder prediction,78,101
+AAA+ ATPase domain,151,288
+G3DSA:3.40.50.300,116,395
+Vps4 oligomerisation; C-terminal,357,399
+#A0A0S1XCS9
+G3DSA:1.10.8.60,281,373
+cd00009,133,280
+ATPase; AAA-type; core,149,280
+ATPase; AAA-type; conserved site,252,271
+AAA+ ATPase domain,145,282
+Vps4 oligomerisation; C-terminal,350,393
+G3DSA:3.40.50.300,110,389
+P-loop containing nucleoside triphosphate hydrolase,112,392
+#I3ZW29
+consensus disorder prediction,64,84
+Coil,50,70
+cd00009,121,266
+G3DSA:3.40.50.300,99,375
+ATPase; AAA-type; core,137,266
+G3DSA:1.10.8.60,267,359
+P-loop containing nucleoside triphosphate hydrolase,101,378
+AAA+ ATPase domain,133,268
+Vps4 oligomerisation; C-terminal,342,379
+#C9RH07
+cd00009,141,288
+Vps4 oligomerisation; C-terminal,356,400
+P-loop containing nucleoside triphosphate hydrolase,120,399
+ATPase; AAA-type; core,157,288
+G3DSA:1.10.8.60,289,380
+ATPase; AAA-type; conserved site,260,279
+AAA+ ATPase domain,153,290
+G3DSA:3.40.50.300,118,396
+#D5VRF1
+G3DSA:1.10.8.60,285,376
+Coil,13,40
+cd00009,137,284
+Vps4 oligomerisation; C-terminal,351,396
+ATPase; AAA-type; core,153,284
+G3DSA:3.40.50.300,114,392
+ATPase; AAA-type; conserved site,256,275
+P-loop containing nucleoside triphosphate hydrolase,116,395
+AAA+ ATPase domain,149,286
+#Q9YDF3
+ATPase; AAA-type; core,148,282
+Coil,54,74
+G3DSA:1.20.58.280,1,74
+AAA ATPase; AAA+ lid domain,304,357
+G3DSA:3.40.50.300,108,378
+cd02682,6,80
+P-loop containing nucleoside triphosphate hydrolase,109,380
+AAA+ ATPase domain,144,284
+MIT domain superfamily,10,73
+G3DSA:1.10.8.60,283,362
+MIT,4,79
+cd00009,117,282
+#A8AB71
+AAA ATPase; AAA+ lid domain,286,337
+cd00009,100,265
+P-loop containing nucleoside triphosphate hydrolase,92,363
+AAA+ ATPase domain,127,267
+G3DSA:3.40.50.300,91,359
+Coil,51,71
+ATPase; AAA-type; conserved site,237,256
+MIT domain superfamily,8,78
+G3DSA:1.20.58.280,1,72
+G3DSA:1.10.8.60,266,344
+ATPase; AAA-type; core,131,264
+#A0A0V8RVR9
+G3DSA:1.10.8.60,270,349
+AAA+ ATPase domain,131,271
+MIT,5,83
+cd00009,104,269
+G3DSA:1.20.58.280,1,75
+P-loop containing nucleoside triphosphate hydrolase,96,368
+ATPase; AAA-type; core,135,268
+AAA ATPase; AAA+ lid domain,291,343
+MIT,15,74
+G3DSA:3.40.50.300,95,365
+MIT domain superfamily,12,75
+#A2BKZ1
+MIT domain superfamily,12,75
+cd00009,104,269
+AAA ATPase; AAA+ lid domain,291,343
+G3DSA:3.40.50.300,89,268
+G3DSA:1.10.8.60,270,369
+MIT,14,74
+G3DSA:1.20.58.280,1,75
+ATPase; AAA-type; core,135,268
+P-loop containing nucleoside triphosphate hydrolase,96,368
+Coil,55,75
+AAA+ ATPase domain,131,271
+MIT,6,77
+cd17706,308,369
+#I3XQE5
+ATPase; AAA-type; core,150,284
+AAA+ ATPase domain,146,287
+Vps4 oligomerisation; C-terminal,355,392
+cd00009,119,285
+P-loop containing nucleoside triphosphate hydrolase,112,390
+G3DSA:1.10.8.60,286,372
+MIT domain superfamily,12,84
+MIT,15,78
+AAA ATPase; AAA+ lid domain,310,342
+G3DSA:3.40.50.300,110,389
+G3DSA:1.20.58.280,8,88
+MIT,10,87
+#A3DP09
+MIT,7,71
+AAA ATPase; AAA+ lid domain,301,352
+ATPase; AAA-type; core,140,274
+G3DSA:1.10.8.60,276,357
+cd00009,109,275
+G3DSA:1.20.58.280,1,81
+AAA+ ATPase domain,136,277
+P-loop containing nucleoside triphosphate hydrolase,102,376
+MIT domain superfamily,3,76
+G3DSA:3.40.50.300,102,373
+MIT,3,79
+#Q97ZJ7
+G3DSA:1.20.58.280,1,83
+ATPase; AAA-type; core,137,272
+MIT domain superfamily,7,75
+cd00009,106,272
+AAA+ ATPase domain,133,274
+AAA ATPase; AAA+ lid domain,295,345
+MIT,10,73
+G3DSA:1.10.8.60,273,372
+G3DSA:3.40.50.300,91,272
+cd02682,6,80
+ATPase; AAA-type; conserved site,244,263
+MIT,4,81
+P-loop containing nucleoside triphosphate hydrolase,98,369
+#Q972B3
+Coil,54,74
+MIT,4,79
+G3DSA:1.20.58.280,1,82
+G3DSA:3.40.50.300,88,270
+ATPase; AAA-type; core,135,269
+P-loop containing nucleoside triphosphate hydrolase,96,366
+cd02682,6,80
+AAA+ ATPase domain,131,272
+cd00009,104,270
+AAA ATPase; AAA+ lid domain,291,342
+G3DSA:1.10.8.60,271,369
+MIT,11,73
+MIT domain superfamily,6,75
+#F2Z6D2
+Coil,54,74
+cd00009,109,275
+Coil,364,374
+G3DSA:1.10.8.60,276,374
+G3DSA:3.40.50.300,93,275
+MIT,11,73
+AAA ATPase; AAA+ lid domain,296,347
+P-loop containing nucleoside triphosphate hydrolase,101,371
+ATPase; AAA-type; core,140,274
+AAA+ ATPase domain,136,277
+MIT,4,81
+cd02682,6,80
+G3DSA:1.20.58.280,1,75
+MIT domain superfamily,7,85
+#A4YHC5
+P-loop containing nucleoside triphosphate hydrolase,95,366
+Coil,54,74
+ATPase; AAA-type; core,134,268
+G3DSA:1.10.8.60,270,369
+cd00009,103,269
+G3DSA:1.20.58.280,1,82
+AAA+ ATPase domain,130,271
+MIT,11,72
+G3DSA:3.40.50.300,87,269
+MIT domain superfamily,6,75
+MIT,4,82
+AAA ATPase; AAA+ lid domain,291,342
+#F0NEW2
+P-loop containing nucleoside triphosphate hydrolase,98,369
+G3DSA:1.10.8.60,273,372
+MIT,10,73
+MIT domain superfamily,7,75
+cd00009,106,272
+ATPase; AAA-type; conserved site,244,263
+ATPase; AAA-type; core,137,272
+G3DSA:3.40.50.300,91,272
+AAA ATPase; AAA+ lid domain,295,345
+cd02682,6,80
+MIT,4,81
+G3DSA:1.20.58.280,1,83
+AAA+ ATPase domain,133,274
+#A0A2U9IP32
+MIT domain superfamily,9,81
+AAA+ ATPase domain,132,273
+Coil,54,74
+G3DSA:1.10.8.60,272,371
+G3DSA:1.20.58.280,1,82
+cd00009,105,271
+MIT,11,72
+P-loop containing nucleoside triphosphate hydrolase,97,368
+Vps4 oligomerisation; C-terminal,324,368
+G3DSA:3.40.50.300,89,271
+MIT,4,81
+ATPase; AAA-type; core,136,270
+#A0A1W6K3Q3
+Coil,54,74
+MIT,11,72
+G3DSA:1.10.8.60,272,370
+cd00009,105,271
+ATPase; AAA-type; core,136,270
+Vps4 oligomerisation; C-terminal,323,367
+MIT,4,81
+AAA+ ATPase domain,132,273
+G3DSA:1.20.58.280,1,82
+P-loop containing nucleoside triphosphate hydrolase,97,367
+G3DSA:3.40.50.300,89,271
+MIT domain superfamily,9,81
+#F4B4B0
+G3DSA:1.10.8.60,267,365
+MIT,6,67
+Coil,49,69
+ATPase; AAA-type; core,131,266
+G3DSA:3.40.50.300,84,266
+cd02682,1,74
+P-loop containing nucleoside triphosphate hydrolase,92,362
+MIT domain superfamily,6,80
+G3DSA:1.20.58.280,1,76
+MIT,1,76
+AAA+ ATPase domain,127,268
+cd00009,100,266
+AAA ATPase; AAA+ lid domain,287,338
+#L0ABB7
+AAA+ ATPase domain,146,286
+Coil,27,50
+G3DSA:1.20.58.280,6,83
+P-loop containing nucleoside triphosphate hydrolase,111,383
+MIT domain superfamily,11,78
+ATPase; AAA-type; core,150,284
+G3DSA:1.10.8.60,285,364
+Coil,57,77
+AAA ATPase; AAA+ lid domain,307,342
+Vps4 oligomerisation; C-terminal,349,383
+G3DSA:3.40.50.300,110,380
+cd00009,119,284
+#D9Q220
+MIT domain superfamily,10,79
+cd00009,120,285
+Coil,6,26
+Coil,29,49
+G3DSA:3.40.50.300,111,379
+AAA ATPase; AAA+ lid domain,307,358
+G3DSA:1.20.58.280,1,75
+P-loop containing nucleoside triphosphate hydrolase,112,382
+ATPase; AAA-type; core,151,284
+G3DSA:1.10.8.60,286,363
+AAA+ ATPase domain,147,287
+#A9A4K6
+MIT,11,74
+MIT domain superfamily,3,76
+MIT,5,82
+P-loop containing nucleoside triphosphate hydrolase,113,394
+cd00009,121,287
+G3DSA:3.40.50.300,112,391
+ATPase; AAA-type; core,152,286
+Vps4 oligomerisation; C-terminal,352,394
+G3DSA:1.10.8.60,288,375
+G3DSA:1.20.58.280,1,75
+AAA+ ATPase domain,148,289
+#F3KJW3
+G3DSA:1.20.58.280,1,75
+G3DSA:3.40.50.300,112,391
+G3DSA:1.10.8.60,288,375
+MIT domain superfamily,5,74
+cd00009,121,287
+MIT,11,73
+ATPase; AAA-type; core,152,286
+consensus disorder prediction,74,103
+AAA+ ATPase domain,148,289
+Vps4 oligomerisation; C-terminal,358,394
+P-loop containing nucleoside triphosphate hydrolase,113,394
+MIT,5,82
+#K0IM19
+Coil,211,231
+MIT,5,82
+P-loop containing nucleoside triphosphate hydrolase,134,410
+AAA+ ATPase domain,169,310
+consensus disorder prediction,90,116
+G3DSA:3.40.50.300,133,407
+G3DSA:1.10.8.60,309,391
+cd00009,142,308
+ATPase; AAA-type; core,173,307
+consensus disorder prediction,76,116
+MIT domain superfamily,5,76
+G3DSA:1.20.58.280,1,74
+#A0A060HUR8
+MIT,5,83
+consensus disorder prediction,100,115
+G3DSA:1.20.58.280,1,74
+G3DSA:3.40.50.300,131,405
+P-loop containing nucleoside triphosphate hydrolase,132,408
+MIT domain superfamily,5,76
+consensus disorder prediction,76,115
+AAA+ ATPase domain,167,308
+ATPase; AAA-type; core,171,305
+cd00009,140,306
+G3DSA:1.10.8.60,307,389
+#I0A071
+G3DSA:3.40.50.300,100,369
+AAA ATPase; AAA+ lid domain,296,347
+Coil,53,80
+ATPase; AAA-type; conserved site,246,265
+G3DSA:1.10.8.60,275,354
+MIT,9,71
+P-loop containing nucleoside triphosphate hydrolase,101,373
+MIT domain superfamily,7,72
+AAA+ ATPase domain,136,276
+ATPase; AAA-type; core,140,273
+G3DSA:1.20.58.280,2,82
+cd00009,137,274
+MIT,3,81
+#A0A532TGJ5
+cd02656,7,76
+P-loop containing nucleoside triphosphate hydrolase,123,400
+MIT domain superfamily,7,79
+AAA+ ATPase domain,160,297
+consensus disorder prediction,89,105
+cd00009,131,295
+G3DSA:1.20.58.280,2,85
+ATPase; AAA-type; core,164,294
+MIT,5,83
+MIT,10,74
+consensus disorder prediction,77,107
+G3DSA:1.10.8.60,296,381
+AAA ATPase; AAA+ lid domain,320,365
+G3DSA:3.40.50.300,122,397
+#A0A5C9E2H7
+G3DSA:1.10.8.60,348,443
+CDC48; N-terminal subdomain,7,90
+P-loop containing nucleoside triphosphate hydrolase,448,705
+ATPase; AAA-type; conserved site,317,335
+G3DSA:2.40.40.20,2,90
+CDC48 domain 2-like superfamily,92,182
+CDC48; N-terminal subdomain,7,92
+cd00009,183,346
+G3DSA:3.10.330.10,92,163
+CDC48; domain 2,106,169
+ATPase; AAA-type; conserved site,591,609
+G3DSA:3.40.50.300,448,707
+AAA+ ATPase domain,486,623
+AAA+ ATPase domain,213,349
+ATPase; AAA-type; core,490,620
+ATPase; AAA-type; core,217,345
+cd00009,456,621
+AAA ATPase; AAA+ lid domain,643,689
+AAA ATPase; AAA+ lid domain,369,428
+G3DSA:3.40.50.300,171,347
+P-loop containing nucleoside triphosphate hydrolase,175,439
+AAA ATPase; CDC48 family,7,712
+CDC48; domain 2,106,168
+G3DSA:1.10.8.60,622,694
+Aspartate decarboxylase-like domain superfamily,3,89
+#A0A1Q9P861
+Coil,102,122
+cd00009,165,301
+P-loop containing nucleoside triphosphate hydrolase,129,398
+G3DSA:1.10.8.60,302,386
+G3DSA:3.40.50.300,128,402
+G3DSA:1.20.58.280,4,73
+ATPase; AAA-type; conserved site,273,292
+AAA+ ATPase domain,167,303
+AAA ATPase; AAA+ lid domain,324,366
+MIT domain superfamily,11,73
+ATPase; AAA-type; core,171,301
+#A0A1Q9N7Y7
+ATPase; AAA-type; conserved site,251,270
+Vps4 oligomerisation; C-terminal,346,381
+P-loop containing nucleoside triphosphate hydrolase,108,380
+MIT domain superfamily,4,76
+AAA ATPase; AAA+ lid domain,301,335
+MIT,5,82
+G3DSA:1.20.58.280,2,82
+AAA+ ATPase domain,145,281
+MIT,10,73
+G3DSA:1.10.8.60,280,362
+G3DSA:3.40.50.300,107,378
+ATPase; AAA-type; core,149,279
+cd00009,116,279
+#A0A1Q9PC87
+G3DSA:1.10.8.60,277,359
+ATPase; AAA-type; core,147,276
+MIT domain superfamily,2,83
+P-loop containing nucleoside triphosphate hydrolase,106,378
+Vps4 oligomerisation; C-terminal,337,379
+MIT,3,81
+cd02656,6,78
+MIT,7,72
+ATPase; AAA-type; conserved site,248,267
+G3DSA:3.40.50.300,105,376
+AAA ATPase; AAA+ lid domain,298,330
+G3DSA:1.20.58.280,5,76
+cd00009,114,261
+AAA+ ATPase domain,143,278
+#A0A5B9DFR2
+ATPase; AAA-type; conserved site,273,292
+cd00009,164,301
+AAA+ ATPase domain,166,303
+G3DSA:1.10.8.60,302,386
+ATPase; AAA-type; core,170,300
+consensus disorder prediction,76,115
+MIT,10,72
+G3DSA:1.20.58.280,1,84
+G3DSA:3.40.50.300,128,402
+MIT domain superfamily,3,78
+P-loop containing nucleoside triphosphate hydrolase,129,405
+AAA ATPase; AAA+ lid domain,324,380
+#Q9UN37
+AAA+ ATPase domain,159,295
+G3DSA:3.40.50.300,122,426
+AAA ATPase; AAA+ lid domain,316,349
+ATPase; AAA-type; conserved site,265,284
+cd00009,130,293
+MIT,2,80
+G3DSA:1.10.8.60,295,417
+P-loop containing nucleoside triphosphate hydrolase,122,348
+consensus disorder prediction,75,106
+MIT,6,71
+cd02678,4,79
+Vps4 oligomerisation; C-terminal,374,434
+MIT domain superfamily,2,92
+ATPase; AAA-type; core,163,293
+Coil,15,35
+G3DSA:1.20.58.280,1,87
+#P52917
+G3DSA:3.40.50.300,128,425
+G3DSA:1.10.8.60,300,416
+consensus disorder prediction,418,437
+Vps4 oligomerisation; C-terminal,373,433
+Coil,57,84
+AAA+ ATPase domain,165,300
+MIT,3,80
+consensus disorder prediction,83,98
+cd00009,136,298
+ATPase; AAA-type; core,169,298
+G3DSA:1.20.58.280,1,89
+MIT,7,72
+consensus disorder prediction,99,113
+cd02678,5,79
+ATPase; AAA-type; conserved site,270,289
+P-loop containing nucleoside triphosphate hydrolase,128,427
+MIT domain superfamily,1,90
+consensus disorder prediction,74,114
+consensus disorder prediction,364,384

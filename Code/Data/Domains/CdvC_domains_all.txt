@@ -1,0 +1,4277 @@
+#Q9HJ01
+InterProScan,AAA ATPase; AAA+ lid domain,303,350
+InterProScan,P-loop containing nucleoside triphosphate hydrolase,107,372
+InterProScan,AAA+ ATPase domain,145,283
+InterProScan,ATPase; AAA-type; core,149,280
+InterProScan,G3DSA:3.40.50.300,107,372
+InterProScan,MIT domain superfamily,10,60
+InterProScan,cd00009,146,281
+InterProScan,G3DSA:1.10.8.60,282,357
+CDD,SpoVK,1,372
+CDD,SpoVK superfamily,1,372
+CDD,CDC48,105,373
+CDD,CDC48 superfamily,105,373
+CDD,RPT1,105,337
+CDD,RPT1 superfamily,105,337
+CDD,PRK03992,100,354
+CDD,PRK03992 superfamily,100,354
+CDD,26Sp45,100,358
+CDD,26Sp45 superfamily,100,358
+CDD,CDC48,102,360
+CDD,AAA,149,280
+CDD,AAA superfamily,149,280
+CDD,FtsH_fam,107,328
+CDD,FtsH_fam superfamily,107,328
+CDD,PTZ00454,101,345
+CDD,PTZ00454 superfamily,101,345
+CDD,PTZ00361,107,328
+CDD,PTZ00361 superfamily,107,328
+CDD,hflB,108,329
+CDD,hflB superfamily,108,329
+CDD,HflB,101,357
+CDD,HflB superfamily,101,357
+CDD,ftsH,109,321
+CDD,ftsH superfamily,109,321
+CDD,pup_AAA,97,291
+CDD,pup_AAA superfamily,97,291
+CDD,COG1223,77,360
+CDD,COG1223 superfamily,77,360
+CDD,SpoVK,130,349
+CDD,ycf46,107,359
+CDD,ycf46 superfamily,107,359
+CDD,AAA,146,281
+CDD,P-loop_NTPase superfamily,146,281
+CDD,AAA,146,283
+CDD,AAA superfamily,146,283
+CDD,MoxR,146,283
+CDD,MoxR superfamily,146,283
+CDD,T7SS_EccA,26,286
+CDD,T7SS_EccA superfamily,26,286
+CDD,PRK13342,149,219
+CDD,PRK13342 superfamily,149,219
+CDD,PRK08116,75,204
+CDD,RarA,149,219
+CDD,RarA superfamily,149,219
+CDD,PRK08939,56,177
+CDD,PRK08939 superfamily,56,177
+CDD,AAA_5,148,273
+CDD,AAA_5 superfamily,148,273
+CDD,PRK04195,150,290
+CDD,PRK04195 superfamily,150,290
+CDD,PRK13341,147,219
+CDD,PRK13341 superfamily,147,219
+CDD,DnaC,132,214
+CDD,RuvB,87,219
+CDD,RuvB superfamily,87,219
+CDD,clpX,60,237
+CDD,clpX superfamily,60,237
+CDD,AAA_16,146,254
+CDD,AAA_16 superfamily,146,254
+CDD,ruvB,149,219
+CDD,ruvB superfamily,149,219
+CDD,AAA_22,147,220
+CDD,AAA_22 superfamily,147,220
+CDD,44,149,181
+CDD,44 superfamily,149,181
+CDD,Lon,112,175
+CDD,Lon superfamily,112,175
+CDD,rfc,97,231
+CDD,rfc superfamily,97,231
+CDD,DEXXQc_Helz-like,149,167
+CDD,DEAD-like_helicase_N superfamily,149,167
+CDD,COG1373,150,217
+CDD,COG1373 superfamily,150,217
+CDD,CDC6,149,221
+CDD,CDC6 superfamily,149,221
+CDD,ruvB,149,219
+CDD,ruvB superfamily,149,219
+CDD,RuvB_N,149,214
+CDD,RuvB_N superfamily,149,214
+CDD,DnaA,150,223
+CDD,DnaA superfamily,150,223
+CDD,RNA_helicase,150,184
+CDD,AAA_2,150,215
+CDD,AAA_2 superfamily,150,215
+#S0ATL8
+InterProScan,ATPase; AAA-type; conserved site,240,258
+InterProScan,G3DSA:1.10.8.60,271,346
+InterProScan,ATPase; AAA-type; core,138,269
+InterProScan,AAA ATPase; AAA+ lid domain,293,339
+InterProScan,G3DSA:3.40.50.300,96,361
+InterProScan,AAA+ ATPase domain,134,272
+InterProScan,cd00009,136,270
+InterProScan,P-loop containing nucleoside triphosphate hydrolase,96,359
+CDD,SpoVK,24,351
+CDD,SpoVK superfamily,24,351
+CDD,CDC48,66,359
+CDD,CDC48 superfamily,66,359
+CDD,RPT1,89,346
+CDD,RPT1 superfamily,89,346
+CDD,CDC48,90,349
+CDD,PRK03992,94,347
+CDD,PRK03992 superfamily,94,347
+CDD,26Sp45,90,346
+CDD,26Sp45 superfamily,90,346
+CDD,AAA,138,269
+CDD,AAA superfamily,138,269
+CDD,PTZ00454,94,317
+CDD,PTZ00454 superfamily,94,317
+CDD,PTZ00361,96,317
+CDD,PTZ00361 superfamily,96,317
+CDD,FtsH_fam,96,317
+CDD,FtsH_fam superfamily,96,317
+CDD,pup_AAA,94,280
+CDD,pup_AAA superfamily,94,280
+CDD,SpoVK,119,353
+CDD,ftsH,98,310
+CDD,ftsH superfamily,98,310
+CDD,hflB,97,317
+CDD,hflB superfamily,97,317
+CDD,COG1223,90,349
+CDD,COG1223 superfamily,90,349
+CDD,HflB,93,346
+CDD,HflB superfamily,93,346
+CDD,ycf46,96,348
+CDD,ycf46 superfamily,96,348
+CDD,AAA,136,270
+CDD,P-loop_NTPase superfamily,136,270
+CDD,AAA,136,272
+CDD,AAA superfamily,136,272
+CDD,T7SS_EccA,138,318
+CDD,T7SS_EccA superfamily,138,318
+CDD,MoxR,139,301
+CDD,MoxR superfamily,139,301
+CDD,PRK13342,138,203
+CDD,PRK13342 superfamily,138,203
+CDD,RarA,138,346
+CDD,RarA superfamily,138,346
+CDD,AAA_5,137,262
+CDD,AAA_5 superfamily,137,262
+CDD,DnaC,49,203
+CDD,PRK13341,136,286
+CDD,PRK13341 superfamily,136,286
+CDD,PRK08116,119,166
+CDD,AAA_16,136,243
+CDD,AAA_16 superfamily,136,243
+CDD,PRK08939,71,161
+CDD,PRK08939 superfamily,71,161
+CDD,ruvB,138,203
+CDD,ruvB superfamily,138,203
+CDD,RuvB,138,208
+CDD,RuvB superfamily,138,208
+CDD,ruvB,138,208
+CDD,ruvB superfamily,138,208
+CDD,PRK04195,139,169
+CDD,PRK04195 superfamily,139,169
+CDD,DnaA,139,345
+CDD,DnaA superfamily,139,345
+CDD,ClpA,139,299
+CDD,ClpA superfamily,139,299
+CDD,ClpA,139,218
+CDD,ClpA superfamily,139,218
+CDD,PRK11361,138,299
+CDD,PRK11361 superfamily,138,299
+CDD,PspF,138,270
+CDD,PspF superfamily,138,270
+CDD,PRK12402,138,174
+CDD,PRK12402 superfamily,138,174
+CDD,AAA_2,139,247
+CDD,AAA_2 superfamily,139,247
+CDD,AAA_3,138,249
+CDD,AAA_3 superfamily,138,249
+CDD,RuvB_N,138,163
+CDD,RuvB_N superfamily,138,163
+CDD,44,138,169
+CDD,44 superfamily,138,169
+CDD,DEXXQc_Helz-like,138,156
+CDD,DEAD-like_helicase_N superfamily,138,156
+CDD,clpX,92,226
+CDD,clpX superfamily,92,226
+CDD,spore_lon_C,3,171
+CDD,spore_lon_C superfamily,3,171
+CDD,clpA,139,279
+CDD,clpA superfamily,139,279
+CDD,EcfA2,131,241
+CDD,EcfA2 superfamily,131,241
+#O59026
+InterProScan,Vps4 oligomerisation; C-terminal,320,362
+InterProScan,P-loop containing nucleoside triphosphate hydrolase,90,361
+InterProScan,cd00009,96,252
+InterProScan,AAA+ ATPase domain,120,254
+InterProScan,ATPase; AAA-type; core,124,252
+InterProScan,G3DSA:1.10.8.60,253,342
+InterProScan,G3DSA:3.40.50.300,87,359
+CDD,SpoVK,1,359
+CDD,SpoVK superfamily,1,359
+CDD,RPT1,84,342
+CDD,RPT1 superfamily,84,342
+CDD,PRK03992,84,344
+CDD,PRK03992 superfamily,84,344
+CDD,CDC48,82,362
+CDD,CDC48 superfamily,82,362
+CDD,26Sp45,84,343
+CDD,26Sp45 superfamily,84,343
+CDD,AAA,124,252
+CDD,AAA superfamily,124,252
+CDD,CDC48,90,343
+CDD,PTZ00454,87,254
+CDD,PTZ00454 superfamily,87,254
+CDD,FtsH_fam,80,301
+CDD,FtsH_fam superfamily,80,301
+CDD,PTZ00361,86,265
+CDD,PTZ00361 superfamily,86,265
+CDD,pup_AAA,90,266
+CDD,pup_AAA superfamily,90,266
+CDD,COG1223,87,306
+CDD,COG1223 superfamily,87,306
+CDD,ftsH,87,313
+CDD,ftsH superfamily,87,313
+CDD,hflB,70,301
+CDD,hflB superfamily,70,301
+CDD,HflB,87,326
+CDD,HflB superfamily,87,326
+CDD,SpoVK,118,342
+CDD,AAA,96,252
+CDD,P-loop_NTPase superfamily,96,252
+CDD,AAA,120,254
+CDD,AAA superfamily,120,254
+CDD,ycf46,90,296
+CDD,ycf46 superfamily,90,296
+CDD,Vps4_C,320,362
+CDD,Vps4_C superfamily,320,362
+CDD,T7SS_EccA,97,288
+CDD,T7SS_EccA superfamily,97,288
+CDD,DnaC,35,244
+CDD,PRK04195,120,247
+CDD,PRK04195 superfamily,120,247
+CDD,ruvB,124,192
+CDD,ruvB superfamily,124,192
+CDD,MoxR,124,313
+CDD,MoxR superfamily,124,313
+CDD,RuvB,91,189
+CDD,RuvB superfamily,91,189
+CDD,ABC_ATPase,124,250
+CDD,ABC_ATPase superfamily,124,250
+CDD,PRK13342,124,189
+CDD,PRK13342 superfamily,124,189
+CDD,IstB_IS21,100,244
+CDD,RarA,126,189
+CDD,RarA superfamily,126,189
+CDD,clpX,48,195
+CDD,clpX superfamily,48,195
+CDD,clpX,97,195
+CDD,clpX superfamily,97,195
+CDD,PRK08116,123,145
+CDD,PRK12422,124,256
+CDD,PRK12422 superfamily,124,256
+CDD,ClpX,97,195
+CDD,ClpX superfamily,97,195
+CDD,AAA_2,124,190
+CDD,AAA_2 superfamily,124,190
+CDD,PRK13341,125,189
+CDD,PRK13341 superfamily,125,189
+CDD,ruvB,114,192
+CDD,ruvB superfamily,114,192
+CDD,AAA_16,121,250
+CDD,AAA_16 superfamily,121,250
+CDD,PRK08181,106,203
+CDD,AAA_5,123,244
+CDD,AAA_5 superfamily,123,244
+CDD,AAA_3,124,158
+CDD,AAA_3 superfamily,124,158
+CDD,AAA_22,124,212
+CDD,AAA_22 superfamily,124,212
+CDD,DnaA,106,244
+CDD,DnaA superfamily,106,244
+CDD,TIP49,123,167
+CDD,TIP49 superfamily,123,167
+CDD,spore_V_K,97,325
+CDD,spore_V_K superfamily,97,325
+#Q5JE76
+InterProScan,ATPase; AAA-type; core,126,255
+InterProScan,ATPase; AAA-type; conserved site,228,247
+InterProScan,G3DSA:3.40.50.300,87,362
+InterProScan,G3DSA:1.10.8.60,257,346
+InterProScan,cd00009,119,256
+InterProScan,Vps4 oligomerisation; C-terminal,326,366
+InterProScan,P-loop containing nucleoside triphosphate hydrolase,90,365
+InterProScan,AAA+ ATPase domain,122,258
+CDD,SpoVK,90,363
+CDD,SpoVK superfamily,90,363
+CDD,CDC48,85,366
+CDD,CDC48 superfamily,85,366
+CDD,RPT1,90,320
+CDD,RPT1 superfamily,90,320
+CDD,PRK03992,84,303
+CDD,PRK03992 superfamily,84,303
+CDD,AAA,126,256
+CDD,AAA superfamily,126,256
+CDD,26Sp45,84,296
+CDD,26Sp45 superfamily,84,296
+CDD,COG1223,86,296
+CDD,COG1223 superfamily,86,296
+CDD,CDC48,89,357
+CDD,FtsH_fam,89,299
+CDD,FtsH_fam superfamily,89,299
+CDD,ftsH,90,300
+CDD,ftsH superfamily,90,300
+CDD,PTZ00361,79,271
+CDD,PTZ00361 superfamily,79,271
+CDD,hflB,89,303
+CDD,hflB superfamily,89,303
+CDD,PTZ00454,78,258
+CDD,PTZ00454 superfamily,78,258
+CDD,HflB,89,310
+CDD,HflB superfamily,89,310
+CDD,pup_AAA,90,270
+CDD,pup_AAA superfamily,90,270
+CDD,SpoVK,120,346
+CDD,AAA,119,256
+CDD,P-loop_NTPase superfamily,119,256
+CDD,AAA,122,258
+CDD,AAA superfamily,122,258
+CDD,ycf46,124,274
+CDD,ycf46 superfamily,124,274
+CDD,MoxR,126,289
+CDD,MoxR superfamily,126,289
+CDD,PRK13342,126,190
+CDD,PRK13342 superfamily,126,190
+CDD,clpX,61,197
+CDD,clpX superfamily,61,197
+CDD,Vps4_C,326,366
+CDD,Vps4_C superfamily,326,366
+CDD,PRK08116,119,147
+CDD,ClpX,100,197
+CDD,ClpX superfamily,100,197
+CDD,AAA_2,126,229
+CDD,AAA_2 superfamily,126,229
+CDD,T7SS_EccA,126,267
+CDD,T7SS_EccA superfamily,126,267
+CDD,RNA_helicase,126,193
+CDD,RuvB,126,196
+CDD,RuvB superfamily,126,196
+CDD,TIP49,124,169
+CDD,TIP49 superfamily,124,169
+CDD,TIP49,124,169
+CDD,TIP49 superfamily,124,169
+CDD,RarA,128,190
+CDD,RarA superfamily,128,190
+CDD,PRK04195,119,194
+CDD,PRK04195 superfamily,119,194
+CDD,ruvB,126,195
+CDD,ruvB superfamily,126,195
+CDD,AAA_3,126,151
+CDD,AAA_3 superfamily,126,151
+CDD,Mg_chelatase,126,147
+CDD,AAA_22,126,214
+CDD,AAA_22 superfamily,126,214
+CDD,ruvB,126,190
+CDD,ruvB superfamily,126,190
+CDD,Mcm2,126,276
+CDD,Mcm2 superfamily,126,276
+CDD,DnaC,100,196
+#C5A5F6
+InterProScan,Vps4 oligomerisation; C-terminal,338,380
+InterProScan,Coil,50,70
+InterProScan,G3DSA:1.10.8.60,268,360
+InterProScan,ATPase; AAA-type; conserved site,239,258
+InterProScan,consensus disorder prediction,64,85
+InterProScan,ATPase; AAA-type; core,138,267
+InterProScan,P-loop containing nucleoside triphosphate hydrolase,102,379
+InterProScan,cd00009,119,267
+InterProScan,G3DSA:3.40.50.300,100,376
+InterProScan,AAA+ ATPase domain,134,269
+CDD,SpoVK,6,377
+CDD,SpoVK superfamily,6,377
+CDD,PRK03992,85,370
+CDD,PRK03992 superfamily,85,370
+CDD,CDC48,94,380
+CDD,CDC48 superfamily,94,380
+CDD,RPT1,85,367
+CDD,RPT1 superfamily,85,367
+CDD,26Sp45,85,315
+CDD,26Sp45 superfamily,85,315
+CDD,AAA,138,267
+CDD,AAA superfamily,138,267
+CDD,CDC48,102,367
+CDD,FtsH_fam,101,334
+CDD,FtsH_fam superfamily,101,334
+CDD,PTZ00361,103,315
+CDD,PTZ00361 superfamily,103,315
+CDD,ftsH,102,311
+CDD,ftsH superfamily,102,311
+CDD,COG1223,100,308
+CDD,COG1223 superfamily,100,308
+CDD,PTZ00454,102,315
+CDD,PTZ00454 superfamily,102,315
+CDD,hflB,78,315
+CDD,hflB superfamily,78,315
+CDD,pup_AAA,90,280
+CDD,pup_AAA superfamily,90,280
+CDD,HflB,102,318
+CDD,HflB superfamily,102,318
+CDD,SpoVK,131,355
+CDD,AAA,119,267
+CDD,P-loop_NTPase superfamily,119,267
+CDD,AAA,134,269
+CDD,AAA superfamily,134,269
+CDD,MoxR,136,301
+CDD,MoxR superfamily,136,301
+CDD,ycf46,99,318
+CDD,ycf46 superfamily,99,318
+CDD,Vps4_C,342,380
+CDD,Vps4_C superfamily,342,380
+CDD,PRK12422,116,338
+CDD,PRK12422 superfamily,116,338
+CDD,RarA,140,333
+CDD,RarA superfamily,140,333
+CDD,PRK13342,138,302
+CDD,PRK13342 superfamily,138,302
+CDD,clpX,138,213
+CDD,clpX superfamily,138,213
+CDD,PRK04195,103,207
+CDD,PRK04195 superfamily,103,207
+CDD,clpX,138,213
+CDD,clpX superfamily,138,213
+CDD,ClpX,138,213
+CDD,ClpX superfamily,138,213
+CDD,AAA_5,137,259
+CDD,AAA_5 superfamily,137,259
+CDD,DnaA,117,308
+CDD,DnaA superfamily,117,308
+CDD,T7SS_EccA,109,304
+CDD,T7SS_EccA superfamily,109,304
+CDD,RuvB,103,207
+CDD,RuvB superfamily,103,207
+CDD,spore_V_K,109,336
+CDD,spore_V_K superfamily,109,336
+CDD,ruvB,138,207
+CDD,ruvB superfamily,138,207
+CDD,ruvB,138,207
+CDD,ruvB superfamily,138,207
+CDD,PRK08116,120,159
+CDD,TIP49,136,181
+CDD,TIP49 superfamily,136,181
+CDD,TIP49,136,181
+CDD,TIP49 superfamily,136,181
+CDD,AAA_2,138,204
+CDD,AAA_2 superfamily,138,204
+CDD,PRK12402,139,332
+CDD,PRK12402 superfamily,139,332
+CDD,PRK13341,139,203
+CDD,PRK13341 superfamily,139,203
+CDD,Mg_chelatase,138,159
+#C5A5G2
+InterProScan,cd09867,15,51
+InterProScan,G3DSA:1.10.8.60,287,379
+InterProScan,P-loop containing nucleoside triphosphate hydrolase,118,398
+InterProScan,cd00009,139,286
+InterProScan,ATPase; AAA-type; core,155,286
+InterProScan,ATPase; AAA-type; conserved site,258,277
+InterProScan,consensus disorder prediction,78,101
+InterProScan,AAA+ ATPase domain,151,288
+InterProScan,G3DSA:3.40.50.300,116,395
+InterProScan,Vps4 oligomerisation; C-terminal,357,399
+CDD,SpoVK,111,396
+CDD,SpoVK superfamily,111,396
+CDD,CDC48,111,399
+CDD,CDC48 superfamily,111,399
+CDD,PRK03992,113,389
+CDD,PRK03992 superfamily,113,389
+CDD,RPT1,113,379
+CDD,RPT1 superfamily,113,379
+CDD,26Sp45,113,342
+CDD,26Sp45 superfamily,113,342
+CDD,AAA,155,286
+CDD,AAA superfamily,155,286
+CDD,CDC48,118,386
+CDD,PTZ00361,121,341
+CDD,PTZ00361 superfamily,121,341
+CDD,FtsH_fam,115,334
+CDD,FtsH_fam superfamily,115,334
+CDD,PTZ00454,116,392
+CDD,PTZ00454 superfamily,116,392
+CDD,COG1223,116,380
+CDD,COG1223 superfamily,116,380
+CDD,ftsH,115,334
+CDD,ftsH superfamily,115,334
+CDD,hflB,92,334
+CDD,hflB superfamily,92,334
+CDD,HflB,71,379
+CDD,HflB superfamily,71,379
+CDD,SpoVK,153,398
+CDD,pup_AAA,110,295
+CDD,pup_AAA superfamily,110,295
+CDD,AAA,139,286
+CDD,P-loop_NTPase superfamily,139,286
+CDD,AAA,151,288
+CDD,AAA superfamily,151,288
+CDD,MoxR,126,320
+CDD,MoxR superfamily,126,320
+CDD,ycf46,117,342
+CDD,ycf46 superfamily,117,342
+CDD,T7SS_EccA,126,301
+CDD,T7SS_EccA superfamily,126,301
+CDD,Vps4_C,362,399
+CDD,Vps4_C superfamily,362,399
+CDD,PRK13342,155,220
+CDD,PRK13342 superfamily,155,220
+CDD,AAA_5,154,278
+CDD,AAA_5 superfamily,154,278
+CDD,clpX,155,226
+CDD,clpX superfamily,155,226
+CDD,ClpX,155,226
+CDD,ClpX superfamily,155,226
+CDD,RarA,157,220
+CDD,RarA superfamily,157,220
+CDD,clpX,155,226
+CDD,clpX superfamily,155,226
+CDD,PRK13341,156,220
+CDD,PRK13341 superfamily,156,220
+CDD,RuvB,155,223
+CDD,RuvB superfamily,155,223
+CDD,PRK12422,132,286
+CDD,PRK12422 superfamily,132,286
+CDD,AAA_2,155,221
+CDD,AAA_2 superfamily,155,221
+CDD,Lon,41,181
+CDD,Lon superfamily,41,181
+CDD,PspF,155,399
+CDD,PspF superfamily,155,399
+CDD,lon,126,253
+CDD,lon superfamily,126,253
+CDD,ClpA,84,297
+CDD,ClpA superfamily,84,297
+CDD,ruvB,155,223
+CDD,ruvB superfamily,155,223
+CDD,YifB,122,176
+CDD,YifB superfamily,122,176
+CDD,AAA_3,155,180
+CDD,AAA_3 superfamily,155,180
+CDD,DEXXQc_Upf1-like,138,219
+CDD,DEAD-like_helicase_N superfamily,138,219
+CDD,Mg_chelatase,155,176
+CDD,TIP49,153,190
+CDD,TIP49 superfamily,153,190
+CDD,spore_V_K,126,335
+CDD,spore_V_K superfamily,126,335
+CDD,TIP49,153,190
+CDD,TIP49 superfamily,153,190
+CDD,PRK08116,154,188
+CDD,ruvB,155,223
+CDD,ruvB superfamily,155,223
+#A0A0S1XCS9
+InterProScan,G3DSA:1.10.8.60,281,373
+InterProScan,cd00009,133,280
+InterProScan,ATPase; AAA-type; core,149,280
+InterProScan,ATPase; AAA-type; conserved site,252,271
+InterProScan,AAA+ ATPase domain,145,282
+InterProScan,Vps4 oligomerisation; C-terminal,350,393
+InterProScan,G3DSA:3.40.50.300,110,389
+InterProScan,P-loop containing nucleoside triphosphate hydrolase,112,392
+CDD,SpoVK,8,390
+CDD,SpoVK superfamily,8,390
+CDD,PRK03992,101,383
+CDD,PRK03992 superfamily,101,383
+CDD,CDC48,107,393
+CDD,CDC48 superfamily,107,393
+CDD,RPT1,103,379
+CDD,RPT1 superfamily,103,379
+CDD,26Sp45,107,336
+CDD,26Sp45 superfamily,107,336
+CDD,AAA,149,280
+CDD,AAA superfamily,149,280
+CDD,CDC48,113,382
+CDD,PTZ00361,114,335
+CDD,PTZ00361 superfamily,114,335
+CDD,FtsH_fam,110,387
+CDD,FtsH_fam superfamily,110,387
+CDD,PTZ00454,110,357
+CDD,PTZ00454 superfamily,110,357
+CDD,COG1223,110,342
+CDD,COG1223 superfamily,110,342
+CDD,ftsH,110,329
+CDD,ftsH superfamily,110,329
+CDD,hflB,114,328
+CDD,hflB superfamily,114,328
+CDD,SpoVK,147,373
+CDD,pup_AAA,101,289
+CDD,pup_AAA superfamily,101,289
+CDD,HflB,110,373
+CDD,HflB superfamily,110,373
+CDD,AAA,133,280
+CDD,P-loop_NTPase superfamily,133,280
+CDD,AAA,145,282
+CDD,AAA superfamily,145,282
+CDD,ycf46,111,329
+CDD,ycf46 superfamily,111,329
+CDD,MoxR,149,316
+CDD,MoxR superfamily,149,316
+CDD,T7SS_EccA,149,375
+CDD,T7SS_EccA superfamily,149,375
+CDD,PRK13342,149,214
+CDD,PRK13342 superfamily,149,214
+CDD,Vps4_C,361,393
+CDD,Vps4_C superfamily,361,393
+CDD,clpX,149,223
+CDD,clpX superfamily,149,223
+CDD,AAA_5,148,272
+CDD,AAA_5 superfamily,148,272
+CDD,ClpX,134,223
+CDD,ClpX superfamily,134,223
+CDD,RarA,151,214
+CDD,RarA superfamily,151,214
+CDD,clpX,149,223
+CDD,clpX superfamily,149,223
+CDD,AAA_2,149,215
+CDD,AAA_2 superfamily,149,215
+CDD,RuvB,149,217
+CDD,RuvB superfamily,149,217
+CDD,PRK12422,145,280
+CDD,PRK12422 superfamily,145,280
+CDD,PRK13341,150,214
+CDD,PRK13341 superfamily,150,214
+CDD,ruvB,149,217
+CDD,ruvB superfamily,149,217
+CDD,spore_V_K,120,329
+CDD,spore_V_K superfamily,120,329
+CDD,Mg_chelatase,149,170
+CDD,ruvB,149,217
+CDD,ruvB superfamily,149,217
+CDD,PRK08116,148,224
+CDD,DEXXQc_Upf1-like,150,213
+CDD,DEAD-like_helicase_N superfamily,150,213
+CDD,AAA_22,149,218
+CDD,AAA_22 superfamily,149,218
+CDD,AAA_3,149,174
+CDD,AAA_3 superfamily,149,174
+CDD,CDC6,149,292
+CDD,CDC6 superfamily,149,292
+CDD,TIP49,147,192
+CDD,TIP49 superfamily,147,192
+#I3ZW29
+InterProScan,consensus disorder prediction,64,84
+InterProScan,Coil,50,70
+InterProScan,cd00009,121,266
+InterProScan,G3DSA:3.40.50.300,99,375
+InterProScan,ATPase; AAA-type; core,137,266
+InterProScan,G3DSA:1.10.8.60,267,359
+InterProScan,P-loop containing nucleoside triphosphate hydrolase,101,378
+InterProScan,AAA+ ATPase domain,133,268
+InterProScan,Vps4 oligomerisation; C-terminal,342,379
+CDD,SpoVK,10,376
+CDD,SpoVK superfamily,10,376
+CDD,PRK03992,84,373
+CDD,PRK03992 superfamily,84,373
+CDD,CDC48,93,379
+CDD,CDC48 superfamily,93,379
+CDD,RPT1,87,311
+CDD,RPT1 superfamily,87,311
+CDD,AAA,137,266
+CDD,AAA superfamily,137,266
+CDD,26Sp45,95,329
+CDD,26Sp45 superfamily,95,329
+CDD,CDC48,101,369
+CDD,FtsH_fam,100,314
+CDD,FtsH_fam superfamily,100,314
+CDD,COG1223,98,307
+CDD,COG1223 superfamily,98,307
+CDD,PTZ00361,102,314
+CDD,PTZ00361 superfamily,102,314
+CDD,ftsH,101,315
+CDD,ftsH superfamily,101,315
+CDD,PTZ00454,98,372
+CDD,PTZ00454 superfamily,98,372
+CDD,hflB,102,314
+CDD,hflB superfamily,102,314
+CDD,pup_AAA,89,324
+CDD,pup_AAA superfamily,89,324
+CDD,HflB,135,359
+CDD,HflB superfamily,135,359
+CDD,SpoVK,130,354
+CDD,AAA,121,266
+CDD,P-loop_NTPase superfamily,121,266
+CDD,AAA,133,268
+CDD,AAA superfamily,133,268
+CDD,ycf46,101,322
+CDD,ycf46 superfamily,101,322
+CDD,MoxR,135,300
+CDD,MoxR superfamily,135,300
+CDD,PRK12422,115,285
+CDD,PRK12422 superfamily,115,285
+CDD,Vps4_C,333,379
+CDD,Vps4_C superfamily,333,379
+CDD,AAA_5,136,258
+CDD,AAA_5 superfamily,136,258
+CDD,PRK13342,137,202
+CDD,PRK13342 superfamily,137,202
+CDD,RarA,139,326
+CDD,RarA superfamily,139,326
+CDD,AAA_2,137,203
+CDD,AAA_2 superfamily,137,203
+CDD,DnaA,116,301
+CDD,DnaA superfamily,116,301
+CDD,RuvB,102,206
+CDD,RuvB superfamily,102,206
+CDD,clpX,137,212
+CDD,clpX superfamily,137,212
+CDD,ruvB,102,206
+CDD,ruvB superfamily,102,206
+CDD,clpX,137,212
+CDD,clpX superfamily,137,212
+CDD,TIP49,135,180
+CDD,TIP49 superfamily,135,180
+CDD,ClpX,137,212
+CDD,ClpX superfamily,137,212
+CDD,T7SS_EccA,108,209
+CDD,T7SS_EccA superfamily,108,209
+CDD,PRK04195,105,206
+CDD,PRK04195 superfamily,105,206
+CDD,Bac_DnaA,116,290
+CDD,TIP49,135,180
+CDD,TIP49 superfamily,135,180
+CDD,PRK13341,138,202
+CDD,PRK13341 superfamily,138,202
+CDD,spore_V_K,108,277
+CDD,spore_V_K superfamily,108,277
+CDD,ruvB,102,206
+CDD,ruvB superfamily,102,206
+CDD,AAA_22,137,208
+CDD,AAA_22 superfamily,137,208
+CDD,Mg_chelatase,103,158
+CDD,PRK08116,119,158
+CDD,CDC6,137,277
+CDD,CDC6 superfamily,137,277
+CDD,PLN03140,117,158
+CDD,PLN03140 superfamily,117,158
+#C9RH07
+InterProScan,cd00009,141,288
+InterProScan,Vps4 oligomerisation; C-terminal,356,400
+InterProScan,P-loop containing nucleoside triphosphate hydrolase,120,399
+InterProScan,ATPase; AAA-type; core,157,288
+InterProScan,G3DSA:1.10.8.60,289,380
+InterProScan,ATPase; AAA-type; conserved site,260,279
+InterProScan,AAA+ ATPase domain,153,290
+InterProScan,G3DSA:3.40.50.300,118,396
+CDD,SpoVK,98,397
+CDD,SpoVK superfamily,98,397
+CDD,CDC48,115,400
+CDD,CDC48 superfamily,115,400
+CDD,PRK03992,115,393
+CDD,PRK03992 superfamily,115,393
+CDD,RPT1,111,386
+CDD,RPT1 superfamily,111,386
+CDD,26Sp45,115,342
+CDD,26Sp45 superfamily,115,342
+CDD,AAA,157,288
+CDD,AAA superfamily,157,288
+CDD,CDC48,121,389
+CDD,FtsH_fam,118,394
+CDD,FtsH_fam superfamily,118,394
+CDD,PTZ00361,101,335
+CDD,PTZ00361 superfamily,101,335
+CDD,PTZ00454,117,380
+CDD,PTZ00454 superfamily,117,380
+CDD,COG1223,117,329
+CDD,COG1223 superfamily,117,329
+CDD,ftsH,96,336
+CDD,ftsH superfamily,96,336
+CDD,hflB,125,335
+CDD,hflB superfamily,125,335
+CDD,HflB,108,335
+CDD,HflB superfamily,108,335
+CDD,SpoVK,155,393
+CDD,pup_AAA,111,333
+CDD,pup_AAA superfamily,111,333
+CDD,AAA,141,288
+CDD,P-loop_NTPase superfamily,141,288
+CDD,AAA,153,290
+CDD,AAA superfamily,153,290
+CDD,MoxR,128,321
+CDD,MoxR superfamily,128,321
+CDD,ycf46,121,397
+CDD,ycf46 superfamily,121,397
+CDD,PRK13342,157,222
+CDD,PRK13342 superfamily,157,222
+CDD,ClpX,157,236
+CDD,ClpX superfamily,157,236
+CDD,clpX,157,236
+CDD,clpX superfamily,157,236
+CDD,clpX,157,241
+CDD,clpX superfamily,157,241
+CDD,T7SS_EccA,158,324
+CDD,T7SS_EccA superfamily,158,324
+CDD,RarA,159,222
+CDD,RarA superfamily,159,222
+CDD,AAA_5,156,280
+CDD,AAA_5 superfamily,156,280
+CDD,Vps4_C,362,400
+CDD,Vps4_C superfamily,362,400
+CDD,RuvB,120,225
+CDD,RuvB superfamily,120,225
+CDD,lon,128,226
+CDD,lon superfamily,128,226
+CDD,AAA_16,157,261
+CDD,AAA_16 superfamily,157,261
+CDD,DnaA,157,391
+CDD,DnaA superfamily,157,391
+CDD,PRK12422,153,316
+CDD,PRK12422 superfamily,153,316
+CDD,ruvB,122,225
+CDD,ruvB superfamily,122,225
+CDD,AAA_3,157,182
+CDD,AAA_3 superfamily,157,182
+CDD,ABC_ATPase,157,286
+CDD,ABC_ATPase superfamily,157,286
+CDD,TIP49,155,200
+CDD,TIP49 superfamily,155,200
+CDD,PspF,157,336
+CDD,PspF superfamily,157,336
+CDD,ruvB,120,225
+CDD,ruvB superfamily,120,225
+CDD,RuvB_N,120,222
+CDD,RuvB_N superfamily,120,222
+CDD,TIP49,155,200
+CDD,TIP49 superfamily,155,200
+CDD,PRK04195,120,235
+CDD,PRK04195 superfamily,120,235
+CDD,CDC6,157,321
+CDD,CDC6 superfamily,157,321
+CDD,Mg_chelatase,157,178
+#D5VRF1
+InterProScan,G3DSA:1.10.8.60,285,376
+InterProScan,Coil,13,40
+InterProScan,cd00009,137,284
+InterProScan,Vps4 oligomerisation; C-terminal,351,396
+InterProScan,ATPase; AAA-type; core,153,284
+InterProScan,G3DSA:3.40.50.300,114,392
+InterProScan,ATPase; AAA-type; conserved site,256,275
+InterProScan,P-loop containing nucleoside triphosphate hydrolase,116,395
+InterProScan,AAA+ ATPase domain,149,286
+CDD,SpoVK,92,393
+CDD,SpoVK superfamily,92,393
+CDD,CDC48,84,396
+CDD,CDC48 superfamily,84,396
+CDD,PRK03992,111,389
+CDD,PRK03992 superfamily,111,389
+CDD,RPT1,111,384
+CDD,RPT1 superfamily,111,384
+CDD,26Sp45,111,338
+CDD,26Sp45 superfamily,111,338
+CDD,AAA,153,284
+CDD,AAA superfamily,153,284
+CDD,CDC48,117,377
+CDD,FtsH_fam,104,331
+CDD,FtsH_fam superfamily,104,331
+CDD,COG1223,113,377
+CDD,COG1223 superfamily,113,377
+CDD,PTZ00361,97,331
+CDD,PTZ00361 superfamily,97,331
+CDD,PTZ00454,113,376
+CDD,PTZ00454 superfamily,113,376
+CDD,ftsH,114,332
+CDD,ftsH superfamily,114,332
+CDD,HflB,104,331
+CDD,HflB superfamily,104,331
+CDD,hflB,121,331
+CDD,hflB superfamily,121,331
+CDD,SpoVK,140,395
+CDD,pup_AAA,117,293
+CDD,pup_AAA superfamily,117,293
+CDD,AAA,137,284
+CDD,P-loop_NTPase superfamily,137,284
+CDD,AAA,149,286
+CDD,AAA superfamily,149,286
+CDD,MoxR,153,315
+CDD,MoxR superfamily,153,315
+CDD,ycf46,115,296
+CDD,ycf46 superfamily,115,296
+CDD,T7SS_EccA,153,320
+CDD,T7SS_EccA superfamily,153,320
+CDD,PRK13342,153,218
+CDD,PRK13342 superfamily,153,218
+CDD,AAA_5,152,276
+CDD,AAA_5 superfamily,152,276
+CDD,Vps4_C,353,396
+CDD,Vps4_C superfamily,353,396
+CDD,clpX,153,230
+CDD,clpX superfamily,153,230
+CDD,ClpX,153,224
+CDD,ClpX superfamily,153,224
+CDD,RarA,155,218
+CDD,RarA superfamily,155,218
+CDD,clpX,153,224
+CDD,clpX superfamily,153,224
+CDD,ruvB,153,221
+CDD,ruvB superfamily,153,221
+CDD,RuvB,153,221
+CDD,RuvB superfamily,153,221
+CDD,PRK12422,149,320
+CDD,PRK12422 superfamily,149,320
+CDD,PRK13341,154,218
+CDD,PRK13341 superfamily,154,218
+CDD,ruvB,118,221
+CDD,ruvB superfamily,118,221
+CDD,AAA_16,153,282
+CDD,AAA_16 superfamily,153,282
+CDD,AAA_2,153,219
+CDD,AAA_2 superfamily,153,219
+CDD,RuvB_N,118,218
+CDD,RuvB_N superfamily,118,218
+CDD,AAA_3,153,178
+CDD,AAA_3 superfamily,153,178
+CDD,TIP49,151,196
+CDD,TIP49 superfamily,151,196
+CDD,PRK04195,120,221
+CDD,PRK04195 superfamily,120,221
+CDD,DnaC,39,169
+CDD,lon,80,222
+CDD,lon superfamily,80,222
+CDD,TIP49,151,196
+CDD,TIP49 superfamily,151,196
+CDD,Mg_chelatase,153,174
+CDD,PRK10787,104,317
+CDD,PRK10787 superfamily,104,317
+#Q9YDF3
+InterProScan,ATPase; AAA-type; core,148,282
+InterProScan,Coil,54,74
+InterProScan,G3DSA:1.20.58.280,1,74
+InterProScan,AAA ATPase; AAA+ lid domain,304,357
+InterProScan,G3DSA:3.40.50.300,108,378
+InterProScan,cd02682,6,80
+InterProScan,P-loop containing nucleoside triphosphate hydrolase,109,380
+InterProScan,AAA+ ATPase domain,144,284
+InterProScan,MIT domain superfamily,10,73
+InterProScan,G3DSA:1.10.8.60,283,362
+InterProScan,MIT,4,79
+InterProScan,cd00009,117,282
+CDD,SpoVK,1,379
+CDD,SpoVK superfamily,1,379
+CDD,PRK03992,107,357
+CDD,PRK03992 superfamily,107,357
+CDD,CDC48,35,384
+CDD,CDC48 superfamily,35,384
+CDD,RPT1,107,357
+CDD,RPT1 superfamily,107,357
+CDD,CDC48,99,365
+CDD,26Sp45,103,355
+CDD,26Sp45 superfamily,103,355
+CDD,FtsH_fam,103,361
+CDD,FtsH_fam superfamily,103,361
+CDD,AAA,148,282
+CDD,AAA superfamily,148,282
+CDD,COG1223,76,371
+CDD,COG1223 superfamily,76,371
+CDD,PTZ00454,107,335
+CDD,PTZ00454 superfamily,107,335
+CDD,PTZ00361,109,336
+CDD,PTZ00361 superfamily,109,336
+CDD,ftsH,111,361
+CDD,ftsH superfamily,111,361
+CDD,hflB,90,382
+CDD,hflB superfamily,90,382
+CDD,HflB,102,357
+CDD,HflB superfamily,102,357
+CDD,pup_AAA,79,355
+CDD,pup_AAA superfamily,79,355
+CDD,MIT_AAA_Arch,6,80
+CDD,MIT superfamily,6,80
+CDD,SpoVK,145,365
+CDD,AAA,117,282
+CDD,P-loop_NTPase superfamily,117,282
+CDD,AAA,145,283
+CDD,AAA superfamily,145,283
+CDD,ycf46,109,329
+CDD,ycf46 superfamily,109,329
+CDD,PRK13342,112,221
+CDD,PRK13342 superfamily,112,221
+CDD,MIT,4,76
+CDD,PRK04195,102,233
+CDD,PRK04195 superfamily,102,233
+CDD,RarA,150,221
+CDD,RarA superfamily,150,221
+CDD,44,102,218
+CDD,44 superfamily,102,218
+CDD,MoxR,146,337
+CDD,MoxR superfamily,146,337
+CDD,PRK13341,149,221
+CDD,PRK13341 superfamily,149,221
+CDD,rfc,112,220
+CDD,rfc superfamily,112,220
+CDD,T7SS_EccA,7,358
+CDD,T7SS_EccA superfamily,7,358
+CDD,Vps4_C,347,381
+CDD,Vps4_C superfamily,347,381
+CDD,TIP49,146,342
+CDD,TIP49 superfamily,146,342
+CDD,AAA_22,148,220
+CDD,AAA_22 superfamily,148,220
+CDD,clpX,97,255
+CDD,clpX superfamily,97,255
+CDD,RNA_helicase,148,262
+CDD,DnaA,148,360
+CDD,DnaA superfamily,148,360
+CDD,ruvB,148,220
+CDD,ruvB superfamily,148,220
+CDD,clpC,146,287
+CDD,clpC superfamily,146,287
+CDD,PRK08116,146,168
+CDD,RuvB,148,220
+CDD,RuvB superfamily,148,220
+CDD,DnaC,145,217
+CDD,MIT,10,64
+CDD,ClpA,149,292
+CDD,ClpA superfamily,149,292
+CDD,AAA_5,147,274
+CDD,AAA_5 superfamily,147,274
+CDD,ruvB,112,169
+CDD,ruvB superfamily,112,169
+CDD,YifB,99,163
+CDD,YifB superfamily,99,163
+CDD,Mg_chelatase,113,164
+CDD,PRK12402,99,361
+CDD,PRK12402 superfamily,99,361
+CDD,AAA_2,148,261
+CDD,AAA_2 superfamily,148,261
+CDD,RecA-like_NTPases,148,250
+CDD,RecA-like_NTPases superfamily,148,250
+CDD,ClpX,148,218
+CDD,ClpX superfamily,148,218
+CDD,AAA_3,148,173
+CDD,AAA_3 superfamily,148,173
+CDD,AAA_24,148,258
+CDD,RuvB_N,96,168
+CDD,RuvB_N superfamily,96,168
+CDD,spore_lonB,106,168
+CDD,spore_lonB superfamily,106,168
+CDD,PRK13765,107,166
+CDD,PRK13765 superfamily,107,166
+CDD,spore_lon_C,112,375
+CDD,spore_lon_C superfamily,112,375
+CDD,lon_rel,107,214
+CDD,lon_rel superfamily,107,214
+CDD,CDC6,108,221
+CDD,CDC6 superfamily,108,221
+CDD,dnaA,148,337
+CDD,dnaA superfamily,148,337
+CDD,TIGR02928,119,228
+CDD,TIGR02928 superfamily,119,228
+CDD,clpX,148,218
+CDD,clpX superfamily,148,218
+CDD,Bac_DnaA,148,337
+CDD,PRK06835,148,169
+CDD,PRK06835 superfamily,148,169
+CDD,TIP49,146,169
+CDD,TIP49 superfamily,146,169
+CDD,TIGR00368,113,163
+CDD,TIGR00368 superfamily,113,163
+CDD,AAA_16,143,180
+CDD,AAA_16 superfamily,143,180
+CDD,Parvo_NS1,148,167
+CDD,Parvo_NS1 superfamily,148,167
+CDD,DEXXQc_Helz-like,120,166
+CDD,DEAD-like_helicase_N superfamily,120,166
+#A8AB71
+InterProScan,AAA ATPase; AAA+ lid domain,286,337
+InterProScan,cd00009,100,265
+InterProScan,P-loop containing nucleoside triphosphate hydrolase,92,363
+InterProScan,AAA+ ATPase domain,127,267
+InterProScan,G3DSA:3.40.50.300,91,359
+InterProScan,Coil,51,71
+InterProScan,ATPase; AAA-type; conserved site,237,256
+InterProScan,MIT domain superfamily,8,78
+InterProScan,G3DSA:1.20.58.280,1,72
+InterProScan,G3DSA:1.10.8.60,266,344
+InterProScan,ATPase; AAA-type; core,131,264
+CDD,SpoVK,48,361
+CDD,SpoVK superfamily,48,361
+CDD,CDC48,56,366
+CDD,CDC48 superfamily,56,366
+CDD,PRK03992,83,356
+CDD,PRK03992 superfamily,83,356
+CDD,CDC48,79,353
+CDD,RPT1,83,356
+CDD,RPT1 superfamily,83,356
+CDD,26Sp45,76,343
+CDD,26Sp45 superfamily,76,343
+CDD,AAA,131,264
+CDD,AAA superfamily,131,264
+CDD,COG1223,72,356
+CDD,COG1223 superfamily,72,356
+CDD,FtsH_fam,91,358
+CDD,FtsH_fam superfamily,91,358
+CDD,ftsH,33,318
+CDD,ftsH superfamily,33,318
+CDD,pup_AAA,75,332
+CDD,pup_AAA superfamily,75,332
+CDD,PTZ00454,83,317
+CDD,PTZ00454 superfamily,83,317
+CDD,PTZ00361,92,322
+CDD,PTZ00361 superfamily,92,322
+CDD,hflB,88,358
+CDD,hflB superfamily,88,358
+CDD,HflB,85,311
+CDD,HflB superfamily,85,311
+CDD,SpoVK,128,348
+CDD,AAA,100,265
+CDD,P-loop_NTPase superfamily,100,265
+CDD,AAA,128,267
+CDD,AAA superfamily,128,267
+CDD,ycf46,92,359
+CDD,ycf46 superfamily,92,359
+CDD,PRK04195,92,207
+CDD,PRK04195 superfamily,92,207
+CDD,PRK13342,92,200
+CDD,PRK13342 superfamily,92,200
+CDD,RarA,133,200
+CDD,RarA superfamily,133,200
+CDD,ClpX,71,201
+CDD,ClpX superfamily,71,201
+CDD,clpX,61,201
+CDD,clpX superfamily,61,201
+CDD,MoxR,96,342
+CDD,MoxR superfamily,96,342
+CDD,clpX,61,201
+CDD,clpX superfamily,61,201
+CDD,spore_lonB,56,211
+CDD,spore_lonB superfamily,56,211
+CDD,YifB,79,166
+CDD,YifB superfamily,79,166
+CDD,44,128,203
+CDD,44 superfamily,128,203
+CDD,AAA_2,131,201
+CDD,AAA_2 superfamily,131,201
+CDD,ruvB,72,203
+CDD,ruvB superfamily,72,203
+CDD,Mg_chelatase,96,147
+CDD,spore_lon_C,75,338
+CDD,spore_lon_C superfamily,75,338
+CDD,clpC,129,284
+CDD,clpC superfamily,129,284
+CDD,RuvB_N,84,156
+CDD,RuvB_N superfamily,84,156
+CDD,TIGR02928,128,269
+CDD,TIGR02928 superfamily,128,269
+CDD,RecA-like_NTPases,131,244
+CDD,RecA-like_NTPases superfamily,131,244
+CDD,MIT_AAA_Arch,4,72
+CDD,MIT superfamily,4,72
+CDD,AAA_22,131,203
+CDD,AAA_22 superfamily,131,203
+CDD,PRK08116,129,159
+CDD,ClpA,132,269
+CDD,ClpA superfamily,132,269
+CDD,RuvB,86,156
+CDD,RuvB superfamily,86,156
+CDD,PRK13341,132,200
+CDD,PRK13341 superfamily,132,200
+CDD,COG0645,128,195
+CDD,COG0645 superfamily,128,195
+CDD,T7SS_EccA,18,265
+CDD,T7SS_EccA superfamily,18,265
+CDD,TIGR00368,75,145
+CDD,TIGR00368 superfamily,75,145
+CDD,CDC6,97,265
+CDD,CDC6 superfamily,97,265
+CDD,AAA_33,131,195
+CDD,AAA_33 superfamily,131,195
+CDD,ruvB,95,155
+CDD,ruvB superfamily,95,155
+CDD,DnaA,26,167
+CDD,DnaA superfamily,26,167
+CDD,Vps4_C,329,359
+CDD,Vps4_C superfamily,329,359
+CDD,ClpA,12,167
+CDD,DnaC,128,200
+CDD,TIP49,129,321
+CDD,TIP49 superfamily,129,321
+CDD,ATP-synt_ab,122,162
+CDD,RNA_helicase,131,245
+CDD,TIP49,129,173
+CDD,TIP49 superfamily,129,173
+CDD,AAA_14,131,241
+CDD,rfc,91,203
+CDD,rfc superfamily,91,203
+CDD,DnaA_homol_Hda,128,192
+CDD,DnaA_homol_Hda superfamily,128,192
+CDD,MiaA,128,164
+CDD,PRK12402,95,203
+CDD,PRK12402 superfamily,95,203
+CDD,PRK13765,70,155
+CDD,PRK13765 superfamily,70,155
+CDD,PRK12422,131,278
+CDD,PRK12422 superfamily,131,278
+CDD,Zeta_toxin,128,285
+CDD,GntK,135,157
+CDD,NK superfamily,135,157
+CDD,PRK13764,85,150
+CDD,PRK13764 superfamily,85,150
+CDD,Bac_DnaA,131,319
+CDD,therm_gnt_kin,131,157
+CDD,AAA_3,131,156
+CDD,AAA_3 superfamily,131,156
+CDD,MIT,8,62
+CDD,miaA,131,164
+CDD,miaA superfamily,131,164
+#A0A0V8RVR9
+InterProScan,G3DSA:1.10.8.60,270,349
+InterProScan,AAA+ ATPase domain,131,271
+InterProScan,MIT,5,83
+InterProScan,cd00009,104,269
+InterProScan,G3DSA:1.20.58.280,1,75
+InterProScan,P-loop containing nucleoside triphosphate hydrolase,96,368
+InterProScan,ATPase; AAA-type; core,135,268
+InterProScan,AAA ATPase; AAA+ lid domain,291,343
+InterProScan,MIT,15,74
+InterProScan,G3DSA:3.40.50.300,95,365
+InterProScan,MIT domain superfamily,12,75
+CDD,SpoVK,91,366
+CDD,SpoVK superfamily,91,366
+CDD,CDC48,91,369
+CDD,CDC48 superfamily,91,369
+CDD,PRK03992,92,347
+CDD,PRK03992 superfamily,92,347
+CDD,RPT1,92,347
+CDD,RPT1 superfamily,92,347
+CDD,26Sp45,92,346
+CDD,26Sp45 superfamily,92,346
+CDD,CDC48,85,358
+CDD,FtsH_fam,93,361
+CDD,FtsH_fam superfamily,93,361
+CDD,PTZ00454,92,322
+CDD,PTZ00454 superfamily,92,322
+CDD,AAA,135,268
+CDD,AAA superfamily,135,268
+CDD,COG1223,93,323
+CDD,COG1223 superfamily,93,323
+CDD,PTZ00361,92,323
+CDD,PTZ00361 superfamily,92,323
+CDD,ftsH,98,323
+CDD,ftsH superfamily,98,323
+CDD,hflB,97,342
+CDD,hflB superfamily,97,342
+CDD,pup_AAA,74,343
+CDD,pup_AAA superfamily,74,343
+CDD,HflB,78,323
+CDD,HflB superfamily,78,323
+CDD,SpoVK,132,353
+CDD,MIT_AAA_Arch,8,82
+CDD,MIT superfamily,8,82
+CDD,AAA,104,269
+CDD,P-loop_NTPase superfamily,104,269
+CDD,AAA,132,271
+CDD,AAA superfamily,132,271
+CDD,ycf46,83,364
+CDD,ycf46 superfamily,83,364
+CDD,PRK13342,135,213
+CDD,PRK13342 superfamily,135,213
+CDD,MIT,11,75
+CDD,RarA,137,213
+CDD,RarA superfamily,137,213
+CDD,MIT,7,75
+CDD,PRK04195,89,220
+CDD,PRK04195 superfamily,89,220
+CDD,MoxR,133,302
+CDD,MoxR superfamily,133,302
+CDD,AAA_2,135,205
+CDD,AAA_2 superfamily,135,205
+CDD,Vps4_C,334,368
+CDD,Vps4_C superfamily,334,368
+CDD,MIT_1,19,74
+CDD,MIT,12,74
+CDD,clpX,135,231
+CDD,clpX superfamily,135,231
+CDD,clpX,135,205
+CDD,clpX superfamily,135,205
+CDD,clpA,136,271
+CDD,clpA superfamily,136,271
+CDD,ClpX,135,205
+CDD,ClpX superfamily,135,205
+CDD,RecA-like_NTPases,135,229
+CDD,RecA-like_NTPases superfamily,135,229
+CDD,AAA_22,135,207
+CDD,AAA_22 superfamily,135,207
+CDD,Mg_chelatase,100,151
+CDD,YifB,81,149
+CDD,YifB superfamily,81,149
+CDD,ClpA,136,270
+CDD,ClpA superfamily,136,270
+CDD,AAA_33,135,199
+CDD,AAA_33 superfamily,135,199
+CDD,spore_lon_C,68,362
+CDD,spore_lon_C superfamily,68,362
+CDD,PRK08116,133,155
+CDD,ClpA,136,271
+CDD,ClpA superfamily,136,271
+CDD,clpC,133,311
+CDD,clpC superfamily,133,311
+CDD,PRK13341,136,208
+CDD,PRK13341 superfamily,136,208
+CDD,rfc,90,207
+CDD,rfc superfamily,90,207
+CDD,lon,25,153
+CDD,lon superfamily,25,153
+CDD,ruvB,135,155
+CDD,ruvB superfamily,135,155
+CDD,ruvB,135,207
+CDD,ruvB superfamily,135,207
+CDD,RuvB,135,155
+CDD,RuvB superfamily,135,155
+CDD,T7SS_EccA,133,269
+CDD,T7SS_EccA superfamily,133,269
+CDD,PRK12608,24,221
+CDD,PRK12608 superfamily,24,221
+CDD,RuvB_N,135,155
+CDD,RuvB_N superfamily,135,155
+CDD,DnaA,135,314
+CDD,DnaA superfamily,135,314
+CDD,ATP-synt_ab,126,154
+CDD,DnaC,132,204
+#A2BKZ1
+InterProScan,MIT domain superfamily,12,75
+InterProScan,cd00009,104,269
+InterProScan,AAA ATPase; AAA+ lid domain,291,343
+InterProScan,G3DSA:3.40.50.300,89,268
+InterProScan,G3DSA:1.10.8.60,270,369
+InterProScan,MIT,14,74
+InterProScan,G3DSA:1.20.58.280,1,75
+InterProScan,ATPase; AAA-type; core,135,268
+InterProScan,P-loop containing nucleoside triphosphate hydrolase,96,368
+InterProScan,Coil,55,75
+InterProScan,AAA+ ATPase domain,131,271
+InterProScan,MIT,6,77
+InterProScan,cd17706,308,369
+CDD,SpoVK,91,366
+CDD,SpoVK superfamily,91,366
+CDD,CDC48,91,369
+CDD,CDC48 superfamily,91,369
+CDD,PRK03992,92,347
+CDD,PRK03992 superfamily,92,347
+CDD,RPT1,92,347
+CDD,RPT1 superfamily,92,347
+CDD,26Sp45,92,346
+CDD,26Sp45 superfamily,92,346
+CDD,CDC48,96,358
+CDD,FtsH_fam,94,346
+CDD,FtsH_fam superfamily,94,346
+CDD,PTZ00454,92,322
+CDD,PTZ00454 superfamily,92,322
+CDD,COG1223,94,361
+CDD,COG1223 superfamily,94,361
+CDD,ftsH,98,346
+CDD,ftsH superfamily,98,346
+CDD,PTZ00361,92,323
+CDD,PTZ00361 superfamily,92,323
+CDD,AAA,135,268
+CDD,AAA superfamily,135,268
+CDD,pup_AAA,74,328
+CDD,pup_AAA superfamily,74,328
+CDD,hflB,97,345
+CDD,hflB superfamily,97,345
+CDD,HflB,94,346
+CDD,HflB superfamily,94,346
+CDD,SpoVK,119,353
+CDD,MIT_AAA_Arch,8,82
+CDD,MIT superfamily,8,82
+CDD,AAA,104,269
+CDD,P-loop_NTPase superfamily,104,269
+CDD,AAA,132,271
+CDD,AAA superfamily,132,271
+CDD,ycf46,83,364
+CDD,ycf46 superfamily,83,364
+CDD,PRK13342,135,213
+CDD,PRK13342 superfamily,135,213
+CDD,MIT,12,75
+CDD,MIT,12,75
+CDD,RarA,137,213
+CDD,RarA superfamily,137,213
+CDD,Vps4_C,334,368
+CDD,Vps4_C superfamily,334,368
+CDD,AAA_2,135,248
+CDD,AAA_2 superfamily,135,248
+CDD,PRK04195,89,209
+CDD,PRK04195 superfamily,89,209
+CDD,MoxR,133,302
+CDD,MoxR superfamily,133,302
+CDD,MIT,12,74
+CDD,clpC,133,311
+CDD,clpC superfamily,133,311
+CDD,spore_lon_C,68,366
+CDD,spore_lon_C superfamily,68,366
+CDD,ClpX,135,205
+CDD,ClpX superfamily,135,205
+CDD,AAA_5,134,261
+CDD,AAA_5 superfamily,134,261
+CDD,MIT_1,19,74
+CDD,clpX,135,205
+CDD,clpX superfamily,135,205
+CDD,YifB,80,149
+CDD,YifB superfamily,80,149
+CDD,ClpA,136,280
+CDD,ClpA superfamily,136,280
+CDD,clpX,135,205
+CDD,clpX superfamily,135,205
+CDD,RecA-like_NTPases,135,248
+CDD,RecA-like_NTPases superfamily,135,248
+CDD,AAA_33,135,199
+CDD,AAA_33 superfamily,135,199
+CDD,Mg_chelatase,100,151
+CDD,AAA_22,135,207
+CDD,AAA_22 superfamily,135,207
+CDD,PRK13341,136,208
+CDD,PRK13341 superfamily,136,208
+CDD,PRK08116,133,155
+CDD,ClpA,136,278
+CDD,ClpA superfamily,136,278
+CDD,PRK12608,24,221
+CDD,PRK12608 superfamily,24,221
+CDD,ruvB,135,155
+CDD,ruvB superfamily,135,155
+CDD,recA,130,243
+CDD,recA superfamily,130,243
+CDD,TPR_11,26,64
+CDD,TPR_11 superfamily,26,64
+CDD,clpA,136,271
+CDD,clpA superfamily,136,271
+CDD,T7SS_EccA,18,269
+CDD,T7SS_EccA superfamily,18,269
+CDD,RuvB,135,207
+CDD,RuvB superfamily,135,207
+CDD,PEP_TPR_lipo,9,74
+CDD,PEP_TPR_lipo superfamily,9,74
+CDD,DnaC,102,204
+CDD,RuvB_N,135,155
+CDD,RuvB_N superfamily,135,155
+CDD,ATP-synt_ab,126,154
+CDD,MIT_calpain7_1,8,75
+CDD,ruvB,135,155
+CDD,ruvB superfamily,135,155
+CDD,RtcR,135,207
+CDD,RtcR superfamily,135,207
+CDD,lon,25,153
+CDD,lon superfamily,25,153
+CDD,TIGR00368,78,149
+CDD,TIGR00368 superfamily,78,149
+CDD,ABC_ATPase,135,206
+CDD,ABC_ATPase superfamily,135,206
+#I3XQE5
+InterProScan,ATPase; AAA-type; core,150,284
+InterProScan,AAA+ ATPase domain,146,287
+InterProScan,Vps4 oligomerisation; C-terminal,355,392
+InterProScan,cd00009,119,285
+InterProScan,P-loop containing nucleoside triphosphate hydrolase,112,390
+InterProScan,G3DSA:1.10.8.60,286,372
+InterProScan,MIT domain superfamily,12,84
+InterProScan,MIT,15,78
+InterProScan,AAA ATPase; AAA+ lid domain,310,342
+InterProScan,G3DSA:3.40.50.300,110,389
+InterProScan,G3DSA:1.20.58.280,8,88
+InterProScan,MIT,10,87
+CDD,SpoVK,55,389
+CDD,SpoVK superfamily,55,389
+CDD,CDC48,115,394
+CDD,CDC48 superfamily,115,394
+CDD,RPT1,94,371
+CDD,RPT1 superfamily,94,371
+CDD,CDC48,101,375
+CDD,PRK03992,100,371
+CDD,PRK03992 superfamily,100,371
+CDD,26Sp45,98,371
+CDD,26Sp45 superfamily,98,371
+CDD,AAA,150,284
+CDD,AAA superfamily,150,284
+CDD,FtsH_fam,107,364
+CDD,FtsH_fam superfamily,107,364
+CDD,ftsH,114,334
+CDD,ftsH superfamily,114,334
+CDD,pup_AAA,114,299
+CDD,pup_AAA superfamily,114,299
+CDD,PTZ00454,100,334
+CDD,PTZ00454 superfamily,100,334
+CDD,hflB,112,334
+CDD,hflB superfamily,112,334
+CDD,PTZ00361,94,334
+CDD,PTZ00361 superfamily,94,334
+CDD,COG1223,114,378
+CDD,COG1223 superfamily,114,378
+CDD,SpoVK,147,377
+CDD,AAA,119,285
+CDD,P-loop_NTPase superfamily,119,285
+CDD,HflB,107,334
+CDD,HflB superfamily,107,334
+CDD,MIT_AAA_Arch,12,79
+CDD,MIT superfamily,12,79
+CDD,AAA,148,287
+CDD,AAA superfamily,148,287
+CDD,ycf46,110,387
+CDD,ycf46 superfamily,110,387
+CDD,PRK13342,150,223
+CDD,PRK13342 superfamily,150,223
+CDD,RarA,152,223
+CDD,RarA superfamily,152,223
+CDD,MIT,15,79
+CDD,MIT,15,83
+CDD,MIT,13,86
+CDD,T7SS_EccA,119,285
+CDD,T7SS_EccA superfamily,119,285
+CDD,MIT_VPS4,15,84
+CDD,PRK04195,114,222
+CDD,PRK04195 superfamily,114,222
+CDD,rfc,114,222
+CDD,rfc superfamily,114,222
+CDD,RecA-like_NTPases,150,244
+CDD,RecA-like_NTPases superfamily,150,244
+CDD,44,95,350
+CDD,44 superfamily,95,350
+CDD,MoxR,93,289
+CDD,MoxR superfamily,93,289
+CDD,ClpA,151,289
+CDD,ClpA superfamily,151,289
+CDD,AAA_33,150,214
+CDD,AAA_33 superfamily,150,214
+CDD,RuvB_N,150,173
+CDD,RuvB_N superfamily,150,173
+CDD,AAA_5,149,277
+CDD,AAA_5 superfamily,149,277
+CDD,PRK13341,151,219
+CDD,PRK13341 superfamily,151,219
+CDD,MiaA,150,178
+CDD,Vps4_C,353,392
+CDD,Vps4_C superfamily,353,392
+CDD,ruvB,150,173
+CDD,ruvB superfamily,150,173
+CDD,AAA_28,150,217
+CDD,miaA,150,178
+CDD,RuvB,150,173
+CDD,RuvB superfamily,150,173
+CDD,DnaC,149,206
+CDD,ruvB,150,175
+CDD,ruvB superfamily,150,175
+CDD,RNA_helicase,150,265
+CDD,TIP49,149,173
+CDD,TIP49 superfamily,149,173
+CDD,TIP49,149,173
+CDD,TIP49 superfamily,149,173
+CDD,clpX,150,220
+CDD,clpX superfamily,150,220
+CDD,AAA_2,150,220
+CDD,AAA_2 superfamily,150,220
+CDD,rad24,121,248
+CDD,rad24 superfamily,121,248
+CDD,IstB_IS21,120,170
+CDD,MIT_SNX15,12,87
+CDD,MIT_1,23,81
+CDD,ATP-synt_ab,141,178
+CDD,clpC,150,222
+CDD,clpC superfamily,150,222
+CDD,PRK12402,114,171
+CDD,PRK12402 superfamily,114,171
+#A3DP09
+InterProScan,MIT,7,71
+InterProScan,AAA ATPase; AAA+ lid domain,301,352
+InterProScan,ATPase; AAA-type; core,140,274
+InterProScan,G3DSA:1.10.8.60,276,357
+InterProScan,cd00009,109,275
+InterProScan,G3DSA:1.20.58.280,1,81
+InterProScan,AAA+ ATPase domain,136,277
+InterProScan,P-loop containing nucleoside triphosphate hydrolase,102,376
+InterProScan,MIT domain superfamily,3,76
+InterProScan,G3DSA:3.40.50.300,102,373
+InterProScan,MIT,3,79
+CDD,SpoVK,100,362
+CDD,SpoVK superfamily,100,362
+CDD,CDC48,86,377
+CDD,CDC48 superfamily,86,377
+CDD,CDC48,99,366
+CDD,PRK03992,104,355
+CDD,PRK03992 superfamily,104,355
+CDD,RPT1,90,324
+CDD,RPT1 superfamily,90,324
+CDD,26Sp45,98,354
+CDD,26Sp45 superfamily,98,354
+CDD,AAA,140,274
+CDD,AAA superfamily,140,274
+CDD,COG1223,98,360
+CDD,COG1223 superfamily,98,360
+CDD,FtsH_fam,101,324
+CDD,FtsH_fam superfamily,101,324
+CDD,hflB,78,324
+CDD,hflB superfamily,78,324
+CDD,pup_AAA,104,291
+CDD,pup_AAA superfamily,104,291
+CDD,ftsH,98,324
+CDD,ftsH superfamily,98,324
+CDD,PTZ00454,104,324
+CDD,PTZ00454 superfamily,104,324
+CDD,PTZ00361,89,324
+CDD,PTZ00361 superfamily,89,324
+CDD,HflB,101,324
+CDD,HflB superfamily,101,324
+CDD,SpoVK,137,377
+CDD,AAA,109,275
+CDD,P-loop_NTPase superfamily,109,275
+CDD,ycf46,102,372
+CDD,ycf46 superfamily,102,372
+CDD,MIT_AAA_Arch,5,78
+CDD,MIT superfamily,5,78
+CDD,AAA,137,277
+CDD,AAA superfamily,137,277
+CDD,PRK04195,103,222
+CDD,PRK04195 superfamily,103,222
+CDD,PRK13342,140,213
+CDD,PRK13342 superfamily,140,213
+CDD,MIT,7,72
+CDD,MIT,6,76
+CDD,MIT,4,74
+CDD,RarA,142,209
+CDD,RarA superfamily,142,209
+CDD,T7SS_EccA,140,275
+CDD,T7SS_EccA superfamily,140,275
+CDD,clpX,140,210
+CDD,clpX superfamily,140,210
+CDD,ClpX,36,210
+CDD,ClpX superfamily,36,210
+CDD,clpX,140,210
+CDD,clpX superfamily,140,210
+CDD,MoxR,140,277
+CDD,MoxR superfamily,140,277
+CDD,RNA_helicase,140,255
+CDD,rfc,103,212
+CDD,rfc superfamily,103,212
+CDD,MIT_1,6,76
+CDD,ruvB,140,209
+CDD,ruvB superfamily,140,209
+CDD,ruvB,103,209
+CDD,ruvB superfamily,103,209
+CDD,RecA-like_NTPases,140,225
+CDD,RecA-like_NTPases superfamily,140,225
+CDD,MIT_VPS4,8,76
+CDD,MIT_2,7,74
+CDD,Mg_chelatase,105,157
+CDD,AAA_5,139,267
+CDD,AAA_5 superfamily,139,267
+CDD,ClpA,141,212
+CDD,ClpA superfamily,141,212
+CDD,YifB,104,154
+CDD,YifB superfamily,104,154
+CDD,PRK12402,103,169
+CDD,PRK12402 superfamily,103,169
+CDD,RuvB_N,140,165
+CDD,RuvB_N superfamily,140,165
+CDD,44,137,210
+CDD,44 superfamily,137,210
+CDD,YbgF,14,54
+CDD,YbgF superfamily,14,54
+CDD,DnaC,137,273
+CDD,MIT_SNX15,7,42
+CDD,RuvB,140,209
+CDD,RuvB superfamily,140,209
+CDD,T2SSE,85,168
+#Q97ZJ7
+InterProScan,G3DSA:1.20.58.280,1,83
+InterProScan,ATPase; AAA-type; core,137,272
+InterProScan,MIT domain superfamily,7,75
+InterProScan,cd00009,106,272
+InterProScan,AAA+ ATPase domain,133,274
+InterProScan,AAA ATPase; AAA+ lid domain,295,345
+InterProScan,MIT,10,73
+InterProScan,G3DSA:1.10.8.60,273,372
+InterProScan,G3DSA:3.40.50.300,91,272
+InterProScan,cd02682,6,80
+InterProScan,ATPase; AAA-type; conserved site,244,263
+InterProScan,MIT,4,81
+InterProScan,P-loop containing nucleoside triphosphate hydrolase,98,369
+CDD,SpoVK,1,367
+CDD,SpoVK superfamily,1,367
+CDD,PRK03992,94,350
+CDD,PRK03992 superfamily,94,350
+CDD,RPT1,96,345
+CDD,RPT1 superfamily,96,345
+CDD,CDC48,93,372
+CDD,CDC48 superfamily,93,372
+CDD,26Sp45,94,345
+CDD,26Sp45 superfamily,94,345
+CDD,CDC48,88,359
+CDD,PTZ00454,74,325
+CDD,PTZ00454 superfamily,74,325
+CDD,FtsH_fam,92,345
+CDD,FtsH_fam superfamily,92,345
+CDD,AAA,137,272
+CDD,AAA superfamily,137,272
+CDD,COG1223,69,356
+CDD,COG1223 superfamily,69,356
+CDD,ftsH,100,321
+CDD,ftsH superfamily,100,321
+CDD,pup_AAA,90,318
+CDD,pup_AAA superfamily,90,318
+CDD,PTZ00361,84,326
+CDD,PTZ00361 superfamily,84,326
+CDD,MIT_AAA_Arch,6,80
+CDD,MIT superfamily,6,80
+CDD,hflB,99,344
+CDD,hflB superfamily,99,344
+CDD,HflB,96,345
+CDD,HflB superfamily,96,345
+CDD,SpoVK,134,353
+CDD,AAA,106,272
+CDD,P-loop_NTPase superfamily,106,272
+CDD,ycf46,98,367
+CDD,ycf46 superfamily,98,367
+CDD,MIT,6,79
+CDD,AAA,134,274
+CDD,AAA superfamily,134,274
+CDD,MIT,4,77
+CDD,RarA,139,348
+CDD,RarA superfamily,139,348
+CDD,PRK13342,137,211
+CDD,PRK13342 superfamily,137,211
+CDD,PRK04195,95,212
+CDD,PRK04195 superfamily,95,212
+CDD,MoxR,102,305
+CDD,MoxR superfamily,102,305
+CDD,AAA_5,136,264
+CDD,AAA_5 superfamily,136,264
+CDD,MIT,9,73
+CDD,clpC,135,309
+CDD,clpC superfamily,135,309
+CDD,ClpA,138,307
+CDD,ClpA superfamily,138,307
+CDD,PRK13341,101,211
+CDD,PRK13341 superfamily,101,211
+CDD,ClpA,138,277
+CDD,ClpA superfamily,138,277
+CDD,YifB,85,151
+CDD,YifB superfamily,85,151
+CDD,clpA,138,274
+CDD,clpA superfamily,138,274
+CDD,spore_lonB,97,167
+CDD,spore_lonB superfamily,97,167
+CDD,chaperone_ClpB,139,281
+CDD,chaperone_ClpB superfamily,139,281
+CDD,RuvB_N,82,157
+CDD,RuvB_N superfamily,82,157
+CDD,ruvB,101,158
+CDD,ruvB superfamily,101,158
+CDD,Vps4_C,332,369
+CDD,Vps4_C superfamily,332,369
+CDD,DnaA,36,349
+CDD,DnaA superfamily,36,349
+CDD,rfc,88,158
+CDD,rfc superfamily,88,158
+CDD,Mg_chelatase,102,153
+CDD,TIGR02928,103,212
+CDD,TIGR02928 superfamily,103,212
+CDD,RuvB,82,158
+CDD,RuvB superfamily,82,158
+CDD,DnaC,134,207
+CDD,PRK10865,138,301
+CDD,PRK10865 superfamily,138,301
+CDD,clpX,137,208
+CDD,clpX superfamily,137,208
+CDD,ruvB,98,157
+CDD,ruvB superfamily,98,157
+CDD,AAA_22,137,210
+CDD,AAA_22 superfamily,137,210
+CDD,lon,24,155
+CDD,lon superfamily,24,155
+CDD,PRK08116,135,157
+CDD,AAA_2,137,208
+CDD,AAA_2 superfamily,137,208
+CDD,MIT_spastin,9,76
+CDD,TIP49,135,179
+CDD,TIP49 superfamily,135,179
+CDD,RecA-like_NTPases,137,232
+CDD,RecA-like_NTPases superfamily,137,232
+CDD,MIT_calpain7_1,7,79
+CDD,TIP49,135,172
+CDD,TIP49 superfamily,135,172
+CDD,PRK12402,95,158
+CDD,PRK12402 superfamily,95,158
+CDD,RNA_helicase,137,158
+CDD,AAA_25,122,155
+CDD,ClpX,137,208
+CDD,ClpX superfamily,137,208
+#Q972B3
+InterProScan,Coil,54,74
+InterProScan,MIT,4,79
+InterProScan,G3DSA:1.20.58.280,1,82
+InterProScan,G3DSA:3.40.50.300,88,270
+InterProScan,ATPase; AAA-type; core,135,269
+InterProScan,P-loop containing nucleoside triphosphate hydrolase,96,366
+InterProScan,cd02682,6,80
+InterProScan,AAA+ ATPase domain,131,272
+InterProScan,cd00009,104,270
+InterProScan,AAA ATPase; AAA+ lid domain,291,342
+InterProScan,G3DSA:1.10.8.60,271,369
+InterProScan,MIT,11,73
+InterProScan,MIT domain superfamily,6,75
+CDD,SpoVK,1,358
+CDD,SpoVK superfamily,1,358
+CDD,CDC48,91,369
+CDD,CDC48 superfamily,91,369
+CDD,PRK03992,92,348
+CDD,PRK03992 superfamily,92,348
+CDD,RPT1,92,359
+CDD,RPT1 superfamily,92,359
+CDD,26Sp45,92,342
+CDD,26Sp45 superfamily,92,342
+CDD,CDC48,81,356
+CDD,AAA,135,270
+CDD,AAA superfamily,135,270
+CDD,COG1223,94,350
+CDD,COG1223 superfamily,94,350
+CDD,PTZ00454,87,322
+CDD,PTZ00454 superfamily,87,322
+CDD,FtsH_fam,93,369
+CDD,FtsH_fam superfamily,93,369
+CDD,pup_AAA,73,335
+CDD,pup_AAA superfamily,73,335
+CDD,MIT_AAA_Arch,6,80
+CDD,MIT superfamily,6,80
+CDD,ftsH,98,318
+CDD,ftsH superfamily,98,318
+CDD,hflB,90,369
+CDD,hflB superfamily,90,369
+CDD,PTZ00361,92,323
+CDD,PTZ00361 superfamily,92,323
+CDD,HflB,72,369
+CDD,HflB superfamily,72,369
+CDD,SpoVK,132,345
+CDD,AAA,104,270
+CDD,P-loop_NTPase superfamily,104,270
+CDD,ycf46,83,362
+CDD,ycf46 superfamily,83,362
+CDD,AAA,132,272
+CDD,AAA superfamily,132,272
+CDD,MIT,6,80
+CDD,MIT,4,73
+CDD,PRK13342,135,209
+CDD,PRK13342 superfamily,135,209
+CDD,PRK04195,89,210
+CDD,PRK04195 superfamily,89,210
+CDD,RarA,137,209
+CDD,RarA superfamily,137,209
+CDD,MoxR,100,319
+CDD,MoxR superfamily,100,319
+CDD,AAA_5,134,262
+CDD,AAA_5 superfamily,134,262
+CDD,MIT,18,73
+CDD,Vps4_C,332,366
+CDD,Vps4_C superfamily,332,366
+CDD,spore_lonB,88,168
+CDD,spore_lonB superfamily,88,168
+CDD,rfc,86,208
+CDD,rfc superfamily,86,208
+CDD,YifB,83,149
+CDD,YifB superfamily,83,149
+CDD,lon,24,163
+CDD,lon superfamily,24,163
+CDD,Mg_chelatase,100,154
+CDD,RecA-like_NTPases,135,230
+CDD,RecA-like_NTPases superfamily,135,230
+CDD,RuvB,80,208
+CDD,RuvB superfamily,80,208
+CDD,ClpA,136,281
+CDD,ClpA superfamily,136,281
+CDD,ruvB,99,208
+CDD,ruvB superfamily,99,208
+CDD,clpX,135,206
+CDD,clpX superfamily,135,206
+CDD,TIP49,133,199
+CDD,TIP49 superfamily,133,199
+CDD,clpC,133,281
+CDD,clpC superfamily,133,281
+CDD,TIP49,133,199
+CDD,TIP49 superfamily,133,199
+CDD,T7SS_EccA,36,266
+CDD,T7SS_EccA superfamily,36,266
+CDD,MIT_calpain7_1,7,80
+CDD,RuvB_N,99,155
+CDD,RuvB_N superfamily,99,155
+CDD,ClpA,136,264
+CDD,ClpA superfamily,136,264
+CDD,PRK13341,136,209
+CDD,PRK13341 superfamily,136,209
+CDD,spore_lon_C,12,168
+CDD,spore_lon_C superfamily,12,168
+CDD,ruvB,96,204
+CDD,ruvB superfamily,96,204
+CDD,TIGR02928,101,251
+CDD,TIGR02928 superfamily,101,251
+CDD,ClpX,135,206
+CDD,ClpX superfamily,135,206
+CDD,AAA_2,135,213
+CDD,AAA_2 superfamily,135,213
+CDD,MIT_1,7,75
+CDD,clpA,136,264
+CDD,clpA superfamily,136,264
+CDD,AAA_25,120,156
+CDD,Parvo_NS1,135,159
+CDD,Parvo_NS1 superfamily,135,159
+CDD,PHA02244,55,248
+CDD,PHA02244 superfamily,55,248
+CDD,RNA_helicase,135,156
+CDD,PRK12402,91,156
+CDD,PRK12402 superfamily,91,156
+#F2Z6D2
+InterProScan,Coil,54,74
+InterProScan,cd00009,109,275
+InterProScan,Coil,364,374
+InterProScan,G3DSA:1.10.8.60,276,374
+InterProScan,G3DSA:3.40.50.300,93,275
+InterProScan,MIT,11,73
+InterProScan,AAA ATPase; AAA+ lid domain,296,347
+InterProScan,P-loop containing nucleoside triphosphate hydrolase,101,371
+InterProScan,ATPase; AAA-type; core,140,274
+InterProScan,AAA+ ATPase domain,136,277
+InterProScan,MIT,4,81
+InterProScan,cd02682,6,80
+InterProScan,G3DSA:1.20.58.280,1,75
+InterProScan,MIT domain superfamily,7,85
+CDD,SpoVK,1,367
+CDD,SpoVK superfamily,1,367
+CDD,CDC48,42,374
+CDD,CDC48 superfamily,42,374
+CDD,RPT1,96,347
+CDD,RPT1 superfamily,96,347
+CDD,PRK03992,99,353
+CDD,PRK03992 superfamily,99,353
+CDD,CDC48,101,361
+CDD,26Sp45,99,351
+CDD,26Sp45 superfamily,99,351
+CDD,AAA,140,275
+CDD,AAA superfamily,140,275
+CDD,FtsH_fam,95,374
+CDD,FtsH_fam superfamily,95,374
+CDD,COG1223,99,355
+CDD,COG1223 superfamily,99,355
+CDD,pup_AAA,91,330
+CDD,pup_AAA superfamily,91,330
+CDD,PTZ00454,91,327
+CDD,PTZ00454 superfamily,91,327
+CDD,MIT_AAA_Arch,6,80
+CDD,MIT superfamily,6,80
+CDD,PTZ00361,91,328
+CDD,PTZ00361 superfamily,91,328
+CDD,HflB,93,374
+CDD,HflB superfamily,93,374
+CDD,ftsH,97,323
+CDD,ftsH superfamily,97,323
+CDD,hflB,80,374
+CDD,hflB superfamily,80,374
+CDD,SpoVK,137,369
+CDD,AAA,109,275
+CDD,P-loop_NTPase superfamily,109,275
+CDD,AAA,137,277
+CDD,AAA superfamily,137,277
+CDD,ycf46,94,367
+CDD,ycf46 superfamily,94,367
+CDD,MIT,6,78
+CDD,MIT,4,77
+CDD,PRK13342,140,214
+CDD,PRK13342 superfamily,140,214
+CDD,PRK04195,94,217
+CDD,PRK04195 superfamily,94,217
+CDD,RarA,140,214
+CDD,RarA superfamily,140,214
+CDD,MoxR,105,289
+CDD,MoxR superfamily,105,289
+CDD,MIT,18,73
+CDD,ClpA,35,285
+CDD,ClpA superfamily,35,285
+CDD,ruvB,104,213
+CDD,ruvB superfamily,104,213
+CDD,RecA-like_NTPases,140,235
+CDD,RecA-like_NTPases superfamily,140,235
+CDD,RuvB,100,213
+CDD,RuvB superfamily,100,213
+CDD,T7SS_EccA,106,271
+CDD,T7SS_EccA superfamily,106,271
+CDD,PRK13341,141,214
+CDD,PRK13341 superfamily,141,214
+CDD,clpC,140,316
+CDD,clpC superfamily,140,316
+CDD,spore_lonB,95,170
+CDD,spore_lonB superfamily,95,170
+CDD,TIGR02928,108,256
+CDD,TIGR02928 superfamily,108,256
+CDD,ruvB,101,213
+CDD,ruvB superfamily,101,213
+CDD,Vps4_C,331,367
+CDD,Vps4_C superfamily,331,367
+CDD,RuvB_N,105,210
+CDD,RuvB_N superfamily,105,210
+CDD,ClpA,140,280
+CDD,ClpA superfamily,140,280
+CDD,rfc,98,213
+CDD,rfc superfamily,98,213
+CDD,MIT_calpain7_1,7,80
+CDD,44,89,211
+CDD,44 superfamily,89,211
+CDD,AAA_22,140,213
+CDD,AAA_22 superfamily,140,213
+CDD,clpX,140,211
+CDD,clpX superfamily,140,211
+CDD,AAA_2,140,229
+CDD,AAA_2 superfamily,140,229
+CDD,PRK12608,126,220
+CDD,PRK12608 superfamily,126,220
+CDD,AAA_16,109,213
+CDD,AAA_16 superfamily,109,213
+CDD,Mg_chelatase,105,156
+CDD,YifB,105,154
+CDD,YifB superfamily,105,154
+CDD,CDC6,107,279
+CDD,CDC6 superfamily,107,279
+CDD,MIT_1,7,75
+CDD,clpA,141,291
+CDD,clpA superfamily,141,291
+CDD,TIP49,138,182
+CDD,TIP49 superfamily,138,182
+CDD,ClpX,140,211
+CDD,ClpX superfamily,140,211
+CDD,DnaC,137,210
+CDD,PRK10865,144,285
+CDD,PRK10865 superfamily,144,285
+CDD,TIP49,138,175
+CDD,TIP49 superfamily,138,175
+CDD,chaperone_ClpB,144,285
+CDD,chaperone_ClpB superfamily,144,285
+CDD,spore_lon_C,62,173
+CDD,spore_lon_C superfamily,62,173
+CDD,Parvo_NS1,140,164
+CDD,Parvo_NS1 superfamily,140,164
+CDD,PRK08116,138,168
+CDD,DEXHc_RE,138,219
+CDD,DEAD-like_helicase_N superfamily,138,219
+CDD,RNA_helicase,140,161
+CDD,AAA_25,125,158
+CDD,PRK12402,105,161
+CDD,PRK12402 superfamily,105,161
+#A4YHC5
+InterProScan,P-loop containing nucleoside triphosphate hydrolase,95,366
+InterProScan,Coil,54,74
+InterProScan,ATPase; AAA-type; core,134,268
+InterProScan,G3DSA:1.10.8.60,270,369
+InterProScan,cd00009,103,269
+InterProScan,G3DSA:1.20.58.280,1,82
+InterProScan,AAA+ ATPase domain,130,271
+InterProScan,MIT,11,72
+InterProScan,G3DSA:3.40.50.300,87,269
+InterProScan,MIT domain superfamily,6,75
+InterProScan,MIT,4,82
+InterProScan,AAA ATPase; AAA+ lid domain,291,342
+CDD,SpoVK,1,358
+CDD,SpoVK superfamily,1,358
+CDD,PRK03992,93,360
+CDD,PRK03992 superfamily,93,360
+CDD,RPT1,90,357
+CDD,RPT1 superfamily,90,357
+CDD,CDC48,90,369
+CDD,CDC48 superfamily,90,369
+CDD,26Sp45,66,342
+CDD,26Sp45 superfamily,66,342
+CDD,CDC48,80,356
+CDD,AAA,134,269
+CDD,AAA superfamily,134,269
+CDD,FtsH_fam,84,369
+CDD,FtsH_fam superfamily,84,369
+CDD,COG1223,80,350
+CDD,COG1223 superfamily,80,350
+CDD,PTZ00454,81,322
+CDD,PTZ00454 superfamily,81,322
+CDD,pup_AAA,80,328
+CDD,pup_AAA superfamily,80,328
+CDD,ftsH,84,316
+CDD,ftsH superfamily,84,316
+CDD,PTZ00361,90,327
+CDD,PTZ00361 superfamily,90,327
+CDD,HflB,84,369
+CDD,HflB superfamily,84,369
+CDD,hflB,71,369
+CDD,hflB superfamily,71,369
+CDD,SpoVK,131,345
+CDD,MIT_AAA_Arch,6,76
+CDD,MIT superfamily,6,76
+CDD,AAA,103,269
+CDD,P-loop_NTPase superfamily,103,269
+CDD,ycf46,88,317
+CDD,ycf46 superfamily,88,317
+CDD,AAA,131,271
+CDD,AAA superfamily,131,271
+CDD,MIT,4,77
+CDD,MIT,6,76
+CDD,PRK13342,134,208
+CDD,PRK13342 superfamily,134,208
+CDD,PRK04195,90,207
+CDD,PRK04195 superfamily,90,207
+CDD,RarA,136,208
+CDD,RarA superfamily,136,208
+CDD,clpX,81,231
+CDD,clpX superfamily,81,231
+CDD,T7SS_EccA,80,265
+CDD,T7SS_EccA superfamily,80,265
+CDD,clpC,132,358
+CDD,clpC superfamily,132,358
+CDD,spore_lonB,63,167
+CDD,spore_lonB superfamily,63,167
+CDD,spore_lon_C,24,353
+CDD,spore_lon_C superfamily,24,353
+CDD,MoxR,102,299
+CDD,MoxR superfamily,102,299
+CDD,ClpX,80,231
+CDD,ClpX superfamily,80,231
+CDD,AAA_22,134,207
+CDD,AAA_22 superfamily,134,207
+CDD,RuvB_N,81,155
+CDD,RuvB_N superfamily,81,155
+CDD,PRK13341,135,208
+CDD,PRK13341 superfamily,135,208
+CDD,rfc,92,155
+CDD,rfc superfamily,92,155
+CDD,MIT,9,71
+CDD,lon,24,160
+CDD,lon superfamily,24,160
+CDD,RecA-like_NTPases,134,235
+CDD,RecA-like_NTPases superfamily,134,235
+CDD,ClpA,135,304
+CDD,ClpA superfamily,135,304
+CDD,RuvB,76,159
+CDD,RuvB superfamily,76,159
+CDD,ruvB,74,159
+CDD,ruvB superfamily,74,159
+CDD,ruvB,98,261
+CDD,ruvB superfamily,98,261
+CDD,CDC6,101,311
+CDD,CDC6 superfamily,101,311
+CDD,AAA_2,134,205
+CDD,AAA_2 superfamily,134,205
+CDD,PRK08116,132,162
+CDD,44,92,205
+CDD,44 superfamily,92,205
+CDD,TIGR02928,105,250
+CDD,TIGR02928 superfamily,105,250
+CDD,Mg_chelatase,99,150
+CDD,Vps4_C,329,366
+CDD,Vps4_C superfamily,329,366
+CDD,clpX,134,218
+CDD,clpX superfamily,134,218
+CDD,TIP49,132,169
+CDD,TIP49 superfamily,132,169
+CDD,DnaC,57,204
+CDD,AroK,134,188
+CDD,NK superfamily,134,188
+CDD,TIP49,132,176
+CDD,TIP49 superfamily,132,176
+CDD,Lon,22,160
+CDD,Lon superfamily,22,160
+CDD,RNA_helicase,134,249
+CDD,MIT_SNX15,18,69
+CDD,ClpA,135,304
+CDD,ClpA superfamily,135,304
+CDD,YifB,81,148
+CDD,YifB superfamily,81,148
+CDD,MIT_calpain7_1,7,79
+CDD,AAA_16,129,162
+CDD,AAA_16 superfamily,129,162
+CDD,aroK,134,165
+CDD,DnaA,28,345
+CDD,DnaA superfamily,28,345
+CDD,MIT_1,7,75
+CDD,PRK12402,98,169
+CDD,PRK12402 superfamily,98,169
+CDD,PLN00020,134,206
+#F0NEW2
+InterProScan,P-loop containing nucleoside triphosphate hydrolase,98,369
+InterProScan,G3DSA:1.10.8.60,273,372
+InterProScan,MIT,10,73
+InterProScan,MIT domain superfamily,7,75
+InterProScan,cd00009,106,272
+InterProScan,ATPase; AAA-type; conserved site,244,263
+InterProScan,ATPase; AAA-type; core,137,272
+InterProScan,G3DSA:3.40.50.300,91,272
+InterProScan,AAA ATPase; AAA+ lid domain,295,345
+InterProScan,cd02682,6,80
+InterProScan,MIT,4,81
+InterProScan,G3DSA:1.20.58.280,1,83
+InterProScan,AAA+ ATPase domain,133,274
+CDD,SpoVK,1,367
+CDD,SpoVK superfamily,1,367
+CDD,PRK03992,94,350
+CDD,PRK03992 superfamily,94,350
+CDD,RPT1,94,345
+CDD,RPT1 superfamily,94,345
+CDD,CDC48,93,372
+CDD,CDC48 superfamily,93,372
+CDD,26Sp45,94,345
+CDD,26Sp45 superfamily,94,345
+CDD,PTZ00454,74,325
+CDD,PTZ00454 superfamily,74,325
+CDD,CDC48,90,359
+CDD,COG1223,69,356
+CDD,COG1223 superfamily,69,356
+CDD,AAA,137,272
+CDD,AAA superfamily,137,272
+CDD,FtsH_fam,95,345
+CDD,FtsH_fam superfamily,95,345
+CDD,ftsH,100,321
+CDD,ftsH superfamily,100,321
+CDD,pup_AAA,90,318
+CDD,pup_AAA superfamily,90,318
+CDD,PTZ00361,94,326
+CDD,PTZ00361 superfamily,94,326
+CDD,MIT_AAA_Arch,6,80
+CDD,MIT superfamily,6,80
+CDD,hflB,81,344
+CDD,hflB superfamily,81,344
+CDD,HflB,88,345
+CDD,HflB superfamily,88,345
+CDD,SpoVK,134,353
+CDD,AAA,106,272
+CDD,P-loop_NTPase superfamily,106,272
+CDD,ycf46,98,367
+CDD,ycf46 superfamily,98,367
+CDD,MIT,6,79
+CDD,AAA,134,274
+CDD,AAA superfamily,134,274
+CDD,MIT,4,77
+CDD,PRK13342,137,211
+CDD,PRK13342 superfamily,137,211
+CDD,RarA,139,348
+CDD,RarA superfamily,139,348
+CDD,PRK04195,95,212
+CDD,PRK04195 superfamily,95,212
+CDD,MoxR,102,305
+CDD,MoxR superfamily,102,305
+CDD,PRK13341,101,211
+CDD,PRK13341 superfamily,101,211
+CDD,MIT,9,73
+CDD,clpC,135,309
+CDD,clpC superfamily,135,309
+CDD,AAA_5,136,264
+CDD,AAA_5 superfamily,136,264
+CDD,ClpA,138,307
+CDD,ClpA superfamily,138,307
+CDD,ClpA,138,277
+CDD,ClpA superfamily,138,277
+CDD,spore_lonB,97,167
+CDD,spore_lonB superfamily,97,167
+CDD,YifB,88,151
+CDD,YifB superfamily,88,151
+CDD,chaperone_ClpB,139,281
+CDD,chaperone_ClpB superfamily,139,281
+CDD,RuvB_N,84,157
+CDD,RuvB_N superfamily,84,157
+CDD,ruvB,101,210
+CDD,ruvB superfamily,101,210
+CDD,Vps4_C,332,369
+CDD,Vps4_C superfamily,332,369
+CDD,clpA,138,274
+CDD,clpA superfamily,138,274
+CDD,DnaA,137,349
+CDD,DnaA superfamily,137,349
+CDD,lon,24,155
+CDD,lon superfamily,24,155
+CDD,DnaC,134,207
+CDD,Mg_chelatase,102,153
+CDD,rfc,90,158
+CDD,rfc superfamily,90,158
+CDD,AAA_2,137,208
+CDD,AAA_2 superfamily,137,208
+CDD,AAA_22,137,210
+CDD,AAA_22 superfamily,137,210
+CDD,RuvB,97,158
+CDD,RuvB superfamily,97,158
+CDD,TIGR02928,103,212
+CDD,TIGR02928 superfamily,103,212
+CDD,PRK10865,138,301
+CDD,PRK10865 superfamily,138,301
+CDD,ruvB,98,157
+CDD,ruvB superfamily,98,157
+CDD,clpX,137,208
+CDD,clpX superfamily,137,208
+CDD,PRK08116,135,157
+CDD,TIP49,135,179
+CDD,TIP49 superfamily,135,179
+CDD,MIT_calpain7_1,7,79
+CDD,RecA-like_NTPases,137,232
+CDD,RecA-like_NTPases superfamily,137,232
+CDD,MIT_spastin,9,76
+CDD,TIP49,135,172
+CDD,TIP49 superfamily,135,172
+CDD,RNA_helicase,137,158
+CDD,PRK12402,95,158
+CDD,PRK12402 superfamily,95,158
+CDD,AAA_25,122,155
+CDD,spore_lon_C,101,170
+CDD,spore_lon_C superfamily,101,170
+#A0A2U9IP32
+InterProScan,MIT domain superfamily,9,81
+InterProScan,AAA+ ATPase domain,132,273
+InterProScan,Coil,54,74
+InterProScan,G3DSA:1.10.8.60,272,371
+InterProScan,G3DSA:1.20.58.280,1,82
+InterProScan,cd00009,105,271
+InterProScan,MIT,11,72
+InterProScan,P-loop containing nucleoside triphosphate hydrolase,97,368
+InterProScan,Vps4 oligomerisation; C-terminal,324,368
+InterProScan,G3DSA:3.40.50.300,89,271
+InterProScan,MIT,4,81
+InterProScan,ATPase; AAA-type; core,136,270
+CDD,SpoVK,1,360
+CDD,SpoVK superfamily,1,360
+CDD,PRK03992,95,347
+CDD,PRK03992 superfamily,95,347
+CDD,CDC48,92,371
+CDD,CDC48 superfamily,92,371
+CDD,RPT1,92,347
+CDD,RPT1 superfamily,92,347
+CDD,26Sp45,95,346
+CDD,26Sp45 superfamily,95,346
+CDD,CDC48,85,358
+CDD,FtsH_fam,91,346
+CDD,FtsH_fam superfamily,91,346
+CDD,AAA,136,271
+CDD,AAA superfamily,136,271
+CDD,COG1223,85,352
+CDD,COG1223 superfamily,85,352
+CDD,PTZ00454,91,324
+CDD,PTZ00454 superfamily,91,324
+CDD,pup_AAA,89,330
+CDD,pup_AAA superfamily,89,330
+CDD,PTZ00361,92,329
+CDD,PTZ00361 superfamily,92,329
+CDD,ftsH,93,318
+CDD,ftsH superfamily,93,318
+CDD,HflB,88,346
+CDD,HflB superfamily,88,346
+CDD,hflB,91,320
+CDD,hflB superfamily,91,320
+CDD,MIT_AAA_Arch,7,79
+CDD,MIT superfamily,7,79
+CDD,SpoVK,133,352
+CDD,AAA,105,271
+CDD,P-loop_NTPase superfamily,105,271
+CDD,ycf46,90,366
+CDD,ycf46 superfamily,90,366
+CDD,AAA,133,272
+CDD,AAA superfamily,133,272
+CDD,MIT,7,79
+CDD,MIT,7,77
+CDD,PRK13342,136,210
+CDD,PRK13342 superfamily,136,210
+CDD,PRK04195,90,209
+CDD,PRK04195 superfamily,90,209
+CDD,RarA,138,210
+CDD,RarA superfamily,138,210
+CDD,RecA-like_NTPases,136,237
+CDD,RecA-like_NTPases superfamily,136,237
+CDD,MIT,9,73
+CDD,clpX,136,233
+CDD,clpX superfamily,136,233
+CDD,Vps4_C,334,368
+CDD,Vps4_C superfamily,334,368
+CDD,spore_lonB,63,169
+CDD,spore_lonB superfamily,63,169
+CDD,ruvB,100,209
+CDD,ruvB superfamily,100,209
+CDD,T7SS_EccA,36,267
+CDD,T7SS_EccA superfamily,36,267
+CDD,PRK13341,137,210
+CDD,PRK13341 superfamily,137,210
+CDD,RuvB,81,209
+CDD,RuvB superfamily,81,209
+CDD,RuvB_N,82,156
+CDD,RuvB_N superfamily,82,156
+CDD,ruvB,78,156
+CDD,ruvB superfamily,78,156
+CDD,rfc,94,209
+CDD,rfc superfamily,94,209
+CDD,MIT_calpain7_1,7,76
+CDD,ClpA,137,306
+CDD,ClpA superfamily,137,306
+CDD,MoxR,134,276
+CDD,MoxR superfamily,134,276
+CDD,AAA_22,136,209
+CDD,AAA_22 superfamily,136,209
+CDD,clpC,134,308
+CDD,clpC superfamily,134,308
+CDD,MIT_spastin,18,76
+CDD,MIT_1,7,75
+CDD,DnaC,133,206
+CDD,ClpX,136,233
+CDD,ClpX superfamily,136,233
+CDD,AAA_2,136,207
+CDD,AAA_2 superfamily,136,207
+CDD,44,102,207
+CDD,44 superfamily,102,207
+CDD,YifB,85,150
+CDD,YifB superfamily,85,150
+CDD,Mg_chelatase,136,152
+CDD,recA,131,351
+CDD,recA superfamily,131,351
+CDD,PRK08116,134,156
+CDD,TIP49,134,171
+CDD,TIP49 superfamily,134,171
+CDD,Parvo_NS1,136,160
+CDD,Parvo_NS1 superfamily,136,160
+CDD,lon,24,154
+CDD,lon superfamily,24,154
+CDD,spore_lon_C,101,169
+CDD,spore_lon_C superfamily,101,169
+CDD,RNA_helicase,136,157
+CDD,clpX,136,220
+CDD,clpX superfamily,136,220
+CDD,CDC6,126,210
+CDD,CDC6 superfamily,126,210
+CDD,PRK12402,100,197
+CDD,PRK12402 superfamily,100,197
+CDD,TIP49,134,178
+CDD,TIP49 superfamily,134,178
+CDD,TIGR02928,133,210
+CDD,TIGR02928 superfamily,133,210
+#A0A1W6K3Q3
+InterProScan,Coil,54,74
+InterProScan,MIT,11,72
+InterProScan,G3DSA:1.10.8.60,272,370
+InterProScan,cd00009,105,271
+InterProScan,ATPase; AAA-type; core,136,270
+InterProScan,Vps4 oligomerisation; C-terminal,323,367
+InterProScan,MIT,4,81
+InterProScan,AAA+ ATPase domain,132,273
+InterProScan,G3DSA:1.20.58.280,1,82
+InterProScan,P-loop containing nucleoside triphosphate hydrolase,97,367
+InterProScan,G3DSA:3.40.50.300,89,271
+InterProScan,MIT domain superfamily,9,81
+CDD,SpoVK,1,358
+CDD,SpoVK superfamily,1,358
+CDD,CDC48,92,370
+CDD,CDC48 superfamily,92,370
+CDD,PRK03992,95,360
+CDD,PRK03992 superfamily,95,360
+CDD,RPT1,95,358
+CDD,RPT1 superfamily,95,358
+CDD,26Sp45,95,345
+CDD,26Sp45 superfamily,95,345
+CDD,CDC48,85,357
+CDD,COG1223,85,351
+CDD,COG1223 superfamily,85,351
+CDD,AAA,136,271
+CDD,AAA superfamily,136,271
+CDD,FtsH_fam,91,345
+CDD,FtsH_fam superfamily,91,345
+CDD,PTZ00454,91,323
+CDD,PTZ00454 superfamily,91,323
+CDD,pup_AAA,89,329
+CDD,pup_AAA superfamily,89,329
+CDD,PTZ00361,92,328
+CDD,PTZ00361 superfamily,92,328
+CDD,ftsH,93,332
+CDD,ftsH superfamily,93,332
+CDD,HflB,88,345
+CDD,HflB superfamily,88,345
+CDD,MIT_AAA_Arch,7,79
+CDD,MIT superfamily,7,79
+CDD,hflB,91,319
+CDD,hflB superfamily,91,319
+CDD,SpoVK,133,351
+CDD,AAA,105,271
+CDD,P-loop_NTPase superfamily,105,271
+CDD,ycf46,90,346
+CDD,ycf46 superfamily,90,346
+CDD,AAA,133,273
+CDD,AAA superfamily,133,273
+CDD,MIT,7,79
+CDD,MIT,7,77
+CDD,PRK13342,136,216
+CDD,PRK13342 superfamily,136,216
+CDD,PRK04195,94,211
+CDD,PRK04195 superfamily,94,211
+CDD,MIT,9,73
+CDD,RarA,138,210
+CDD,RarA superfamily,138,210
+CDD,RecA-like_NTPases,136,237
+CDD,RecA-like_NTPases superfamily,136,237
+CDD,clpC,59,307
+CDD,clpC superfamily,59,307
+CDD,Vps4_C,336,367
+CDD,Vps4_C superfamily,336,367
+CDD,MoxR,134,299
+CDD,MoxR superfamily,134,299
+CDD,spore_lonB,62,169
+CDD,spore_lonB superfamily,62,169
+CDD,ClpA,137,305
+CDD,ClpA superfamily,137,305
+CDD,clpX,136,233
+CDD,clpX superfamily,136,233
+CDD,MIT_spastin,18,76
+CDD,PRK13341,137,210
+CDD,PRK13341 superfamily,137,210
+CDD,ruvB,100,209
+CDD,ruvB superfamily,100,209
+CDD,MIT_calpain7_1,7,76
+CDD,RuvB_N,78,156
+CDD,RuvB_N superfamily,78,156
+CDD,rfc,92,209
+CDD,rfc superfamily,92,209
+CDD,AAA_22,136,209
+CDD,AAA_22 superfamily,136,209
+CDD,MIT_1,7,75
+CDD,ruvB,78,156
+CDD,ruvB superfamily,78,156
+CDD,44,136,207
+CDD,44 superfamily,136,207
+CDD,RuvB,96,209
+CDD,RuvB superfamily,96,209
+CDD,AAA_2,136,207
+CDD,AAA_2 superfamily,136,207
+CDD,YifB,85,150
+CDD,YifB superfamily,85,150
+CDD,DnaC,133,206
+CDD,lon,24,154
+CDD,lon superfamily,24,154
+#F4B4B0
+InterProScan,G3DSA:1.10.8.60,267,365
+InterProScan,MIT,6,67
+InterProScan,Coil,49,69
+InterProScan,ATPase; AAA-type; core,131,266
+InterProScan,G3DSA:3.40.50.300,84,266
+InterProScan,cd02682,1,74
+InterProScan,P-loop containing nucleoside triphosphate hydrolase,92,362
+InterProScan,MIT domain superfamily,6,80
+InterProScan,G3DSA:1.20.58.280,1,76
+InterProScan,MIT,1,76
+InterProScan,AAA+ ATPase domain,127,268
+InterProScan,cd00009,100,266
+InterProScan,AAA ATPase; AAA+ lid domain,287,338
+CDD,SpoVK,87,360
+CDD,SpoVK superfamily,87,360
+CDD,CDC48,87,365
+CDD,CDC48 superfamily,87,365
+CDD,RPT1,90,355
+CDD,RPT1 superfamily,90,355
+CDD,PRK03992,85,355
+CDD,PRK03992 superfamily,85,355
+CDD,26Sp45,90,342
+CDD,26Sp45 superfamily,90,342
+CDD,CDC48,85,352
+CDD,PTZ00454,68,318
+CDD,PTZ00454 superfamily,68,318
+CDD,FtsH_fam,81,338
+CDD,FtsH_fam superfamily,81,338
+CDD,AAA,131,266
+CDD,AAA superfamily,131,266
+CDD,COG1223,81,346
+CDD,COG1223 superfamily,81,346
+CDD,PTZ00361,87,323
+CDD,PTZ00361 superfamily,87,323
+CDD,pup_AAA,83,340
+CDD,pup_AAA superfamily,83,340
+CDD,HflB,81,365
+CDD,HflB superfamily,81,365
+CDD,ftsH,88,312
+CDD,ftsH superfamily,88,312
+CDD,hflB,81,323
+CDD,hflB superfamily,81,323
+CDD,MIT_AAA_Arch,1,74
+CDD,MIT superfamily,1,74
+CDD,SpoVK,128,341
+CDD,AAA,100,266
+CDD,P-loop_NTPase superfamily,100,266
+CDD,ycf46,86,360
+CDD,ycf46 superfamily,86,360
+CDD,MIT,1,75
+CDD,MIT,1,72
+CDD,AAA,128,268
+CDD,AAA superfamily,128,268
+CDD,PRK13342,131,205
+CDD,PRK13342 superfamily,131,205
+CDD,PRK04195,89,208
+CDD,PRK04195 superfamily,89,208
+CDD,RarA,133,205
+CDD,RarA superfamily,133,205
+CDD,Vps4_C,328,362
+CDD,Vps4_C superfamily,328,362
+CDD,MIT,4,68
+CDD,MoxR,96,269
+CDD,MoxR superfamily,96,269
+CDD,PRK13341,132,205
+CDD,PRK13341 superfamily,132,205
+CDD,clpX,131,228
+CDD,clpX superfamily,131,228
+CDD,spore_lonB,89,164
+CDD,spore_lonB superfamily,89,164
+CDD,RuvB_N,79,151
+CDD,RuvB_N superfamily,79,151
+CDD,ruvB,92,204
+CDD,ruvB superfamily,92,204
+CDD,RuvB,91,204
+CDD,RuvB superfamily,91,204
+CDD,PRK08116,129,151
+CDD,rfc,85,204
+CDD,rfc superfamily,85,204
+CDD,RecA-like_NTPases,131,226
+CDD,RecA-like_NTPases superfamily,131,226
+CDD,ruvB,95,204
+CDD,ruvB superfamily,95,204
+CDD,CDC6,89,354
+CDD,CDC6 superfamily,89,354
+CDD,DnaC,128,201
+CDD,AAA_2,131,202
+CDD,AAA_2 superfamily,131,202
+CDD,Mg_chelatase,96,147
+CDD,clpC,129,264
+CDD,clpC superfamily,129,264
+CDD,MIT_1,2,62
+CDD,YifB,84,145
+CDD,YifB superfamily,84,145
+CDD,MIT_spastin,13,71
+CDD,TIP49,129,166
+CDD,TIP49 superfamily,129,166
+CDD,ClpX,131,202
+CDD,ClpX superfamily,131,202
+CDD,MIT_calpain7_1,2,71
+CDD,AAA_22,131,204
+CDD,AAA_22 superfamily,131,204
+CDD,spore_lon_C,74,168
+CDD,spore_lon_C superfamily,74,168
+CDD,PRK08939,93,159
+CDD,PRK08939 superfamily,93,159
+CDD,T7SS_EccA,100,265
+CDD,T7SS_EccA superfamily,100,265
+CDD,TIGR02928,99,206
+CDD,TIGR02928 superfamily,99,206
+CDD,TIP49,129,173
+CDD,TIP49 superfamily,129,173
+CDD,lon,19,149
+CDD,lon superfamily,19,149
+CDD,clpX,131,202
+CDD,clpX superfamily,131,202
+CDD,MIT_SNX15,4,62
+CDD,Lon,17,150
+CDD,Lon superfamily,17,150
+#L0ABB7
+InterProScan,AAA+ ATPase domain,146,286
+InterProScan,Coil,27,50
+InterProScan,G3DSA:1.20.58.280,6,83
+InterProScan,P-loop containing nucleoside triphosphate hydrolase,111,383
+InterProScan,MIT domain superfamily,11,78
+InterProScan,ATPase; AAA-type; core,150,284
+InterProScan,G3DSA:1.10.8.60,285,364
+InterProScan,Coil,57,77
+InterProScan,AAA ATPase; AAA+ lid domain,307,342
+InterProScan,Vps4 oligomerisation; C-terminal,349,383
+InterProScan,G3DSA:3.40.50.300,110,380
+InterProScan,cd00009,119,284
+CDD,SpoVK,2,381
+CDD,SpoVK superfamily,2,381
+CDD,PRK03992,109,362
+CDD,PRK03992 superfamily,109,362
+CDD,CDC48,76,384
+CDD,CDC48 superfamily,76,384
+CDD,RPT1,109,361
+CDD,RPT1 superfamily,109,361
+CDD,26Sp45,105,338
+CDD,26Sp45 superfamily,105,338
+CDD,CDC48,45,373
+CDD,FtsH_fam,105,361
+CDD,FtsH_fam superfamily,105,361
+CDD,COG1223,109,367
+CDD,COG1223 superfamily,109,367
+CDD,PTZ00454,109,337
+CDD,PTZ00454 superfamily,109,337
+CDD,AAA,150,284
+CDD,AAA superfamily,150,284
+CDD,PTZ00361,111,338
+CDD,PTZ00361 superfamily,111,338
+CDD,ftsH,113,361
+CDD,ftsH superfamily,113,361
+CDD,pup_AAA,104,305
+CDD,pup_AAA superfamily,104,305
+CDD,hflB,114,386
+CDD,hflB superfamily,114,386
+CDD,HflB,107,361
+CDD,HflB superfamily,107,361
+CDD,SpoVK,147,367
+CDD,AAA,119,284
+CDD,P-loop_NTPase superfamily,119,284
+CDD,ycf46,96,381
+CDD,ycf46 superfamily,96,381
+CDD,AAA,147,286
+CDD,AAA superfamily,147,286
+CDD,MIT_AAA_Arch,9,80
+CDD,MIT superfamily,9,80
+CDD,PRK13342,150,223
+CDD,PRK13342 superfamily,150,223
+CDD,RarA,152,223
+CDD,RarA superfamily,152,223
+CDD,PRK04195,104,235
+CDD,PRK04195 superfamily,104,235
+CDD,PRK13341,114,223
+CDD,PRK13341 superfamily,114,223
+CDD,rfc,114,222
+CDD,rfc superfamily,114,222
+CDD,MoxR,111,289
+CDD,MoxR superfamily,111,289
+CDD,T7SS_EccA,120,283
+CDD,T7SS_EccA superfamily,120,283
+CDD,Vps4_C,350,383
+CDD,Vps4_C superfamily,350,383
+CDD,MIT,21,80
+CDD,lon,27,176
+CDD,lon superfamily,27,176
+CDD,DnaA,31,294
+CDD,DnaA superfamily,31,294
+CDD,Mg_chelatase,115,166
+CDD,DnaC,147,219
+CDD,clpC,148,300
+CDD,clpC superfamily,148,300
+CDD,MIT,9,81
+CDD,PRK08116,148,170
+CDD,RuvB,150,175
+CDD,RuvB superfamily,150,175
+CDD,ruvB,150,218
+CDD,ruvB superfamily,150,218
+CDD,ClpA,151,288
+CDD,ClpA superfamily,151,288
+CDD,clpX,150,220
+CDD,clpX superfamily,150,220
+CDD,PRK12402,107,185
+CDD,PRK12402 superfamily,107,185
+CDD,YifB,32,164
+CDD,YifB superfamily,32,164
+CDD,Parvo_NS1,150,198
+CDD,Parvo_NS1 superfamily,150,198
+CDD,ClpA,151,300
+CDD,ClpA superfamily,151,300
+CDD,RuvB_N,150,175
+CDD,RuvB_N superfamily,150,175
+CDD,44,150,220
+CDD,44 superfamily,150,220
+CDD,ruvB,150,172
+CDD,ruvB superfamily,150,172
+CDD,PRK13765,109,168
+CDD,PRK13765 superfamily,109,168
+CDD,RNA_helicase,150,210
+CDD,TIP49,148,185
+CDD,TIP49 superfamily,148,185
+CDD,AAA_22,150,222
+CDD,AAA_22 superfamily,150,222
+CDD,PRK10865,151,300
+CDD,PRK10865 superfamily,151,300
+CDD,AAA_16,145,177
+CDD,AAA_16 superfamily,145,177
+CDD,spore_lonB,108,170
+CDD,spore_lonB superfamily,108,170
+CDD,TIGR02928,110,224
+CDD,TIGR02928 superfamily,110,224
+CDD,TIP49,148,171
+CDD,TIP49 superfamily,148,171
+CDD,AAA_3,150,175
+CDD,AAA_3 superfamily,150,175
+CDD,MiaA,147,183
+CDD,RecA-like_NTPases,150,257
+CDD,RecA-like_NTPases superfamily,150,257
+CDD,AAA_2,150,220
+CDD,AAA_2 superfamily,150,220
+CDD,CDC6,110,223
+CDD,CDC6 superfamily,110,223
+CDD,spore_lon_C,40,170
+CDD,spore_lon_C superfamily,40,170
+CDD,ClpX,150,220
+CDD,ClpX superfamily,150,220
+CDD,AAA_25,139,168
+CDD,FlhF,3,161
+CDD,FlhF superfamily,3,161
+CDD,lon_rel,109,168
+CDD,lon_rel superfamily,109,168
+CDD,TIGR00368,115,164
+CDD,TIGR00368 superfamily,115,164
+CDD,PRK06835,150,184
+CDD,PRK06835 superfamily,150,184
+CDD,DEXHc_RE,155,214
+CDD,DEAD-like_helicase_N superfamily,155,214
+CDD,Lon,150,176
+CDD,Lon superfamily,150,176
+#D9Q220
+InterProScan,MIT domain superfamily,10,79
+InterProScan,cd00009,120,285
+InterProScan,Coil,6,26
+InterProScan,Coil,29,49
+InterProScan,G3DSA:3.40.50.300,111,379
+InterProScan,AAA ATPase; AAA+ lid domain,307,358
+InterProScan,G3DSA:1.20.58.280,1,75
+InterProScan,P-loop containing nucleoside triphosphate hydrolase,112,382
+InterProScan,ATPase; AAA-type; core,151,284
+InterProScan,G3DSA:1.10.8.60,286,363
+InterProScan,AAA+ ATPase domain,147,287
+CDD,SpoVK,6,380
+CDD,SpoVK superfamily,6,380
+CDD,PRK03992,110,361
+CDD,PRK03992 superfamily,110,361
+CDD,RPT1,110,359
+CDD,RPT1 superfamily,110,359
+CDD,CDC48,107,385
+CDD,CDC48 superfamily,107,385
+CDD,26Sp45,106,356
+CDD,26Sp45 superfamily,106,356
+CDD,CDC48,86,372
+CDD,FtsH_fam,110,375
+CDD,FtsH_fam superfamily,110,375
+CDD,AAA,151,285
+CDD,AAA superfamily,151,285
+CDD,PTZ00454,110,362
+CDD,PTZ00454 superfamily,110,362
+CDD,COG1223,102,366
+CDD,COG1223 superfamily,102,366
+CDD,hflB,113,385
+CDD,hflB superfamily,113,385
+CDD,PTZ00361,112,339
+CDD,PTZ00361 superfamily,112,339
+CDD,ftsH,114,339
+CDD,ftsH superfamily,114,339
+CDD,pup_AAA,102,330
+CDD,pup_AAA superfamily,102,330
+CDD,HflB,105,375
+CDD,HflB superfamily,105,375
+CDD,SpoVK,148,366
+CDD,AAA,120,285
+CDD,P-loop_NTPase superfamily,120,285
+CDD,ycf46,112,380
+CDD,ycf46 superfamily,112,380
+CDD,AAA,148,287
+CDD,AAA superfamily,148,287
+CDD,MIT_AAA_Arch,8,76
+CDD,MIT superfamily,8,76
+CDD,PRK13342,151,220
+CDD,PRK13342 superfamily,151,220
+CDD,PRK04195,111,225
+CDD,PRK04195 superfamily,111,225
+CDD,RarA,109,220
+CDD,RarA superfamily,109,220
+CDD,rfc,111,223
+CDD,rfc superfamily,111,223
+CDD,MoxR,149,317
+CDD,MoxR superfamily,149,317
+CDD,PRK13341,152,220
+CDD,PRK13341 superfamily,152,220
+CDD,T7SS_EccA,121,281
+CDD,T7SS_EccA superfamily,121,281
+CDD,AAA_5,150,277
+CDD,AAA_5 superfamily,150,277
+CDD,Vps4_C,349,382
+CDD,Vps4_C superfamily,349,382
+CDD,AAA_22,151,223
+CDD,AAA_22 superfamily,151,223
+CDD,DnaC,148,220
+CDD,clpX,151,221
+CDD,clpX superfamily,151,221
+CDD,PRK09862,92,188
+CDD,PRK09862 superfamily,92,188
+CDD,clpC,149,286
+CDD,clpC superfamily,149,286
+CDD,Mg_chelatase,116,170
+CDD,spore_lonB,109,242
+CDD,spore_lonB superfamily,109,242
+CDD,RNA_helicase,151,265
+CDD,AAA_2,151,264
+CDD,AAA_2 superfamily,151,264
+CDD,ClpA,152,288
+CDD,ClpA superfamily,152,288
+CDD,ruvB,151,223
+CDD,ruvB superfamily,151,223
+CDD,PRK08116,149,171
+CDD,MIT,6,62
+CDD,ClpX,151,221
+CDD,ClpX superfamily,151,221
+CDD,44,151,221
+CDD,44 superfamily,151,221
+CDD,YifB,116,165
+CDD,YifB superfamily,116,165
+CDD,MIT,8,62
+CDD,TIP49,149,171
+CDD,TIP49 superfamily,149,171
+CDD,AAA_25,110,173
+CDD,TIP49,149,171
+CDD,TIP49 superfamily,149,171
+CDD,RuvB,151,171
+CDD,RuvB superfamily,151,171
+CDD,CDC6,148,224
+CDD,CDC6 superfamily,148,224
+CDD,DEXXc_HELZ2-C,121,169
+CDD,DEAD-like_helicase_N superfamily,121,169
+CDD,Sigma54_activat,120,282
+CDD,Sigma54_activat superfamily,120,282
+CDD,AAA_33,151,215
+CDD,AAA_33 superfamily,151,215
+CDD,TIGR02928,148,231
+CDD,TIGR02928 superfamily,148,231
+CDD,RuvB_N,151,171
+CDD,RuvB_N superfamily,151,171
+CDD,spore_lon_C,111,172
+CDD,spore_lon_C superfamily,111,172
+CDD,ruvB,151,171
+CDD,ruvB superfamily,151,171
+CDD,AAA_16,146,179
+CDD,AAA_16 superfamily,146,179
+CDD,clpX,151,221
+CDD,clpX superfamily,151,221
+CDD,AAA_3,151,176
+CDD,AAA_3 superfamily,151,176
+CDD,TIGR00368,116,165
+CDD,TIGR00368 superfamily,116,165
+#A9A4K6
+InterProScan,MIT,11,74
+InterProScan,MIT domain superfamily,3,76
+InterProScan,MIT,5,82
+InterProScan,P-loop containing nucleoside triphosphate hydrolase,113,394
+InterProScan,cd00009,121,287
+InterProScan,G3DSA:3.40.50.300,112,391
+InterProScan,ATPase; AAA-type; core,152,286
+InterProScan,Vps4 oligomerisation; C-terminal,352,394
+InterProScan,G3DSA:1.10.8.60,288,375
+InterProScan,G3DSA:1.20.58.280,1,75
+InterProScan,AAA+ ATPase domain,148,289
+CDD,SpoVK,83,392
+CDD,SpoVK superfamily,83,392
+CDD,CDC48,79,397
+CDD,CDC48 superfamily,79,397
+CDD,RPT1,111,334
+CDD,RPT1 superfamily,111,334
+CDD,PRK03992,111,334
+CDD,PRK03992 superfamily,111,334
+CDD,CDC48,101,384
+CDD,AAA,152,287
+CDD,AAA superfamily,152,287
+CDD,26Sp45,111,341
+CDD,26Sp45 superfamily,111,341
+CDD,pup_AAA,105,353
+CDD,pup_AAA superfamily,105,353
+CDD,COG1223,101,377
+CDD,COG1223 superfamily,101,377
+CDD,PTZ00454,99,339
+CDD,PTZ00454 superfamily,99,339
+CDD,FtsH_fam,107,334
+CDD,FtsH_fam superfamily,107,334
+CDD,ftsH,109,339
+CDD,ftsH superfamily,109,339
+CDD,PTZ00361,108,334
+CDD,PTZ00361 superfamily,108,334
+CDD,hflB,107,336
+CDD,hflB superfamily,107,336
+CDD,HflB,107,388
+CDD,HflB superfamily,107,388
+CDD,SpoVK,136,344
+CDD,AAA,121,287
+CDD,P-loop_NTPase superfamily,121,287
+CDD,AAA,149,289
+CDD,AAA superfamily,149,289
+CDD,MIT,7,72
+CDD,MIT superfamily,7,72
+CDD,MIT_AAA_Arch,8,75
+CDD,ycf46,106,328
+CDD,ycf46 superfamily,106,328
+CDD,PRK13342,152,226
+CDD,PRK13342 superfamily,152,226
+CDD,PRK04195,116,227
+CDD,PRK04195 superfamily,116,227
+CDD,MIT,12,76
+CDD,RarA,152,226
+CDD,RarA superfamily,152,226
+CDD,PRK13341,152,222
+CDD,PRK13341 superfamily,152,222
+CDD,clpX,88,232
+CDD,clpX superfamily,88,232
+CDD,ruvB,116,279
+CDD,ruvB superfamily,116,279
+CDD,RuvB_N,94,173
+CDD,RuvB_N superfamily,94,173
+CDD,MIT,11,74
+CDD,RecA-like_NTPases,153,247
+CDD,RecA-like_NTPases superfamily,153,247
+CDD,AAA_2,149,223
+CDD,AAA_2 superfamily,149,223
+CDD,DnaC,149,222
+CDD,RuvB,94,173
+CDD,RuvB superfamily,94,173
+CDD,rfc,116,225
+CDD,rfc superfamily,116,225
+CDD,PRK08116,151,173
+CDD,MoxR,153,288
+CDD,MoxR superfamily,153,288
+CDD,ruvB,152,173
+CDD,ruvB superfamily,152,173
+CDD,AAA_22,152,225
+CDD,AAA_22 superfamily,152,225
+CDD,T7SS_EccA,100,229
+CDD,T7SS_EccA superfamily,100,229
+CDD,clpX,118,236
+CDD,clpX superfamily,118,236
+CDD,Vps4_C,352,394
+CDD,Vps4_C superfamily,352,394
+CDD,Mg_chelatase,152,168
+CDD,ClpX,118,236
+CDD,ClpX superfamily,118,236
+CDD,spore_lonB,70,184
+CDD,spore_lonB superfamily,70,184
+CDD,PRK13765,99,170
+CDD,PRK13765 superfamily,99,170
+CDD,ClpA,153,291
+CDD,ClpA superfamily,153,291
+CDD,44,152,225
+CDD,44 superfamily,152,225
+CDD,TIP49,150,194
+CDD,TIP49 superfamily,150,194
+#F3KJW3
+InterProScan,G3DSA:1.20.58.280,1,75
+InterProScan,G3DSA:3.40.50.300,112,391
+InterProScan,G3DSA:1.10.8.60,288,375
+InterProScan,MIT domain superfamily,5,74
+InterProScan,cd00009,121,287
+InterProScan,MIT,11,73
+InterProScan,ATPase; AAA-type; core,152,286
+InterProScan,consensus disorder prediction,74,103
+InterProScan,AAA+ ATPase domain,148,289
+InterProScan,Vps4 oligomerisation; C-terminal,358,394
+InterProScan,P-loop containing nucleoside triphosphate hydrolase,113,394
+InterProScan,MIT,5,82
+CDD,SpoVK,71,386
+CDD,SpoVK superfamily,71,386
+CDD,CDC48,108,397
+CDD,CDC48 superfamily,108,397
+CDD,RPT1,108,341
+CDD,RPT1 superfamily,108,341
+CDD,PRK03992,100,341
+CDD,PRK03992 superfamily,100,341
+CDD,CDC48,101,384
+CDD,AAA,152,287
+CDD,AAA superfamily,152,287
+CDD,26Sp45,111,341
+CDD,26Sp45 superfamily,111,341
+CDD,COG1223,101,377
+CDD,COG1223 superfamily,101,377
+CDD,pup_AAA,105,353
+CDD,pup_AAA superfamily,105,353
+CDD,FtsH_fam,107,339
+CDD,FtsH_fam superfamily,107,339
+CDD,PTZ00454,84,339
+CDD,PTZ00454 superfamily,84,339
+CDD,PTZ00361,108,341
+CDD,PTZ00361 superfamily,108,341
+CDD,ftsH,109,339
+CDD,ftsH superfamily,109,339
+CDD,HflB,105,388
+CDD,HflB superfamily,105,388
+CDD,hflB,107,338
+CDD,hflB superfamily,107,338
+CDD,SpoVK,136,378
+CDD,AAA,121,287
+CDD,P-loop_NTPase superfamily,121,287
+CDD,AAA,149,289
+CDD,AAA superfamily,149,289
+CDD,ycf46,113,344
+CDD,ycf46 superfamily,113,344
+CDD,MIT_AAA_Arch,8,74
+CDD,MIT superfamily,8,74
+CDD,PRK13342,152,226
+CDD,PRK13342 superfamily,152,226
+CDD,PRK04195,116,235
+CDD,PRK04195 superfamily,116,235
+CDD,MIT,7,75
+CDD,RarA,152,226
+CDD,RarA superfamily,152,226
+CDD,PRK13341,152,222
+CDD,PRK13341 superfamily,152,222
+CDD,ruvB,116,279
+CDD,ruvB superfamily,116,279
+CDD,RuvB,94,173
+CDD,RuvB superfamily,94,173
+CDD,RuvB_N,94,173
+CDD,RuvB_N superfamily,94,173
+CDD,clpX,101,232
+CDD,clpX superfamily,101,232
+CDD,MIT,11,75
+CDD,RecA-like_NTPases,153,247
+CDD,RecA-like_NTPases superfamily,153,247
+CDD,T7SS_EccA,118,230
+CDD,T7SS_EccA superfamily,118,230
+CDD,AAA_22,152,225
+CDD,AAA_22 superfamily,152,225
+CDD,rfc,116,225
+CDD,rfc superfamily,116,225
+CDD,DnaC,149,222
+CDD,AAA_2,149,223
+CDD,AAA_2 superfamily,149,223
+CDD,MoxR,153,316
+CDD,MoxR superfamily,153,316
+CDD,chaperone_ClpB,70,291
+CDD,chaperone_ClpB superfamily,70,291
+CDD,PRK08116,151,173
+CDD,ruvB,152,173
+CDD,ruvB superfamily,152,173
+CDD,spore_lonB,105,184
+CDD,spore_lonB superfamily,105,184
+CDD,Vps4_C,358,394
+CDD,Vps4_C superfamily,358,394
+CDD,ClpA,153,300
+CDD,ClpA superfamily,153,300
+CDD,Mg_chelatase,152,168
+CDD,clpX,120,236
+CDD,clpX superfamily,120,236
+CDD,PRK10865,71,291
+CDD,PRK10865 superfamily,71,291
+CDD,ClpX,120,236
+CDD,ClpX superfamily,120,236
+CDD,clpC,154,291
+CDD,clpC superfamily,154,291
+CDD,TIP49,150,194
+CDD,TIP49 superfamily,150,194
+CDD,44,152,179
+CDD,44 superfamily,152,179
+CDD,PRK08939,150,172
+CDD,PRK08939 superfamily,150,172
+#K0IM19
+InterProScan,Coil,211,231
+InterProScan,MIT,5,82
+InterProScan,P-loop containing nucleoside triphosphate hydrolase,134,410
+InterProScan,AAA+ ATPase domain,169,310
+InterProScan,consensus disorder prediction,90,116
+InterProScan,G3DSA:3.40.50.300,133,407
+InterProScan,G3DSA:1.10.8.60,309,391
+InterProScan,cd00009,142,308
+InterProScan,ATPase; AAA-type; core,173,307
+InterProScan,consensus disorder prediction,76,116
+InterProScan,MIT domain superfamily,5,76
+InterProScan,G3DSA:1.20.58.280,1,74
+CDD,SpoVK,122,402
+CDD,SpoVK superfamily,122,402
+CDD,CDC48,129,413
+CDD,CDC48 superfamily,129,413
+CDD,CDC48,118,408
+CDD,RPT1,118,353
+CDD,RPT1 superfamily,118,353
+CDD,26Sp45,118,352
+CDD,26Sp45 superfamily,118,352
+CDD,PRK03992,118,392
+CDD,PRK03992 superfamily,118,392
+CDD,AAA,173,308
+CDD,AAA superfamily,173,308
+CDD,pup_AAA,122,364
+CDD,pup_AAA superfamily,122,364
+CDD,COG1223,132,350
+CDD,COG1223 superfamily,132,350
+CDD,PTZ00454,128,360
+CDD,PTZ00454 superfamily,128,360
+CDD,FtsH_fam,128,386
+CDD,FtsH_fam superfamily,128,386
+CDD,PTZ00361,118,368
+CDD,PTZ00361 superfamily,118,368
+CDD,ftsH,122,351
+CDD,ftsH superfamily,122,351
+CDD,hflB,128,386
+CDD,hflB superfamily,128,386
+CDD,SpoVK,170,408
+CDD,HflB,126,386
+CDD,HflB superfamily,126,386
+CDD,AAA,142,308
+CDD,P-loop_NTPase superfamily,142,308
+CDD,AAA,170,310
+CDD,AAA superfamily,170,310
+CDD,MIT_AAA_Arch,8,73
+CDD,MIT superfamily,8,73
+CDD,MIT,7,72
+CDD,ycf46,160,355
+CDD,ycf46 superfamily,160,355
+CDD,MIT,11,76
+CDD,PRK13342,173,247
+CDD,PRK13342 superfamily,173,247
+CDD,MoxR,171,350
+CDD,MoxR superfamily,171,350
+CDD,T7SS_EccA,122,304
+CDD,T7SS_EccA superfamily,122,304
+CDD,RarA,175,247
+CDD,RarA superfamily,175,247
+CDD,spore_lon_C,117,260
+CDD,spore_lon_C superfamily,117,260
+CDD,clpX,139,253
+CDD,clpX superfamily,139,253
+CDD,PRK04195,127,184
+CDD,PRK04195 superfamily,127,184
+CDD,TIGR02928,170,293
+CDD,TIGR02928 superfamily,170,293
+CDD,MIT,12,72
+CDD,spore_lonB,128,184
+CDD,spore_lonB superfamily,128,184
+CDD,AAA_22,173,246
+CDD,AAA_22 superfamily,173,246
+CDD,ruvB,137,246
+CDD,ruvB superfamily,137,246
+CDD,DnaC,170,243
+#A0A060HUR8
+InterProScan,MIT,5,83
+InterProScan,consensus disorder prediction,100,115
+InterProScan,G3DSA:1.20.58.280,1,74
+InterProScan,G3DSA:3.40.50.300,131,405
+InterProScan,P-loop containing nucleoside triphosphate hydrolase,132,408
+InterProScan,MIT domain superfamily,5,76
+InterProScan,consensus disorder prediction,76,115
+InterProScan,AAA+ ATPase domain,167,308
+InterProScan,ATPase; AAA-type; core,171,305
+InterProScan,cd00009,140,306
+InterProScan,G3DSA:1.10.8.60,307,389
+CDD,SpoVK,132,400
+CDD,SpoVK superfamily,132,400
+CDD,CDC48,127,411
+CDD,CDC48 superfamily,127,411
+CDD,CDC48,132,406
+CDD,RPT1,116,351
+CDD,RPT1 superfamily,116,351
+CDD,PRK03992,116,350
+CDD,PRK03992 superfamily,116,350
+CDD,26Sp45,116,350
+CDD,26Sp45 superfamily,116,350
+CDD,AAA,171,306
+CDD,AAA superfamily,171,306
+CDD,COG1223,131,348
+CDD,COG1223 superfamily,131,348
+CDD,pup_AAA,120,362
+CDD,pup_AAA superfamily,120,362
+CDD,PTZ00454,126,358
+CDD,PTZ00454 superfamily,126,358
+CDD,FtsH_fam,126,350
+CDD,FtsH_fam superfamily,126,350
+CDD,PTZ00361,116,366
+CDD,PTZ00361 superfamily,116,366
+CDD,hflB,126,366
+CDD,hflB superfamily,126,366
+CDD,ftsH,120,349
+CDD,ftsH superfamily,120,349
+CDD,SpoVK,155,409
+CDD,HflB,124,360
+CDD,HflB superfamily,124,360
+CDD,AAA,140,306
+CDD,P-loop_NTPase superfamily,140,306
+CDD,AAA,168,308
+CDD,AAA superfamily,168,308
+CDD,MIT_AAA_Arch,8,73
+CDD,MIT superfamily,8,73
+CDD,ycf46,168,353
+CDD,ycf46 superfamily,168,353
+CDD,MIT,7,72
+CDD,MIT,11,76
+CDD,PRK13342,171,245
+CDD,PRK13342 superfamily,171,245
+CDD,PRK04195,125,254
+CDD,PRK04195 superfamily,125,254
+CDD,clpX,137,251
+CDD,clpX superfamily,137,251
+CDD,RarA,173,245
+CDD,RarA superfamily,173,245
+CDD,spore_lon_C,115,244
+CDD,spore_lon_C superfamily,115,244
+CDD,MoxR,169,348
+CDD,MoxR superfamily,169,348
+CDD,spore_lonB,126,182
+CDD,spore_lonB superfamily,126,182
+CDD,TIGR02928,168,291
+CDD,TIGR02928 superfamily,168,291
+CDD,MIT,12,72
+CDD,AAA_22,171,244
+CDD,AAA_22 superfamily,171,244
+CDD,T7SS_EccA,120,302
+CDD,T7SS_EccA superfamily,120,302
+#I0A071
+InterProScan,G3DSA:3.40.50.300,100,369
+InterProScan,AAA ATPase; AAA+ lid domain,296,347
+InterProScan,Coil,53,80
+InterProScan,ATPase; AAA-type; conserved site,246,265
+InterProScan,G3DSA:1.10.8.60,275,354
+InterProScan,MIT,9,71
+InterProScan,P-loop containing nucleoside triphosphate hydrolase,101,373
+InterProScan,MIT domain superfamily,7,72
+InterProScan,AAA+ ATPase domain,136,276
+InterProScan,ATPase; AAA-type; core,140,273
+InterProScan,G3DSA:1.20.58.280,2,82
+InterProScan,cd00009,137,274
+InterProScan,MIT,3,81
+CDD,SpoVK,93,359
+CDD,SpoVK superfamily,93,359
+CDD,PRK03992,85,366
+CDD,PRK03992 superfamily,85,366
+CDD,CDC48,96,376
+CDD,CDC48 superfamily,96,376
+CDD,RPT1,86,348
+CDD,RPT1 superfamily,86,348
+CDD,26Sp45,87,348
+CDD,26Sp45 superfamily,87,348
+CDD,CDC48,92,357
+CDD,PTZ00454,86,327
+CDD,PTZ00454 superfamily,86,327
+CDD,FtsH_fam,95,347
+CDD,FtsH_fam superfamily,95,347
+CDD,AAA,140,274
+CDD,AAA superfamily,140,274
+CDD,PTZ00361,85,328
+CDD,PTZ00361 superfamily,85,328
+CDD,COG1223,93,366
+CDD,COG1223 superfamily,93,366
+CDD,pup_AAA,92,319
+CDD,pup_AAA superfamily,92,319
+CDD,HflB,51,376
+CDD,HflB superfamily,51,376
+CDD,ftsH,103,317
+CDD,ftsH superfamily,103,317
+CDD,hflB,105,347
+CDD,hflB superfamily,105,347
+CDD,SpoVK,137,362
+CDD,AAA,137,274
+CDD,P-loop_NTPase superfamily,137,274
+CDD,MIT_AAA_Arch,5,79
+CDD,MIT superfamily,5,79
+CDD,ycf46,39,369
+CDD,ycf46 superfamily,39,369
+CDD,AAA,137,276
+CDD,AAA superfamily,137,276
+CDD,PRK13342,140,213
+CDD,PRK13342 superfamily,140,213
+CDD,MIT,8,73
+CDD,RarA,142,213
+CDD,RarA superfamily,142,213
+CDD,MIT,8,70
+CDD,MoxR,138,307
+CDD,MoxR superfamily,138,307
+CDD,PRK04195,104,215
+CDD,PRK04195 superfamily,104,215
+CDD,DnaA,140,346
+CDD,DnaA superfamily,140,346
+CDD,clpX,140,210
+CDD,clpX superfamily,140,210
+CDD,MIT,8,72
+CDD,PRK13341,141,213
+CDD,PRK13341 superfamily,141,213
+CDD,ClpX,140,210
+CDD,ClpX superfamily,140,210
+CDD,AAA_5,139,266
+CDD,AAA_5 superfamily,139,266
+CDD,T7SS_EccA,138,273
+CDD,T7SS_EccA superfamily,138,273
+CDD,clpX,140,210
+CDD,clpX superfamily,140,210
+CDD,ruvB,140,212
+CDD,ruvB superfamily,140,212
+CDD,AAA_2,140,210
+CDD,AAA_2 superfamily,140,210
+CDD,RuvB,140,212
+CDD,RuvB superfamily,140,212
+CDD,DnaC,137,177
+CDD,AAA_22,140,212
+CDD,AAA_22 superfamily,140,212
+CDD,rfc,104,212
+CDD,rfc superfamily,104,212
+CDD,44,137,210
+CDD,44 superfamily,137,210
+CDD,YifB,105,154
+CDD,YifB superfamily,105,154
+CDD,PRK08116,138,160
+CDD,Mg_chelatase,140,156
+CDD,ClpA,141,278
+CDD,ClpA superfamily,141,278
+CDD,ruvB,140,212
+CDD,ruvB superfamily,140,212
+CDD,Vps4_C,339,373
+CDD,Vps4_C superfamily,339,373
+CDD,RuvB_N,140,162
+CDD,RuvB_N superfamily,140,162
+CDD,RNA_helicase,140,176
+CDD,clpA,141,283
+CDD,clpA superfamily,141,283
+CDD,ATP-synt_ab,131,159
+CDD,PRK12422,140,327
+CDD,PRK12422 superfamily,140,327
+CDD,RecA-like_NTPases,140,234
+CDD,RecA-like_NTPases superfamily,140,234
+CDD,MIT_calpain7_1,6,72
+CDD,recA_like,135,231
+CDD,PRK13764,138,159
+CDD,PRK13764 superfamily,138,159
+#A0A532TGJ5
+InterProScan,cd02656,7,76
+InterProScan,P-loop containing nucleoside triphosphate hydrolase,123,400
+InterProScan,MIT domain superfamily,7,79
+InterProScan,AAA+ ATPase domain,160,297
+InterProScan,consensus disorder prediction,89,105
+InterProScan,cd00009,131,295
+InterProScan,G3DSA:1.20.58.280,2,85
+InterProScan,ATPase; AAA-type; core,164,294
+InterProScan,MIT,5,83
+InterProScan,MIT,10,74
+InterProScan,consensus disorder prediction,77,107
+InterProScan,G3DSA:1.10.8.60,296,381
+InterProScan,AAA ATPase; AAA+ lid domain,320,365
+InterProScan,G3DSA:3.40.50.300,122,397
+CDD,SpoVK,32,398
+CDD,SpoVK superfamily,32,398
+CDD,CDC48,118,403
+CDD,CDC48 superfamily,118,403
+CDD,PRK03992,32,382
+CDD,PRK03992 superfamily,32,382
+CDD,RPT1,113,384
+CDD,RPT1 superfamily,113,384
+CDD,26Sp45,113,382
+CDD,26Sp45 superfamily,113,382
+CDD,CDC48,120,383
+CDD,FtsH_fam,120,381
+CDD,FtsH_fam superfamily,120,381
+CDD,PTZ00361,95,362
+CDD,PTZ00361 superfamily,95,362
+CDD,AAA,164,295
+CDD,AAA superfamily,164,295
+CDD,PTZ00454,119,381
+CDD,PTZ00454 superfamily,119,381
+CDD,ftsH,125,350
+CDD,ftsH superfamily,125,350
+CDD,pup_AAA,100,308
+CDD,pup_AAA superfamily,100,308
+CDD,HflB,121,358
+CDD,HflB superfamily,121,358
+CDD,hflB,129,381
+CDD,hflB superfamily,129,381
+CDD,COG1223,120,388
+CDD,COG1223 superfamily,120,388
+CDD,SpoVK,146,383
+CDD,AAA,131,295
+CDD,P-loop_NTPase superfamily,131,295
+CDD,ycf46,105,398
+CDD,ycf46 superfamily,105,398
+CDD,MIT,7,76
+CDD,MIT superfamily,7,76
+CDD,AAA,160,297
+CDD,AAA superfamily,160,297
+CDD,MIT,12,74
+CDD,MIT_VPS4,10,76
+CDD,MIT_1,12,78
+CDD,MIT_AAA_Arch,8,76
+CDD,MIT,8,76
+CDD,MoxR,164,331
+CDD,MoxR superfamily,164,331
+CDD,PRK13342,164,229
+CDD,PRK13342 superfamily,164,229
+CDD,clpX,162,235
+CDD,clpX superfamily,162,235
+CDD,RarA,166,286
+CDD,RarA superfamily,166,286
+CDD,Vps4_C,367,401
+CDD,Vps4_C superfamily,367,401
+CDD,ClpX,162,235
+CDD,ClpX superfamily,162,235
+CDD,T7SS_EccA,132,294
+CDD,T7SS_EccA superfamily,132,294
+CDD,AAA_2,159,233
+CDD,AAA_2 superfamily,159,233
+CDD,AAA_5,163,230
+CDD,AAA_5 superfamily,163,230
+CDD,PRK04195,164,230
+CDD,PRK04195 superfamily,164,230
+CDD,ruvB,164,229
+CDD,ruvB superfamily,164,229
+CDD,Mg_chelatase,164,183
+CDD,RuvB,164,229
+CDD,RuvB superfamily,164,229
+CDD,lon,132,233
+CDD,lon superfamily,132,233
+CDD,clpX,162,179
+CDD,clpX superfamily,162,179
+CDD,YifB,129,183
+CDD,YifB superfamily,129,183
+CDD,DnaC,163,229
+CDD,RNA_helicase,164,184
+#A0A5C9E2H7
+InterProScan,G3DSA:1.10.8.60,348,443
+InterProScan,CDC48; N-terminal subdomain,7,90
+InterProScan,P-loop containing nucleoside triphosphate hydrolase,448,705
+InterProScan,ATPase; AAA-type; conserved site,317,335
+InterProScan,G3DSA:2.40.40.20,2,90
+InterProScan,CDC48 domain 2-like superfamily,92,182
+InterProScan,CDC48; N-terminal subdomain,7,92
+InterProScan,cd00009,183,346
+InterProScan,G3DSA:3.10.330.10,92,163
+InterProScan,CDC48; domain 2,106,169
+InterProScan,ATPase; AAA-type; conserved site,591,609
+InterProScan,G3DSA:3.40.50.300,448,707
+InterProScan,AAA+ ATPase domain,486,623
+InterProScan,AAA+ ATPase domain,213,349
+InterProScan,ATPase; AAA-type; core,490,620
+InterProScan,ATPase; AAA-type; core,217,345
+InterProScan,cd00009,456,621
+InterProScan,AAA ATPase; AAA+ lid domain,643,689
+InterProScan,AAA ATPase; AAA+ lid domain,369,428
+InterProScan,G3DSA:3.40.50.300,171,347
+InterProScan,P-loop containing nucleoside triphosphate hydrolase,175,439
+InterProScan,AAA ATPase; CDC48 family,7,712
+InterProScan,CDC48; domain 2,106,168
+InterProScan,G3DSA:1.10.8.60,622,694
+InterProScan,Aspartate decarboxylase-like domain superfamily,3,89
+CDD,CDC48,5,717
+CDD,CDC48 superfamily,5,717
+CDD,SpoVK,197,699
+CDD,SpoVK superfamily,197,699
+CDD,PRK03992,444,695
+CDD,PRK03992 superfamily,444,695
+CDD,RPT1,433,694
+CDD,RPT1 superfamily,433,694
+CDD,PRK03992,161,435
+CDD,RPT1,175,435
+CDD,26Sp45,446,694
+CDD,26Sp45 superfamily,446,694
+CDD,SpoVK,165,443
+CDD,26Sp45,175,435
+CDD,FtsH_fam,431,694
+CDD,FtsH_fam superfamily,431,694
+CDD,HflB,430,705
+CDD,HflB superfamily,430,705
+CDD,ftsH,450,694
+CDD,ftsH superfamily,450,694
+CDD,FtsH_fam,175,431
+CDD,PTZ00454,446,694
+CDD,PTZ00454 superfamily,446,694
+CDD,PTZ00454,175,443
+CDD,pup_AAA,444,676
+CDD,pup_AAA superfamily,444,676
+CDD,ftsH,177,412
+CDD,PTZ00361,445,675
+CDD,PTZ00361 superfamily,445,675
+CDD,PTZ00361,175,400
+CDD,HflB,175,435
+CDD,hflB,431,690
+CDD,hflB superfamily,431,690
+CDD,pup_AAA,156,407
+CDD,COG1223,442,701
+CDD,COG1223 superfamily,442,701
+CDD,hflB,176,445
+CDD,AAA,217,347
+CDD,AAA superfamily,217,347
+CDD,AAA,490,620
+CDD,COG1223,111,438
+CDD,ycf46,435,675
+CDD,ycf46 superfamily,435,675
+CDD,AAA,183,346
+CDD,P-loop_NTPase superfamily,183,346
+CDD,AAA,456,621
+CDD,CDC48_N,7,90
+CDD,CDC48_N superfamily,7,90
+CDD,CDC48_N,8,89
+CDD,ycf46,177,402
+CDD,AAA,213,349
+CDD,AAA superfamily,213,349
+CDD,AAA,487,623
+CDD,CDC48_2,106,169
+CDD,CDC48_2 superfamily,106,169
+CDD,CDC48_2,107,169
+CDD,PRK13342,217,323
+CDD,PRK13342 superfamily,217,323
+CDD,T7SS_EccA,218,343
+CDD,T7SS_EccA superfamily,218,343
+CDD,PRK13342,490,555
+CDD,T7SS_EccA,457,702
+CDD,RarA,219,323
+CDD,RarA superfamily,219,323
+CDD,AAA_5,216,339
+CDD,AAA_5 superfamily,216,339
+CDD,ruvB,217,287
+CDD,ruvB superfamily,217,287
+CDD,RuvB,217,292
+CDD,RuvB superfamily,217,292
+CDD,ruvB,451,647
+CDD,ClpA,218,556
+CDD,ClpA superfamily,218,556
+CDD,MoxR,483,680
+CDD,MoxR superfamily,483,680
+CDD,MoxR,217,480
+CDD,AAA_2,214,287
+CDD,AAA_2 superfamily,214,287
+CDD,RarA,492,555
+CDD,RuvB_N,451,521
+CDD,RuvB_N superfamily,451,521
+CDD,44,214,370
+CDD,44 superfamily,214,370
+CDD,RuvB,423,647
+CDD,ruvB,217,292
+CDD,ruvB superfamily,217,292
+CDD,RuvB_N,217,281
+CDD,TIP49,483,542
+CDD,TIP49 superfamily,483,542
+CDD,Sigma54_activat,217,360
+CDD,Sigma54_activat superfamily,217,360
+CDD,TIP49,486,542
+CDD,TIP49 superfamily,486,542
+CDD,ClpA,491,632
+CDD,ClpA,218,556
+CDD,ClpA superfamily,218,556
+CDD,PRK04195,453,576
+CDD,PRK04195 superfamily,453,576
+CDD,PRK13341,470,555
+CDD,PRK13341 superfamily,470,555
+CDD,TIP49,215,269
+CDD,PRK04195,178,288
+CDD,TIP49,215,269
+CDD,spore_V_K,457,554
+CDD,spore_V_K superfamily,457,554
+CDD,clpA,218,323
+CDD,clpA superfamily,218,323
+CDD,PRK13341,218,323
+CDD,PRK08116,216,282
+CDD,clpX,217,310
+CDD,clpX superfamily,217,310
+CDD,AAA_2,487,558
+CDD,ruvB,451,521
+CDD,DnaC,214,282
+CDD,Vps4_C,680,706
+CDD,Vps4_C superfamily,680,706
+CDD,ycf2,208,394
+CDD,ycf2 superfamily,208,394
+CDD,DnaA,217,471
+CDD,DnaA superfamily,217,471
+CDD,AAA_16,204,332
+CDD,AAA_16 superfamily,204,332
+CDD,PRK08116,479,510
+CDD,AAA_3,217,245
+CDD,AAA_3 superfamily,217,245
+CDD,BMS1,203,248
+CDD,DnaA,490,651
+CDD,PRK11361,217,368
+CDD,PRK11361 superfamily,217,368
+CDD,clpC,219,556
+CDD,clpC superfamily,219,556
+CDD,DEXXQc_Upf1-like,466,554
+CDD,DEAD-like_helicase_N superfamily,466,554
+CDD,ABC_ATPase,490,609
+CDD,ABC_ATPase superfamily,490,609
+CDD,CDC6,214,324
+CDD,CDC6 superfamily,214,324
+CDD,IstB_IS21,470,519
+CDD,chaperone_ClpB,219,285
+CDD,chaperone_ClpB superfamily,219,285
+CDD,PspF,217,345
+CDD,PspF superfamily,217,345
+#A0A1Q9P861
+InterProScan,Coil,102,122
+InterProScan,cd00009,165,301
+InterProScan,P-loop containing nucleoside triphosphate hydrolase,129,398
+InterProScan,G3DSA:1.10.8.60,302,386
+InterProScan,G3DSA:3.40.50.300,128,402
+InterProScan,G3DSA:1.20.58.280,4,73
+InterProScan,ATPase; AAA-type; conserved site,273,292
+InterProScan,AAA+ ATPase domain,167,303
+InterProScan,AAA ATPase; AAA+ lid domain,324,366
+InterProScan,MIT domain superfamily,11,73
+InterProScan,ATPase; AAA-type; core,171,301
+CDD,SpoVK,103,388
+CDD,SpoVK superfamily,103,388
+CDD,PRK03992,85,387
+CDD,PRK03992 superfamily,85,387
+CDD,RPT1,127,364
+CDD,RPT1 superfamily,127,364
+CDD,CDC48,95,403
+CDD,CDC48 superfamily,95,403
+CDD,26Sp45,125,386
+CDD,26Sp45 superfamily,125,386
+CDD,CDC48,87,389
+CDD,PTZ00454,125,354
+CDD,PTZ00454 superfamily,125,354
+CDD,COG1223,102,399
+CDD,COG1223 superfamily,102,399
+CDD,AAA,171,301
+CDD,AAA superfamily,171,301
+CDD,PTZ00361,134,386
+CDD,PTZ00361 superfamily,134,386
+CDD,FtsH_fam,126,370
+CDD,FtsH_fam superfamily,126,370
+CDD,HflB,129,349
+CDD,HflB superfamily,129,349
+CDD,SpoVK,153,389
+CDD,hflB,113,362
+CDD,hflB superfamily,113,362
+CDD,ftsH,118,350
+CDD,ftsH superfamily,118,350
+CDD,pup_AAA,56,317
+CDD,pup_AAA superfamily,56,317
+CDD,AAA,165,301
+CDD,P-loop_NTPase superfamily,165,301
+CDD,ycf46,112,403
+CDD,ycf46 superfamily,112,403
+CDD,AAA,167,302
+CDD,AAA superfamily,167,302
+CDD,PRK13342,171,292
+CDD,PRK13342 superfamily,171,292
+CDD,RarA,173,292
+CDD,RarA superfamily,173,292
+CDD,AAA_5,170,293
+CDD,AAA_5 superfamily,170,293
+CDD,PRK04195,128,252
+CDD,PRK04195 superfamily,128,252
+CDD,MIT,10,74
+CDD,MIT superfamily,10,74
+CDD,AAA_2,171,243
+CDD,AAA_2 superfamily,171,243
+CDD,CDC6,171,364
+CDD,CDC6 superfamily,171,364
+CDD,clpX,171,251
+CDD,clpX superfamily,171,251
+CDD,MoxR,169,396
+CDD,MoxR superfamily,169,396
+CDD,T7SS_EccA,133,300
+CDD,T7SS_EccA superfamily,133,300
+CDD,Vps4_C,362,403
+CDD,Vps4_C superfamily,362,403
+CDD,ClpX,171,251
+CDD,ClpX superfamily,171,251
+CDD,DnaA,162,371
+CDD,DnaA superfamily,162,371
+CDD,44,144,242
+CDD,44 superfamily,144,242
+CDD,RNA_helicase,171,196
+CDD,clpC,164,314
+CDD,clpC superfamily,164,314
+CDD,lon,138,246
+CDD,lon superfamily,138,246
+#A0A1Q9N7Y7
+InterProScan,ATPase; AAA-type; conserved site,251,270
+InterProScan,Vps4 oligomerisation; C-terminal,346,381
+InterProScan,P-loop containing nucleoside triphosphate hydrolase,108,380
+InterProScan,MIT domain superfamily,4,76
+InterProScan,AAA ATPase; AAA+ lid domain,301,335
+InterProScan,MIT,5,82
+InterProScan,G3DSA:1.20.58.280,2,82
+InterProScan,AAA+ ATPase domain,145,281
+InterProScan,MIT,10,73
+InterProScan,G3DSA:1.10.8.60,280,362
+InterProScan,G3DSA:3.40.50.300,107,378
+InterProScan,ATPase; AAA-type; core,149,279
+InterProScan,cd00009,116,279
+CDD,SpoVK,8,379
+CDD,SpoVK superfamily,8,379
+CDD,CDC48,38,382
+CDD,CDC48 superfamily,38,382
+CDD,PRK03992,104,333
+CDD,PRK03992 superfamily,104,333
+CDD,RPT1,70,333
+CDD,RPT1 superfamily,70,333
+CDD,CDC48,82,364
+CDD,26Sp45,104,363
+CDD,26Sp45 superfamily,104,363
+CDD,AAA,149,279
+CDD,AAA superfamily,149,279
+CDD,FtsH_fam,106,344
+CDD,FtsH_fam superfamily,106,344
+CDD,PTZ00454,93,332
+CDD,PTZ00454 superfamily,93,332
+CDD,PTZ00361,90,333
+CDD,PTZ00361 superfamily,90,333
+CDD,COG1223,106,319
+CDD,COG1223 superfamily,106,319
+CDD,ftsH,110,333
+CDD,ftsH superfamily,110,333
+CDD,pup_AAA,92,294
+CDD,pup_AAA superfamily,92,294
+CDD,hflB,112,332
+CDD,hflB superfamily,112,332
+CDD,HflB,106,333
+CDD,HflB superfamily,106,333
+CDD,SpoVK,131,364
+CDD,AAA,116,279
+CDD,P-loop_NTPase superfamily,116,279
+CDD,AAA,145,281
+CDD,AAA superfamily,145,281
+CDD,ycf46,94,379
+CDD,ycf46 superfamily,94,379
+CDD,PRK13342,149,214
+CDD,PRK13342 superfamily,149,214
+CDD,ClpX,149,229
+CDD,ClpX superfamily,149,229
+CDD,T7SS_EccA,115,278
+CDD,T7SS_EccA superfamily,115,278
+CDD,clpX,149,229
+CDD,clpX superfamily,149,229
+CDD,AAA_2,149,219
+CDD,AAA_2 superfamily,149,219
+CDD,Vps4_C,346,381
+CDD,Vps4_C superfamily,346,381
+CDD,MIT,7,72
+CDD,MIT superfamily,7,72
+CDD,AAA_5,148,271
+CDD,AAA_5 superfamily,148,271
+CDD,clpX,149,229
+CDD,clpX superfamily,149,229
+CDD,RarA,151,214
+CDD,RarA superfamily,151,214
+CDD,ClpA,150,292
+CDD,ClpA superfamily,150,292
+CDD,MoxR,147,284
+CDD,MoxR superfamily,147,284
+CDD,ruvB,149,226
+CDD,ruvB superfamily,149,226
+CDD,MIT,10,74
+CDD,clpA,150,273
+CDD,clpA superfamily,150,273
+CDD,RuvB,149,226
+CDD,RuvB superfamily,149,226
+CDD,ClpA,150,290
+CDD,ClpA superfamily,150,290
+CDD,MIT,8,81
+CDD,ruvB,149,226
+CDD,ruvB superfamily,149,226
+CDD,PRK04195,113,263
+CDD,PRK04195 superfamily,113,263
+CDD,DnaC,148,214
+CDD,PRK13341,150,214
+CDD,PRK13341 superfamily,150,214
+CDD,TIP49,126,203
+CDD,TIP49 superfamily,126,203
+CDD,MIT_AAA_Arch,8,76
+CDD,PRK08903,120,221
+CDD,PRK08903 superfamily,120,221
+CDD,RuvB_N,149,226
+CDD,RuvB_N superfamily,149,226
+CDD,TIP49,126,181
+CDD,TIP49 superfamily,126,181
+CDD,clpC,147,283
+CDD,clpC superfamily,147,283
+CDD,PRK08116,147,169
+CDD,DnaA_homol_Hda,149,225
+CDD,DnaA_homol_Hda superfamily,149,225
+CDD,RNA_helicase,149,169
+#A0A1Q9PC87
+InterProScan,G3DSA:1.10.8.60,277,359
+InterProScan,ATPase; AAA-type; core,147,276
+InterProScan,MIT domain superfamily,2,83
+InterProScan,P-loop containing nucleoside triphosphate hydrolase,106,378
+InterProScan,Vps4 oligomerisation; C-terminal,337,379
+InterProScan,MIT,3,81
+InterProScan,cd02656,6,78
+InterProScan,MIT,7,72
+InterProScan,ATPase; AAA-type; conserved site,248,267
+InterProScan,G3DSA:3.40.50.300,105,376
+InterProScan,AAA ATPase; AAA+ lid domain,298,330
+InterProScan,G3DSA:1.20.58.280,5,76
+InterProScan,cd00009,114,261
+InterProScan,AAA+ ATPase domain,143,278
+CDD,SpoVK,53,370
+CDD,SpoVK superfamily,53,370
+CDD,RPT1,102,359
+CDD,RPT1 superfamily,102,359
+CDD,CDC48,95,379
+CDD,CDC48 superfamily,95,379
+CDD,PRK03992,102,359
+CDD,PRK03992 superfamily,102,359
+CDD,26Sp45,102,359
+CDD,26Sp45 superfamily,102,359
+CDD,CDC48,89,362
+CDD,PTZ00454,94,329
+CDD,PTZ00454 superfamily,94,329
+CDD,FtsH_fam,103,359
+CDD,FtsH_fam superfamily,103,359
+CDD,PTZ00361,102,359
+CDD,PTZ00361 superfamily,102,359
+CDD,AAA,147,276
+CDD,AAA superfamily,147,276
+CDD,COG1223,103,330
+CDD,COG1223 superfamily,103,330
+CDD,HflB,104,370
+CDD,HflB superfamily,104,370
+CDD,ftsH,108,326
+CDD,ftsH superfamily,108,326
+CDD,hflB,109,329
+CDD,hflB superfamily,109,329
+CDD,pup_AAA,95,261
+CDD,pup_AAA superfamily,95,261
+CDD,SpoVK,129,362
+CDD,AAA,114,261
+CDD,P-loop_NTPase superfamily,114,261
+CDD,MIT,6,78
+CDD,MIT superfamily,6,78
+CDD,MIT_VPS4,10,78
+CDD,AAA,143,278
+CDD,AAA superfamily,143,278
+CDD,ycf46,106,374
+CDD,ycf46 superfamily,106,374
+CDD,MIT,10,77
+CDD,MIT,7,72
+CDD,PRK13342,147,212
+CDD,PRK13342 superfamily,147,212
+CDD,MIT_AAA_Arch,6,74
+CDD,MIT_2,10,74
+CDD,AAA_2,147,213
+CDD,AAA_2 superfamily,147,213
+CDD,clpX,147,216
+CDD,clpX superfamily,147,216
+CDD,Vps4_C,342,379
+CDD,Vps4_C superfamily,342,379
+CDD,T7SS_EccA,110,253
+CDD,T7SS_EccA superfamily,110,253
+CDD,PRK04195,109,221
+CDD,PRK04195 superfamily,109,221
+CDD,ClpX,147,216
+CDD,ClpX superfamily,147,216
+CDD,clpX,147,216
+CDD,clpX superfamily,147,216
+CDD,RarA,149,212
+CDD,RarA superfamily,149,212
+CDD,TIP49,124,195
+CDD,TIP49 superfamily,124,195
+CDD,MoxR,147,213
+CDD,MoxR superfamily,147,213
+CDD,MIT_1,5,79
+CDD,RNA_helicase,147,183
+CDD,YifB,97,162
+CDD,YifB superfamily,97,162
+CDD,RuvB,78,216
+CDD,RuvB superfamily,78,216
+CDD,ClpA,31,213
+CDD,ClpA superfamily,31,213
+CDD,ruvB,109,216
+CDD,ruvB superfamily,109,216
+CDD,RuvB_N,83,172
+CDD,RuvB_N superfamily,83,172
+CDD,ClpA,148,226
+CDD,clpA,141,236
+CDD,clpA superfamily,141,236
+CDD,Mg_chelatase,147,163
+CDD,TIP49,124,191
+CDD,TIP49 superfamily,124,191
+CDD,AAA_16,135,251
+CDD,AAA_16 superfamily,135,251
+CDD,PRK12402,101,176
+CDD,PRK12402 superfamily,101,176
+CDD,DnaA_homol_Hda,147,223
+CDD,DnaA_homol_Hda superfamily,147,223
+#A0A5B9DFR2
+InterProScan,ATPase; AAA-type; conserved site,273,292
+InterProScan,cd00009,164,301
+InterProScan,AAA+ ATPase domain,166,303
+InterProScan,G3DSA:1.10.8.60,302,386
+InterProScan,ATPase; AAA-type; core,170,300
+InterProScan,consensus disorder prediction,76,115
+InterProScan,MIT,10,72
+InterProScan,G3DSA:1.20.58.280,1,84
+InterProScan,G3DSA:3.40.50.300,128,402
+InterProScan,MIT domain superfamily,3,78
+InterProScan,P-loop containing nucleoside triphosphate hydrolase,129,405
+InterProScan,AAA ATPase; AAA+ lid domain,324,380
+CDD,SpoVK,111,397
+CDD,SpoVK superfamily,111,397
+CDD,CDC48,111,406
+CDD,CDC48 superfamily,111,406
+CDD,RPT1,127,391
+CDD,RPT1 superfamily,127,391
+CDD,26Sp45,119,387
+CDD,26Sp45 superfamily,119,387
+CDD,PRK03992,125,387
+CDD,PRK03992 superfamily,125,387
+CDD,CDC48,113,388
+CDD,PTZ00454,115,354
+CDD,PTZ00454 superfamily,115,354
+CDD,PTZ00361,129,386
+CDD,PTZ00361 superfamily,129,386
+CDD,AAA,170,301
+CDD,AAA superfamily,170,301
+CDD,FtsH_fam,126,355
+CDD,FtsH_fam superfamily,126,355
+CDD,pup_AAA,117,311
+CDD,pup_AAA superfamily,117,311
+CDD,COG1223,126,389
+CDD,COG1223 superfamily,126,389
+CDD,ftsH,114,355
+CDD,ftsH superfamily,114,355
+CDD,hflB,109,354
+CDD,hflB superfamily,109,354
+CDD,HflB,131,355
+CDD,HflB superfamily,131,355
+CDD,SpoVK,152,406
+CDD,AAA,164,301
+CDD,P-loop_NTPase superfamily,164,301
+CDD,AAA,166,303
+CDD,AAA superfamily,166,303
+CDD,ycf46,114,401
+CDD,ycf46 superfamily,114,401
+CDD,Vps4_C,372,406
+CDD,Vps4_C superfamily,372,406
+CDD,MIT,10,71
+CDD,MIT superfamily,10,71
+CDD,MIT_VPS4,11,78
+CDD,MIT,9,80
+CDD,PRK04195,128,238
+CDD,PRK04195 superfamily,128,238
+CDD,clpX,170,239
+CDD,clpX superfamily,170,239
+CDD,PRK13342,170,235
+CDD,PRK13342 superfamily,170,235
+CDD,ClpX,170,239
+CDD,ClpX superfamily,170,239
+CDD,RarA,172,292
+CDD,RarA superfamily,172,292
+CDD,MIT,8,80
+CDD,RuvB_N,106,195
+CDD,RuvB_N superfamily,106,195
+CDD,T7SS_EccA,138,238
+CDD,T7SS_EccA superfamily,138,238
+CDD,ruvB,170,195
+CDD,ruvB superfamily,170,195
+CDD,TIP49,147,220
+CDD,TIP49 superfamily,147,220
+CDD,RuvB,170,195
+CDD,RuvB superfamily,170,195
+CDD,GntK,170,209
+CDD,NK superfamily,170,209
+CDD,clpC,163,310
+CDD,clpC superfamily,163,310
+CDD,ruvB,170,193
+CDD,ruvB superfamily,170,193
+CDD,clpX,170,203
+CDD,clpX superfamily,170,203
+CDD,Mg_chelatase,170,186
+#Q9UN37
+InterProScan,AAA+ ATPase domain,159,295
+InterProScan,G3DSA:3.40.50.300,122,426
+InterProScan,AAA ATPase; AAA+ lid domain,316,349
+InterProScan,ATPase; AAA-type; conserved site,265,284
+InterProScan,cd00009,130,293
+InterProScan,MIT,2,80
+InterProScan,G3DSA:1.10.8.60,295,417
+InterProScan,P-loop containing nucleoside triphosphate hydrolase,122,348
+InterProScan,consensus disorder prediction,75,106
+InterProScan,MIT,6,71
+InterProScan,cd02678,4,79
+InterProScan,Vps4 oligomerisation; C-terminal,374,434
+InterProScan,MIT domain superfamily,2,92
+InterProScan,ATPase; AAA-type; core,163,293
+InterProScan,Coil,15,35
+InterProScan,G3DSA:1.20.58.280,1,87
+CDD,SpoVK,26,348
+CDD,SpoVK superfamily,26,348
+CDD,CDC48,107,437
+CDD,CDC48 superfamily,107,437
+CDD,RPT1,112,348
+CDD,RPT1 superfamily,112,348
+CDD,PRK03992,118,348
+CDD,PRK03992 superfamily,118,348
+CDD,26Sp45,118,348
+CDD,26Sp45 superfamily,118,348
+CDD,AAA,163,293
+CDD,AAA superfamily,163,293
+CDD,FtsH_fam,106,372
+CDD,FtsH_fam superfamily,106,372
+CDD,CDC48,122,349
+CDD,PTZ00454,4,348
+CDD,PTZ00454 superfamily,4,348
+CDD,COG1223,119,334
+CDD,COG1223 superfamily,119,334
+CDD,MIT_VPS4,4,79
+CDD,MIT superfamily,4,79
+CDD,HflB,120,368
+CDD,HflB superfamily,120,368
+CDD,PTZ00361,118,337
+CDD,PTZ00361 superfamily,118,337
+CDD,hflB,128,357
+CDD,hflB superfamily,128,357
+CDD,ftsH,124,348
+CDD,ftsH superfamily,124,348
+CDD,Vps4_C,374,434
+CDD,Vps4_C superfamily,374,434
+CDD,SpoVK,145,349
+CDD,AAA,130,293
+CDD,P-loop_NTPase superfamily,130,293
+CDD,pup_AAA,117,307
+CDD,pup_AAA superfamily,117,307
+CDD,MIT,6,72
+CDD,MIT,2,79
+CDD,MIT,4,79
+CDD,AAA,159,295
+CDD,AAA superfamily,159,295
+CDD,MIT_2,5,79
+CDD,ycf46,105,337
+CDD,ycf46 superfamily,105,337
+CDD,MIT_1,8,81
+CDD,RarA,165,328
+CDD,RarA superfamily,165,328
+CDD,T7SS_EccA,161,292
+CDD,T7SS_EccA superfamily,161,292
+CDD,MIT_calpain7_2,6,74
+CDD,DnaC,162,243
+CDD,PRK13342,163,229
+CDD,PRK13342 superfamily,163,229
+CDD,MIT_SNX15,6,70
+CDD,AAA_5,162,285
+CDD,AAA_5 superfamily,162,285
+CDD,AAA_2,163,230
+CDD,AAA_2 superfamily,163,230
+CDD,TIP49,131,212
+CDD,TIP49 superfamily,131,212
+CDD,TIP49,131,212
+CDD,TIP49 superfamily,131,212
+CDD,MoxR,161,324
+CDD,MoxR superfamily,161,324
+CDD,ycf2,158,377
+CDD,ycf2 superfamily,158,377
+CDD,AAA_22,163,232
+CDD,AAA_22 superfamily,163,232
+CDD,PRK04195,127,234
+CDD,PRK04195 superfamily,127,234
+CDD,ClpA,164,234
+CDD,ClpA superfamily,164,234
+CDD,DnaA,163,327
+CDD,DnaA superfamily,163,327
+CDD,lon,6,193
+CDD,lon superfamily,6,193
+CDD,PRK08116,161,183
+CDD,PRK12402,128,199
+CDD,PRK12402 superfamily,128,199
+CDD,YifB,128,178
+CDD,YifB superfamily,128,178
+CDD,clpC,161,296
+CDD,clpC superfamily,161,296
+CDD,Mg_chelatase,126,182
+CDD,IstB_IS21,162,197
+CDD,RecA-like_NTPases,163,251
+CDD,RecA-like_NTPases superfamily,163,251
+CDD,clpA,164,296
+CDD,clpA superfamily,164,296
+CDD,PRK13341,164,229
+CDD,PRK13341 superfamily,164,229
+CDD,ABC_ATPase,163,231
+CDD,ABC_ATPase superfamily,163,231
+CDD,PRK13765,161,181
+CDD,PRK13765 superfamily,161,181
+CDD,ruvB,163,232
+CDD,ruvB superfamily,163,232
+CDD,AAA_14,163,229
+CDD,RNA_helicase,163,183
+#P52917
+InterProScan,G3DSA:3.40.50.300,128,425
+InterProScan,G3DSA:1.10.8.60,300,416
+InterProScan,consensus disorder prediction,418,437
+InterProScan,Vps4 oligomerisation; C-terminal,373,433
+InterProScan,Coil,57,84
+InterProScan,AAA+ ATPase domain,165,300
+InterProScan,MIT,3,80
+InterProScan,consensus disorder prediction,83,98
+InterProScan,cd00009,136,298
+InterProScan,ATPase; AAA-type; core,169,298
+InterProScan,G3DSA:1.20.58.280,1,89
+InterProScan,MIT,7,72
+InterProScan,consensus disorder prediction,99,113
+InterProScan,cd02678,5,79
+InterProScan,ATPase; AAA-type; conserved site,270,289
+InterProScan,P-loop containing nucleoside triphosphate hydrolase,128,427
+InterProScan,MIT domain superfamily,1,90
+InterProScan,consensus disorder prediction,74,114
+InterProScan,consensus disorder prediction,364,384
+CDD,SpoVK,11,418
+CDD,SpoVK superfamily,11,418
+CDD,RPT1,126,368
+CDD,RPT1 superfamily,126,368
+CDD,CDC48,110,434
+CDD,CDC48 superfamily,110,434
+CDD,PRK03992,126,353
+CDD,PRK03992 superfamily,126,353
+CDD,CDC48,128,416
+CDD,AAA,169,298
+CDD,AAA superfamily,169,298
+CDD,26Sp45,126,368
+CDD,26Sp45 superfamily,126,368
+CDD,FtsH_fam,125,363
+CDD,FtsH_fam superfamily,125,363
+CDD,PTZ00454,125,353
+CDD,PTZ00454 superfamily,125,353
+CDD,COG1223,126,352
+CDD,COG1223 superfamily,126,352
+CDD,HflB,122,349
+CDD,HflB superfamily,122,349
+CDD,PTZ00361,128,310
+CDD,PTZ00361 superfamily,128,310
+CDD,hflB,116,352
+CDD,hflB superfamily,116,352
+CDD,ftsH,130,353
+CDD,ftsH superfamily,130,353
+CDD,MIT_VPS4,5,79
+CDD,MIT superfamily,5,79
+CDD,Vps4_C,373,433
+CDD,Vps4_C superfamily,373,433
+CDD,pup_AAA,123,373
+CDD,pup_AAA superfamily,123,373
+CDD,SpoVK,151,410
+CDD,AAA,136,298
+CDD,P-loop_NTPase superfamily,136,298
+CDD,MIT,7,72
+CDD,MIT,3,79
+CDD,MIT,6,79
+CDD,AAA,169,300
+CDD,AAA superfamily,169,300
+CDD,MIT_2,7,78
+CDD,ycf46,111,339
+CDD,ycf46 superfamily,111,339
+CDD,MIT_1,8,77
+CDD,PRK13342,162,234
+CDD,PRK13342 superfamily,162,234
+CDD,T7SS_EccA,166,297
+CDD,T7SS_EccA superfamily,166,297
+CDD,MoxR,169,300
+CDD,MoxR superfamily,169,300
+CDD,MIT_SNX15,5,76
+CDD,AAA_5,168,290
+CDD,AAA_5 superfamily,168,290
+CDD,DnaC,168,261
+CDD,PRK04195,133,254
+CDD,PRK04195 superfamily,133,254
+CDD,AAA_2,164,235
+CDD,AAA_2 superfamily,164,235
+CDD,TIP49,129,217
+CDD,TIP49 superfamily,129,217
+CDD,RarA,171,234
+CDD,RarA superfamily,171,234
+CDD,ycf2,165,263
+CDD,ycf2 superfamily,165,263
+CDD,PRK13341,167,234
+CDD,PRK13341 superfamily,167,234
+CDD,ruvB,169,237
+CDD,ruvB superfamily,169,237
+CDD,ClpA,163,248
+CDD,ClpA superfamily,163,248
+CDD,PRK08116,159,189
+CDD,44,147,235
+CDD,44 superfamily,147,235
+CDD,TIP49,137,213
+CDD,TIP49 superfamily,137,213
+CDD,clpC,162,291
+CDD,clpC superfamily,162,291
+CDD,ClpA,170,299
+CDD,ClpA superfamily,170,299
+CDD,DnaA,169,304
+CDD,DnaA superfamily,169,304
+CDD,COG1373,143,237
+CDD,COG1373 superfamily,143,237
+CDD,YifB,134,184
+CDD,YifB superfamily,134,184
+CDD,RuvB,169,237
+CDD,RuvB superfamily,169,237
+CDD,clpA,170,292
+CDD,clpA superfamily,170,292
+CDD,Mg_chelatase,132,188
+CDD,PRK08181,169,243
+CDD,PRK12402,133,198
+CDD,PRK12402 superfamily,133,198
+CDD,DnaA_homol_Hda,169,304
+CDD,DnaA_homol_Hda superfamily,169,304
+CDD,RNA_helicase,169,189
+CDD,AAA_16,157,273
+CDD,AAA_16 superfamily,157,273
+CDD,AAA_22,169,240
+CDD,AAA_22 superfamily,169,240
+CDD,PspF,165,304
+CDD,PspF superfamily,165,304
+CDD,clpX,135,235
+CDD,clpX superfamily,135,235
+CDD,AAA_24,169,269
+CDD,lon,169,198
+CDD,lon superfamily,169,198
+CDD,ruvB,160,237
+CDD,ruvB superfamily,160,237

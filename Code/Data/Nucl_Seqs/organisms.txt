@@ -1,0 +1,30 @@
+Thermoplasma acidophilum
+Thermoplasma volcanium
+Thermococcus gammatolerans
+Thermococcus barophilus
+Thermococcus cleftensis
+Methanocaldococcus vulcanius
+Methanocaldococcus infernus
+Aeropyrum pernix
+Ignicoccus hospitalis
+Pyrodictium occultum
+Hyperthermus butylicus
+Desulfurococcus amylolyticus
+Staphylothermus marinus
+Saccharolobus solfataricus
+Sulfurisphaera tokodaii
+Sulfolobus acidocaldarius
+Metallosphaera sedula
+Sulfolobus islandicus
+Acidianus sulfidivorans
+Acidianus manzaensis
+Acidianus hospitalis
+Caldisphaera lagunensis
+Acidilobus saccharovorans
+Nitrosopumilus maritimus
+Candidatus Nitrosoarchaeum limnia
+Candidatus Nitrososphaera gargensis
+Nitrososphaera viennensis
+Fervidicoccus fontis
+Anaerobic archaeon MK-D1
+

@@ -1,0 +1,53 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-78D2A47EE804FA4-7028982157404B0
+#datatype	hitsFull Results
+#status	0
+#Start time	2020-03-11T14:06:40	Run time	0:00:00:22
+#status	success
+
+Query	Hit type	PSSM-ID	From	To	E-Value	Bitscore	Accession	Short name	Incomplete	Superfamily
+Q#2 - >tr|A8AB73|A8AB73_IGNH4 CdvA domain-containing protein OS=Ignicoccus hospitalis (strain KIN4/I / DSM 18386 / JCM 14125) OX=453591 GN=Igni_0996 PE=4 SV=1	non-specific	227355	70	217	0.000220631	41.602	COG5022	COG5022	NC	cl34868
+Q#2 - >tr|A8AB73|A8AB73_IGNH4 CdvA domain-containing protein OS=Ignicoccus hospitalis (strain KIN4/I / DSM 18386 / JCM 14125) OX=453591 GN=Igni_0996 PE=4 SV=1	superfamily	227355	70	217	0.000220631	41.602	cl34868	COG5022 superfamily	NC	 - 
+Q#2 - >tr|A8AB73|A8AB73_IGNH4 CdvA domain-containing protein OS=Ignicoccus hospitalis (strain KIN4/I / DSM 18386 / JCM 14125) OX=453591 GN=Igni_0996 PE=4 SV=1	non-specific	224117	106	210	0.00227796	38.542	COG1196	Smc	NC	cl34174
+Q#2 - >tr|A8AB73|A8AB73_IGNH4 CdvA domain-containing protein OS=Ignicoccus hospitalis (strain KIN4/I / DSM 18386 / JCM 14125) OX=453591 GN=Igni_0996 PE=4 SV=1	superfamily	224117	106	210	0.00227796	38.542	cl34174	Smc superfamily	NC	 - 
+Q#2 - >tr|A8AB73|A8AB73_IGNH4 CdvA domain-containing protein OS=Ignicoccus hospitalis (strain KIN4/I / DSM 18386 / JCM 14125) OX=453591 GN=Igni_0996 PE=4 SV=1	non-specific	274009	77	209	0.00228711	38.5103	TIGR02169	SMC_prok_A	N	cl37070
+Q#2 - >tr|A8AB73|A8AB73_IGNH4 CdvA domain-containing protein OS=Ignicoccus hospitalis (strain KIN4/I / DSM 18386 / JCM 14125) OX=453591 GN=Igni_0996 PE=4 SV=1	superfamily	274009	77	209	0.00228711	38.5103	cl37070	SMC_prok_A superfamily	N	 - 
+Q#2 - >tr|A8AB73|A8AB73_IGNH4 CdvA domain-containing protein OS=Ignicoccus hospitalis (strain KIN4/I / DSM 18386 / JCM 14125) OX=453591 GN=Igni_0996 PE=4 SV=1	non-specific	237177	103	205	0.00554694	37.065	PRK12704	PRK12704	C	cl36166
+Q#2 - >tr|A8AB73|A8AB73_IGNH4 CdvA domain-containing protein OS=Ignicoccus hospitalis (strain KIN4/I / DSM 18386 / JCM 14125) OX=453591 GN=Igni_0996 PE=4 SV=1	superfamily	237177	103	205	0.00554694	37.065	cl36166	PRK12704 superfamily	C	 - 
+Q#5 - >tr|I3XSK2|I3XSK2_DESAM CdvA domain-containing protein OS=Desulfurococcus amylolyticus DSM 16532 OX=768672 GN=Desfe_1053 PE=4 SV=1	non-specific	224117	38	197	0.00219745	38.542	COG1196	Smc	NC	cl34174
+Q#5 - >tr|I3XSK2|I3XSK2_DESAM CdvA domain-containing protein OS=Desulfurococcus amylolyticus DSM 16532 OX=768672 GN=Desfe_1053 PE=4 SV=1	superfamily	224117	38	197	0.00219745	38.542	cl34174	Smc superfamily	NC	 - 
+Q#5 - >tr|I3XSK2|I3XSK2_DESAM CdvA domain-containing protein OS=Desulfurococcus amylolyticus DSM 16532 OX=768672 GN=Desfe_1053 PE=4 SV=1	non-specific	223496	79	182	0.00332785	38.2027	COG0419	SbcC	NC	cl33865
+Q#5 - >tr|I3XSK2|I3XSK2_DESAM CdvA domain-containing protein OS=Desulfurococcus amylolyticus DSM 16532 OX=768672 GN=Desfe_1053 PE=4 SV=1	superfamily	223496	79	182	0.00332785	38.2027	cl33865	SbcC superfamily	NC	 - 
+Q#5 - >tr|I3XSK2|I3XSK2_DESAM CdvA domain-containing protein OS=Desulfurococcus amylolyticus DSM 16532 OX=768672 GN=Desfe_1053 PE=4 SV=1	non-specific	337715	118	223	0.0064719	36.8229	pfam10359	Fmp27_WPPW	NC	cl26543
+Q#5 - >tr|I3XSK2|I3XSK2_DESAM CdvA domain-containing protein OS=Desulfurococcus amylolyticus DSM 16532 OX=768672 GN=Desfe_1053 PE=4 SV=1	superfamily	337715	118	223	0.0064719	36.8229	cl26543	Fmp27_WPPW superfamily	NC	 - 
+Q#6 - >tr|A3DP07|A3DP07_STAMF CdvA domain-containing protein OS=Staphylothermus marinus (strain ATCC 43588 / DSM 3639 / JCM 9404 / F1) OX=399550 GN=Smar_1276 PE=4 SV=1	non-specific	224117	71	201	0.000342306	41.2384	COG1196	Smc	NC	cl34174
+Q#6 - >tr|A3DP07|A3DP07_STAMF CdvA domain-containing protein OS=Staphylothermus marinus (strain ATCC 43588 / DSM 3639 / JCM 9404 / F1) OX=399550 GN=Smar_1276 PE=4 SV=1	superfamily	224117	71	201	0.000342306	41.2384	cl34174	Smc superfamily	NC	 - 
+Q#6 - >tr|A3DP07|A3DP07_STAMF CdvA domain-containing protein OS=Staphylothermus marinus (strain ATCC 43588 / DSM 3639 / JCM 9404 / F1) OX=399550 GN=Smar_1276 PE=4 SV=1	non-specific	337715	118	214	0.00189198	38.7489	pfam10359	Fmp27_WPPW	NC	cl26543
+Q#6 - >tr|A3DP07|A3DP07_STAMF CdvA domain-containing protein OS=Staphylothermus marinus (strain ATCC 43588 / DSM 3639 / JCM 9404 / F1) OX=399550 GN=Smar_1276 PE=4 SV=1	superfamily	337715	118	214	0.00189198	38.7489	cl26543	Fmp27_WPPW superfamily	NC	 - 
+Q#6 - >tr|A3DP07|A3DP07_STAMF CdvA domain-containing protein OS=Staphylothermus marinus (strain ATCC 43588 / DSM 3639 / JCM 9404 / F1) OX=399550 GN=Smar_1276 PE=4 SV=1	non-specific	274499	33	220	0.00254991	38.2043	TIGR03282	methan_mark_13	NC	cl02775
+Q#6 - >tr|A3DP07|A3DP07_STAMF CdvA domain-containing protein OS=Staphylothermus marinus (strain ATCC 43588 / DSM 3639 / JCM 9404 / F1) OX=399550 GN=Smar_1276 PE=4 SV=1	superfamily	351884	33	220	0.00254991	38.2043	cl02775	Oxidoreductase_nitrogenase superfamily	NC	 - 
+Q#6 - >tr|A3DP07|A3DP07_STAMF CdvA domain-containing protein OS=Staphylothermus marinus (strain ATCC 43588 / DSM 3639 / JCM 9404 / F1) OX=399550 GN=Smar_1276 PE=4 SV=1	non-specific	224117	75	223	0.00493595	37.3864	COG1196	Smc	NC	cl34174
+Q#6 - >tr|A3DP07|A3DP07_STAMF CdvA domain-containing protein OS=Staphylothermus marinus (strain ATCC 43588 / DSM 3639 / JCM 9404 / F1) OX=399550 GN=Smar_1276 PE=4 SV=1	non-specific	215212	62	150	0.00773781	36.7429	PLN02372	PLN02372	N	cl21528
+Q#6 - >tr|A3DP07|A3DP07_STAMF CdvA domain-containing protein OS=Staphylothermus marinus (strain ATCC 43588 / DSM 3639 / JCM 9404 / F1) OX=399550 GN=Smar_1276 PE=4 SV=1	superfamily	354854	62	150	0.00773781	36.7429	cl21528	Lipocalin superfamily	N	 - 
+Q#7 - >tr|Q97ZJ5|Q97ZJ5_SACS2 CdvA domain-containing protein OS=Saccharolobus solfataricus (strain ATCC 35092 / DSM 1617 / JCM 11322 / P2) OX=273057 GN=SSO0911 PE=1 SV=1	non-specific	224117	98	229	0.00796683	37.3864	COG1196	Smc	NC	cl34174
+Q#7 - >tr|Q97ZJ5|Q97ZJ5_SACS2 CdvA domain-containing protein OS=Saccharolobus solfataricus (strain ATCC 35092 / DSM 1617 / JCM 11322 / P2) OX=273057 GN=SSO0911 PE=1 SV=1	superfamily	224117	98	229	0.00796683	37.3864	cl34174	Smc superfamily	NC	 - 
+Q#8 - >tr|Q972B5|Q972B5_SULTO CdvA domain-containing protein OS=Sulfurisphaera tokodaii (strain DSM 16993 / JCM 10545 / NBRC 100140 / 7) OX=273063 GN=ST1213 PE=4 SV=1	non-specific	224117	82	199	0.00475489	37.7716	COG1196	Smc	NC	cl34174
+Q#8 - >tr|Q972B5|Q972B5_SULTO CdvA domain-containing protein OS=Sulfurisphaera tokodaii (strain DSM 16993 / JCM 10545 / NBRC 100140 / 7) OX=273063 GN=ST1213 PE=4 SV=1	superfamily	224117	82	199	0.00475489	37.7716	cl34174	Smc superfamily	NC	 - 
+Q#12 - >tr|A0A2U9IP02|A0A2U9IP02_9CREN Cell division protein OS=Acidianus sulfidivorans JP7 OX=619593 GN=DFR86_09435 PE=4 SV=1	non-specific	223250	75	147	0.00457126	37.5777	COG0172	SerS	C	cl33789
+Q#12 - >tr|A0A2U9IP02|A0A2U9IP02_9CREN Cell division protein OS=Acidianus sulfidivorans JP7 OX=619593 GN=DFR86_09435 PE=4 SV=1	superfamily	223250	75	147	0.00457126	37.5777	cl33789	SerS superfamily	C	 - 
+Q#12 - >tr|A0A2U9IP02|A0A2U9IP02_9CREN Cell division protein OS=Acidianus sulfidivorans JP7 OX=619593 GN=DFR86_09435 PE=4 SV=1	non-specific	153331	81	181	0.00545703	36.6856	cd07647	F-BAR_PSTPIP	N	cl12013
+Q#12 - >tr|A0A2U9IP02|A0A2U9IP02_9CREN Cell division protein OS=Acidianus sulfidivorans JP7 OX=619593 GN=DFR86_09435 PE=4 SV=1	superfamily	353336	81	181	0.00545703	36.6856	cl12013	BAR superfamily	N	 - 
+Q#12 - >tr|A0A2U9IP02|A0A2U9IP02_9CREN Cell division protein OS=Acidianus sulfidivorans JP7 OX=619593 GN=DFR86_09435 PE=4 SV=1	non-specific	225233	61	147	0.00923307	36.5481	COG2358	Imp	N	cl34461
+Q#12 - >tr|A0A2U9IP02|A0A2U9IP02_9CREN Cell division protein OS=Acidianus sulfidivorans JP7 OX=619593 GN=DFR86_09435 PE=4 SV=1	superfamily	225233	61	147	0.00923307	36.5481	cl34461	Imp superfamily	N	 - 
+Q#13 - >tr|A0A1W6K1U8|A0A1W6K1U8_9CREN Cell division protein OS=Acidianus manzaensis OX=282676 GN=B6F84_11115 PE=4 SV=1	non-specific	223250	75	147	0.000873743	39.5037	COG0172	SerS	C	cl33789
+Q#13 - >tr|A0A1W6K1U8|A0A1W6K1U8_9CREN Cell division protein OS=Acidianus manzaensis OX=282676 GN=B6F84_11115 PE=4 SV=1	superfamily	223250	75	147	0.000873743	39.5037	cl33789	SerS superfamily	C	 - 
+Q#14 - >tr|F4B4A8|F4B4A8_ACIHW Cell division protein CdvA OS=Acidianus hospitalis (strain W1) OX=933801 GN=Ahos_1333 PE=4 SV=1	non-specific	153331	79	181	0.00228086	37.8412	cd07647	F-BAR_PSTPIP	N	cl12013
+Q#14 - >tr|F4B4A8|F4B4A8_ACIHW Cell division protein CdvA OS=Acidianus hospitalis (strain W1) OX=933801 GN=Ahos_1333 PE=4 SV=1	superfamily	353336	79	181	0.00228086	37.8412	cl12013	BAR superfamily	N	 - 
+Q#17 - >tr|A9A4A7|A9A4A7_NITMS CdvA domain-containing protein OS=Nitrosopumilus maritimus (strain SCM1) OX=436308 GN=Nmar_0700 PE=4 SV=1	non-specific	223021	205	286	0.000485066	41.4625	PHA03247	PHA03247	N	cl33720
+Q#17 - >tr|A9A4A7|A9A4A7_NITMS CdvA domain-containing protein OS=Nitrosopumilus maritimus (strain SCM1) OX=436308 GN=Nmar_0700 PE=4 SV=1	superfamily	223021	205	286	0.000485066	41.4625	cl33720	PHA03247 superfamily	N	 - 
+Q#17 - >tr|A9A4A7|A9A4A7_NITMS CdvA domain-containing protein OS=Nitrosopumilus maritimus (strain SCM1) OX=436308 GN=Nmar_0700 PE=4 SV=1	non-specific	282861	102	277	0.000810998	40.7161	pfam05058	ActA	NC	cl25856
+Q#17 - >tr|A9A4A7|A9A4A7_NITMS CdvA domain-containing protein OS=Nitrosopumilus maritimus (strain SCM1) OX=436308 GN=Nmar_0700 PE=4 SV=1	superfamily	282861	102	277	0.000810998	40.7161	cl25856	ActA superfamily	NC	 - 
+Q#17 - >tr|A9A4A7|A9A4A7_NITMS CdvA domain-containing protein OS=Nitrosopumilus maritimus (strain SCM1) OX=436308 GN=Nmar_0700 PE=4 SV=1	non-specific	237868	209	283	0.00764325	37.7196	PRK14960	PRK14960	NC	cl36450
+Q#17 - >tr|A9A4A7|A9A4A7_NITMS CdvA domain-containing protein OS=Nitrosopumilus maritimus (strain SCM1) OX=436308 GN=Nmar_0700 PE=4 SV=1	superfamily	237868	209	283	0.00764325	37.7196	cl36450	PRK14960 superfamily	NC	 - 
+Q#20 - >tr|A0A060HL45|A0A060HL45_9ARCH Putative archaeal cell division protein CdvA with coiled-coil domain OS=Nitrososphaera viennensis EN76 OX=926571 GN=cdvA PE=4 SV=1	non-specific	226883	71	194	0.00959873	36.9693	COG4477	EzrA	NC	cl34766
+Q#20 - >tr|A0A060HL45|A0A060HL45_9ARCH Putative archaeal cell division protein CdvA with coiled-coil domain OS=Nitrososphaera viennensis EN76 OX=926571 GN=cdvA PE=4 SV=1	superfamily	226883	71	194	0.00959873	36.9693	cl34766	EzrA superfamily	NC	 - 

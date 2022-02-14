@@ -1,0 +1,113 @@
+#Q9YFV5
+CdvA-like coiled-coil domain,87,202
+Coil,170,204
+consensus disorder prediction,217,246
+Coil,103,141
+consensus disorder prediction,201,246
+#A8AB73
+Coil,108,153
+CdvA-like coiled-coil domain,85,206
+consensus disorder prediction,209,225
+Coil,171,205
+consensus disorder prediction,197,225
+#A0A0V8RVZ4
+Coil,113,144
+Coil,173,193
+CdvA-like coiled-coil domain,90,211
+PRC-barrel-like superfamily,11,70
+Coil,197,217
+#A2BKY8
+CdvA-like coiled-coil domain,90,211
+Coil,106,133
+consensus disorder prediction,207,230
+consensus disorder prediction,206,245
+PRC-barrel-like superfamily,12,71
+#I3XSK2
+CdvA-like coiled-coil domain,88,206
+Coil,107,149
+Coil,76,96
+Coil,164,201
+#A3DP07
+Coil,171,201
+PRC-barrel-like superfamily,9,78
+CdvA-like coiled-coil domain,88,208
+Coil,104,134
+Coil,69,96
+#Q97ZJ5
+Coil,132,167
+Coil,104,124
+consensus disorder prediction,232,248
+CdvA-like coiled-coil domain,113,231
+consensus disorder prediction,231,251
+#Q972B5
+CdvA-like coiled-coil domain,86,207
+consensus disorder prediction,205,222
+consensus disorder prediction,198,230
+Coil,109,147
+#Q4J923
+Coil,120,147
+CdvA-like coiled-coil domain,86,206
+#A4YHC3
+Coil,109,147
+consensus disorder prediction,199,239
+CdvA-like coiled-coil domain,86,194
+#F0NEW0
+Coil,104,124
+consensus disorder prediction,232,248
+Coil,147,167
+CdvA-like coiled-coil domain,113,231
+consensus disorder prediction,231,251
+#A0A2U9IP02
+CdvA-like coiled-coil domain,85,206
+Coil,119,146
+consensus disorder prediction,203,229
+consensus disorder prediction,205,225
+#A0A1W6K1U8
+Coil,119,146
+consensus disorder prediction,205,222
+consensus disorder prediction,202,229
+CdvA-like coiled-coil domain,85,206
+#F4B4A8
+CdvA-like coiled-coil domain,85,205
+Coil,119,146
+consensus disorder prediction,204,223
+consensus disorder prediction,200,229
+#L0AAQ7
+consensus disorder prediction,213,240
+CdvA-like coiled-coil domain,91,205
+Coil,177,204
+Coil,114,134
+consensus disorder prediction,222,240
+#D9Q2V6
+consensus disorder prediction,206,231
+Coil,111,131
+Coil,171,198
+consensus disorder prediction,207,228
+PRC-barrel domain,8,70
+CdvA-like coiled-coil domain,88,203
+#A9A4A7
+consensus disorder prediction,277,292
+CdvA-like coiled-coil domain,84,205
+Coil,125,145
+Coil,286,292
+consensus disorder prediction,221,292
+consensus disorder prediction,221,236
+#F3KIG5
+Coil,100,137
+CdvA-like coiled-coil domain,84,206
+consensus disorder prediction,230,277
+#K0INE2
+Coil,100,145
+PRC-barrel-like superfamily,8,64
+consensus disorder prediction,253,271
+consensus disorder prediction,205,271
+CdvA-like coiled-coil domain,84,205
+#A0A060HL45
+Coil,118,145
+consensus disorder prediction,207,274
+CdvA-like coiled-coil domain,84,203
+#I0A073
+Coil,78,98
+CdvA-like coiled-coil domain,90,208
+Coil,113,158
+SSF46579,84,156

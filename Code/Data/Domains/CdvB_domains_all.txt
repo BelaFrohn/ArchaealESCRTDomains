@@ -1,0 +1,504 @@
+#Q9HIZ5
+InterProScan,Snf7 family,17,183
+InterProScan,consensus disorder prediction,166,187
+InterProScan,consensus disorder prediction,166,212
+CDD,Snf7,15,144
+CDD,Snf7 superfamily,15,144
+#Q97BR8
+InterProScan,consensus disorder prediction,188,212
+InterProScan,Snf7 family,19,179
+InterProScan,consensus disorder prediction,173,187
+InterProScan,consensus disorder prediction,170,212
+CDD,Snf7,16,145
+CDD,Snf7 superfamily,16,145
+#C5A5F7
+InterProScan,Coil,56,86
+InterProScan,Coil,19,39
+#A0A0S1XCM4
+InterProScan,Coil,69,89
+InterProScan,consensus disorder prediction,182,204
+InterProScan,Coil,120,140
+InterProScan,Coil,18,52
+CDD,FAM76,16,88
+CDD,FAM76 superfamily,16,88
+CDD,Snf7,23,171
+CDD,Snf7 superfamily,23,171
+#A0A0S1XCN4
+InterProScan,Coil,17,51
+InterProScan,Coil,143,163
+#A0A0S1XCQ9
+InterProScan,Coil,24,44
+InterProScan,Coil,121,141
+InterProScan,Coil,61,91
+#I3ZW42
+InterProScan,Coil,25,59
+InterProScan,Coil,69,89
+InterProScan,consensus disorder prediction,178,204
+CDD,PTZ00464,4,76
+CDD,Snf7 superfamily,4,76
+CDD,FapA,16,81
+CDD,FapA superfamily,16,81
+#I3ZW43
+InterProScan,Coil,18,52
+InterProScan,Coil,144,164
+#I3ZW30
+InterProScan,Coil,56,86
+InterProScan,Coil,19,39
+#C9RH08
+InterProScan,Coil,20,54
+InterProScan,Coil,71,91
+CDD,Fmp27_WPPW,8,93
+CDD,Fmp27_WPPW superfamily,8,93
+#C9RGZ9
+InterProScan,Coil,147,167
+InterProScan,Coil,21,55
+#D5VRF4
+InterProScan,Coil,21,55
+#D5VRF2
+InterProScan,Coil,20,54
+InterProScan,Coil,175,195
+InterProScan,Coil,71,98
+CDD,Fmp27_WPPW,8,93
+CDD,Fmp27_WPPW superfamily,8,93
+#Q9YFV7
+InterProScan,Snf7 family,38,206
+CDD,Did4,3,209
+CDD,Snf7 superfamily,3,209
+#Q9YDF1
+InterProScan,Coil,237,257
+InterProScan,Winged helix-like DNA-binding domain superfamily,215,264
+InterProScan,Winged helix DNA-binding domain superfamily,215,262
+CDD,Zalpha,213,259
+CDD,z-alpha superfamily,213,259
+CDD,COG2512,198,267
+CDD,COG2512 superfamily,198,267
+#A8A8N3
+InterProScan,Coil,113,133
+InterProScan,Coil,25,52
+CDD,Did4,3,168
+CDD,Snf7 superfamily,3,168
+#A0A0V8RVW9
+InterProScan,Winged helix DNA-binding domain superfamily,229,273
+InterProScan,Winged helix-like DNA-binding domain superfamily,227,276
+CDD,Did4,18,193
+CDD,Snf7 superfamily,18,193
+#A0A0V8RRG7
+InterProScan,consensus disorder prediction,200,226
+InterProScan,consensus disorder prediction,207,226
+CDD,Did4,3,206
+CDD,Snf7 superfamily,3,206
+#A2BKY9
+InterProScan,Coil,229,249
+InterProScan,Winged helix DNA-binding domain superfamily,239,284
+InterProScan,Coil,26,53
+InterProScan,Winged helix-like DNA-binding domain superfamily,232,286
+CDD,Did4,18,193
+CDD,Snf7 superfamily,18,193
+#A2BM29
+InterProScan,Coil,139,159
+#I3XQE4
+InterProScan,Coil,41,61
+InterProScan,Winged helix-like DNA-binding domain superfamily,239,291
+InterProScan,Winged helix DNA-binding domain superfamily,238,291
+CDD,COG2512,223,291
+CDD,COG2512 superfamily,223,291
+#A3DP08
+InterProScan,Winged helix-like DNA-binding domain superfamily,209,259
+CDD,Did4,21,152
+CDD,Snf7 superfamily,21,152
+#Q97ZJ6
+InterProScan,Snf7 family,27,125
+InterProScan,Coil,23,50
+InterProScan,Winged helix-like DNA-binding domain superfamily,206,259
+CDD,Did4,1,194
+CDD,Snf7 superfamily,1,194
+#Q972B4
+InterProScan,Winged helix-like DNA-binding domain superfamily,210,266
+InterProScan,Coil,23,50
+InterProScan,Snf7 family,27,193
+CDD,Did4,1,194
+CDD,Snf7 superfamily,1,194
+CDD,PTZ00326,218,266
+CDD,PTZ00326 superfamily,218,266
+#Q970W7
+InterProScan,Coil,135,159
+CDD,Did4,2,161
+CDD,Snf7 superfamily,2,161
+#Q4J924
+InterProScan,Coil,23,50
+InterProScan,Winged helix-like DNA-binding domain superfamily,205,261
+InterProScan,Winged helix DNA-binding domain superfamily,211,258
+CDD,Did4,1,194
+CDD,Snf7 superfamily,1,194
+CDD,COG2512,138,260
+CDD,COG2512 superfamily,138,260
+#Q4J8G7
+InterProScan,Coil,143,163
+CDD,Did4,2,165
+CDD,Snf7 superfamily,2,165
+CDD,DUF2106,85,121
+CDD,DUF2106 superfamily,85,121
+#A4YHC4
+InterProScan,Snf7 family,29,195
+InterProScan,Coil,23,50
+InterProScan,Winged helix-like DNA-binding domain superfamily,216,270
+CDD,Did4,1,190
+CDD,Snf7 superfamily,1,190
+#A4YHE8
+InterProScan,Snf7 family,42,209
+CDD,Did4,1,209
+CDD,Snf7 superfamily,1,209
+CDD,Snf7,41,206
+#F0NEW1
+InterProScan,Coil,23,50
+InterProScan,Snf7 family,27,125
+InterProScan,Winged helix-like DNA-binding domain superfamily,206,259
+CDD,Did4,1,193
+CDD,Snf7 superfamily,1,193
+#F0NI90
+InterProScan,Coil,141,161
+CDD,Did4,1,167
+CDD,Snf7 superfamily,1,167
+#A0A2U9IP34
+InterProScan,Snf7 family,30,191
+InterProScan,Winged helix-like DNA-binding domain superfamily,207,261
+CDD,Did4,10,195
+CDD,Snf7 superfamily,10,195
+#A0A2U9IQQ8
+InterProScan,Coil,128,152
+CDD,Did4,5,152
+CDD,Snf7 superfamily,5,152
+#A0A1W6K243
+InterProScan,Winged helix-like DNA-binding domain superfamily,206,261
+InterProScan,Snf7 family,30,191
+CDD,Did4,11,195
+CDD,Snf7 superfamily,11,195
+#A0A1W6K1Z7
+InterProScan,Snf7 family,41,170
+CDD,Did4,7,208
+CDD,Snf7 superfamily,7,208
+#A0A1W6K1F7
+InterProScan,Coil,137,161
+CDD,Did4,7,161
+CDD,Snf7 superfamily,7,161
+#F4B4A9
+InterProScan,Coil,43,63
+InterProScan,Winged helix-like DNA-binding domain superfamily,202,258
+CDD,Did4,10,196
+CDD,Snf7 superfamily,10,196
+#L0ABT6
+InterProScan,consensus disorder prediction,208,225
+InterProScan,consensus disorder prediction,204,225
+CDD,Did4,2,207
+CDD,Snf7 superfamily,2,207
+#D9Q2V7
+InterProScan,consensus disorder prediction,200,226
+InterProScan,consensus disorder prediction,209,226
+InterProScan,Snf7 family,45,208
+CDD,Did4,2,208
+CDD,Snf7 superfamily,2,208
+#D9Q219
+InterProScan,Winged helix-like DNA-binding domain superfamily,208,261
+CDD,DctP,178,255
+CDD,Periplasmic_Binding_Protein_Type_2 superfamily,178,255
+#A9A5K1
+InterProScan,Snf7 family,35,201
+InterProScan,consensus disorder prediction,1,22
+InterProScan,consensus disorder prediction,1,15
+CDD,Did4,5,200
+CDD,Snf7 superfamily,5,200
+#A9A520
+InterProScan,Coil,38,58
+InterProScan,consensus disorder prediction,193,215
+InterProScan,consensus disorder prediction,195,215
+CDD,Did4,4,167
+CDD,Snf7 superfamily,4,167
+#A9A552
+InterProScan,consensus disorder prediction,196,216
+InterProScan,consensus disorder prediction,192,216
+CDD,Did4,8,201
+CDD,Snf7 superfamily,8,201
+#F3KM46
+InterProScan,Coil,38,58
+InterProScan,consensus disorder prediction,1,25
+InterProScan,consensus disorder prediction,1,18
+InterProScan,Snf7 family,38,203
+CDD,Did4,33,202
+CDD,Snf7 superfamily,33,202
+#F3KIU6
+InterProScan,Coil,14,34
+InterProScan,Snf7 family,16,131
+CDD,Did4,3,182
+CDD,Snf7 superfamily,3,182
+#F3KM09
+InterProScan,consensus disorder prediction,196,214
+InterProScan,consensus disorder prediction,186,214
+CDD,Did4,8,201
+CDD,Snf7 superfamily,8,201
+#F3KJI1
+InterProScan,Snf7 family,34,195
+CDD,Did4,19,194
+CDD,Snf7 superfamily,19,194
+#K0IJ37
+InterProScan,consensus disorder prediction,202,224
+InterProScan,Coil,38,69
+InterProScan,consensus disorder prediction,200,224
+InterProScan,Snf7 family,42,205
+CDD,Did4,18,205
+CDD,Snf7 superfamily,18,205
+#K0IP38
+InterProScan,consensus disorder prediction,1,17
+InterProScan,consensus disorder prediction,1,30
+CDD,Did4,6,204
+CDD,Snf7 superfamily,6,204
+#K0IHX6
+InterProScan,consensus disorder prediction,1,32
+InterProScan,consensus disorder prediction,1,22
+CDD,Did4,5,205
+CDD,Snf7 superfamily,5,205
+#K0IIB5
+InterProScan,Coil,33,53
+CDD,Did4,4,202
+CDD,Snf7 superfamily,4,202
+CDD,COG2433,29,124
+CDD,DUF460 superfamily,29,124
+#K0IDT2
+InterProScan,consensus disorder prediction,187,207
+InterProScan,consensus disorder prediction,192,207
+CDD,Did4,23,180
+CDD,Snf7 superfamily,23,180
+#A0A060HNA5
+InterProScan,Coil,34,61
+InterProScan,Snf7 family,38,202
+InterProScan,consensus disorder prediction,193,216
+CDD,Did4,3,201
+CDD,Snf7 superfamily,3,201
+#A0A060HN76
+InterProScan,Coil,33,53
+InterProScan,consensus disorder prediction,196,216
+InterProScan,consensus disorder prediction,197,216
+CDD,Did4,1,202
+CDD,Snf7 superfamily,1,202
+#A0A060HRH3
+InterProScan,consensus disorder prediction,1,17
+InterProScan,consensus disorder prediction,1,31
+CDD,Did4,6,202
+CDD,Snf7 superfamily,6,202
+#A0A060HNV8
+InterProScan,Coil,40,64
+InterProScan,consensus disorder prediction,1,22
+InterProScan,consensus disorder prediction,1,35
+CDD,Did4,23,210
+CDD,Snf7 superfamily,23,210
+#A0A060HRY9
+InterProScan,consensus disorder prediction,184,205
+CDD,Did4,5,179
+CDD,Snf7 superfamily,5,179
+CDD,Pup,125,170
+CDD,Pup superfamily,125,170
+#I0A072
+InterProScan,Winged helix DNA-binding domain superfamily,267,314
+InterProScan,Winged helix-like DNA-binding domain superfamily,259,314
+CDD,Did4,31,213
+CDD,Snf7 superfamily,31,213
+#H9ZZG7
+InterProScan,Coil,41,75
+InterProScan,consensus disorder prediction,199,222
+CDD,Did4,2,205
+CDD,Snf7 superfamily,2,205
+#I0A2N3
+InterProScan,Coil,156,176
+InterProScan,Coil,11,38
+CDD,Did4,8,179
+CDD,Snf7 superfamily,8,179
+#A0A0F8VCM7
+InterProScan,Coil,32,52
+InterProScan,Snf7 family,27,193
+InterProScan,Coil,188,208
+CDD,Snf7,18,193
+CDD,Snf7 superfamily,18,193
+CDD,PLN03229,50,204
+CDD,PLN03229 superfamily,50,204
+#A0A0F8W953
+InterProScan,Coil,190,215
+InterProScan,Snf7 family,35,182
+CDD,Snf7,45,182
+CDD,Snf7 superfamily,45,182
+#A0A5C9EC31
+InterProScan,Coil,153,180
+InterProScan,consensus disorder prediction,202,235
+InterProScan,Snf7 family,53,210
+InterProScan,consensus disorder prediction,220,235
+InterProScan,Coil,49,87
+CDD,Snf7,51,202
+CDD,Snf7 superfamily,51,202
+#A0A1Q9P869
+InterProScan,Coil,124,144
+InterProScan,Coil,24,58
+InterProScan,Snf7 family,25,176
+CDD,Snf7,22,186
+CDD,Snf7 superfamily,22,186
+#A0A1Q9N7Y8
+InterProScan,Coil,32,52
+InterProScan,consensus disorder prediction,176,203
+InterProScan,Snf7 family,22,187
+CDD,Snf7,28,185
+CDD,Snf7 superfamily,28,185
+#A0A523XLA6
+InterProScan,Coil,38,58
+InterProScan,consensus disorder prediction,203,221
+InterProScan,consensus disorder prediction,167,221
+CDD,Did4,3,204
+CDD,Snf7 superfamily,3,204
+#A0A523TB66
+InterProScan,Coil,27,54
+InterProScan,Snf7 family,23,177
+CDD,Snf7,29,177
+CDD,Snf7 superfamily,29,177
+#A0A523X658
+InterProScan,Snf7 family,22,182
+InterProScan,Coil,20,50
+CDD,Snf7,20,176
+CDD,Snf7 superfamily,20,176
+#A0A523X670
+InterProScan,Snf7 family,19,182
+InterProScan,consensus disorder prediction,170,202
+InterProScan,G3DSA:1.10.287.1060,11,90
+InterProScan,Coil,18,45
+InterProScan,consensus disorder prediction,170,195
+InterProScan,Coil,199,217
+CDD,Snf7,16,189
+CDD,Snf7 superfamily,16,189
+CDD,PTZ00464,4,195
+#A0A5B9DFP8
+InterProScan,Coil,27,54
+InterProScan,Snf7 family,26,194
+CDD,Snf7,23,194
+CDD,Snf7 superfamily,23,194
+#A0A5B9DGK4
+InterProScan,consensus disorder prediction,180,199
+InterProScan,Snf7 family,33,195
+InterProScan,Coil,195,215
+CDD,Snf7,35,195
+CDD,Snf7 superfamily,35,195
+#A0A5B9DB92
+InterProScan,consensus disorder prediction,183,202
+InterProScan,Snf7 family,20,181
+InterProScan,Coil,73,93
+InterProScan,Coil,119,139
+InterProScan,consensus disorder prediction,171,202
+CDD,Snf7,21,181
+CDD,Snf7 superfamily,21,181
+#Q9H444
+InterProScan,Coil,26,46
+InterProScan,consensus disorder prediction,1,23
+InterProScan,consensus disorder prediction,185,224
+InterProScan,Coil,161,181
+InterProScan,Coil,89,109
+InterProScan,G3DSA:1.10.287.1060,19,97
+InterProScan,Snf7 family,24,198
+InterProScan,Coil,128,148
+CDD,Snf7,24,198
+CDD,Snf7 superfamily,24,198
+CDD,PTZ00464,20,213
+CDD,PTZ00446,24,150
+#Q9Y3E7
+InterProScan,Coil,34,54
+InterProScan,Coil,144,171
+InterProScan,Snf7 family,18,187
+InterProScan,Coil,196,216
+InterProScan,consensus disorder prediction,180,222
+CDD,Snf7,18,187
+CDD,Snf7 superfamily,18,187
+CDD,Did4,25,153
+#P39929
+InterProScan,Coil,70,90
+InterProScan,G3DSA:1.10.287.1060,16,95
+InterProScan,Coil,207,237
+InterProScan,consensus disorder prediction,216,230
+InterProScan,consensus disorder prediction,193,210
+InterProScan,Snf7 family,22,206
+InterProScan,Coil,160,180
+InterProScan,consensus disorder prediction,193,240
+CDD,Snf7,21,206
+CDD,Snf7 superfamily,21,206
+CDD,PTZ00464,60,149
+CDD,PTZ00446,14,157
+#P36095
+InterProScan,Coil,31,51
+InterProScan,Snf7 family,22,189
+CDD,Did4,26,224
+CDD,Snf7 superfamily,26,224
+CDD,Snf7,19,189
+#Q9YAG4
+CDD,Did4,18,166
+CDD,Snf7 superfamily,18,166
+#A8ABN1
+CDD,Did4,31,200
+CDD,Snf7 superfamily,31,200
+#A2BMT1
+CDD,Did4,3,205
+CDD,Snf7 superfamily,3,205
+#I3XPX4
+CDD,Did4,5,194
+CDD,Snf7 superfamily,5,194
+#A3DLS9
+CDD,Did4,11,202
+CDD,Snf7 superfamily,11,202
+#Q97ZX1
+CDD,Did4,67,273
+CDD,Snf7 superfamily,67,273
+#Q97ZL3
+CDD,Did4,8,210
+CDD,Snf7 superfamily,8,210
+#Q7LXR9
+CDD,Did4,1,167
+CDD,Snf7 superfamily,1,167
+#Q971Z1
+CDD,Did4,5,208
+CDD,Snf7 superfamily,5,208
+CDD,cysS,33,164
+CDD,cysS superfamily,33,164
+#F9VMM4
+CDD,Did4,21,198
+CDD,Snf7 superfamily,21,198
+#Q4JBG6
+CDD,Did4,4,205
+CDD,Snf7 superfamily,4,205
+#Q4J8Y4
+CDD,Did4,5,208
+CDD,Snf7 superfamily,5,208
+#A4YI57
+CDD,Did4,1,152
+CDD,Snf7 superfamily,1,152
+#A4YIR6
+CDD,Did4,5,203
+CDD,Snf7 superfamily,5,203
+#F0NEY7
+CDD,Did4,8,210
+CDD,Snf7 superfamily,8,210
+#F0NFA9
+CDD,Did4,36,242
+CDD,Snf7 superfamily,36,242
+#A0A2U9IP10
+CDD,Did4,7,208
+CDD,Snf7 superfamily,7,208
+#A0A2U9IN05
+CDD,Did4,5,204
+CDD,Snf7 superfamily,5,204
+#A0A1W6K0Q6
+CDD,Did4,5,204
+CDD,Snf7 superfamily,5,204
+#F4B4L2
+CDD,Did4,1,208
+CDD,Snf7 superfamily,1,208
+#F4B970
+CDD,Did4,26,204
+CDD,Snf7 superfamily,26,204
+#F4BA11
+CDD,Did4,2,150
+CDD,Snf7 superfamily,2,150
+#A0A1Q9N7Y5
+CDD,Snf7,17,183
+CDD,Snf7 superfamily,17,183
+CDD,PTZ00464,74,188

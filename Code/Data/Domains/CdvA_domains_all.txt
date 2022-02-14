@@ -1,0 +1,158 @@
+#Q9YFV5
+InterProScan,CdvA-like coiled-coil domain,87,202
+InterProScan,Coil,170,204
+InterProScan,consensus disorder prediction,217,246
+InterProScan,Coil,103,141
+InterProScan,consensus disorder prediction,201,246
+#A8AB73
+InterProScan,Coil,108,153
+InterProScan,CdvA-like coiled-coil domain,85,206
+InterProScan,consensus disorder prediction,209,225
+InterProScan,Coil,171,205
+InterProScan,consensus disorder prediction,197,225
+CDD,COG5022,70,217
+CDD,COG5022 superfamily,70,217
+CDD,Smc,106,210
+CDD,Smc superfamily,106,210
+CDD,SMC_prok_A,77,209
+CDD,SMC_prok_A superfamily,77,209
+CDD,PRK12704,103,205
+CDD,PRK12704 superfamily,103,205
+#A0A0V8RVZ4
+InterProScan,Coil,113,144
+InterProScan,Coil,173,193
+InterProScan,CdvA-like coiled-coil domain,90,211
+InterProScan,PRC-barrel-like superfamily,11,70
+InterProScan,Coil,197,217
+#A2BKY8
+InterProScan,CdvA-like coiled-coil domain,90,211
+InterProScan,Coil,106,133
+InterProScan,consensus disorder prediction,207,230
+InterProScan,consensus disorder prediction,206,245
+InterProScan,PRC-barrel-like superfamily,12,71
+#I3XSK2
+InterProScan,CdvA-like coiled-coil domain,88,206
+InterProScan,Coil,107,149
+InterProScan,Coil,76,96
+InterProScan,Coil,164,201
+CDD,Smc,38,197
+CDD,Smc superfamily,38,197
+CDD,SbcC,79,182
+CDD,SbcC superfamily,79,182
+CDD,Fmp27_WPPW,118,223
+CDD,Fmp27_WPPW superfamily,118,223
+#A3DP07
+InterProScan,Coil,171,201
+InterProScan,PRC-barrel-like superfamily,9,78
+InterProScan,CdvA-like coiled-coil domain,88,208
+InterProScan,Coil,104,134
+InterProScan,Coil,69,96
+CDD,Smc,71,201
+CDD,Smc superfamily,71,201
+CDD,Fmp27_WPPW,118,214
+CDD,Fmp27_WPPW superfamily,118,214
+CDD,methan_mark_13,33,220
+CDD,Oxidoreductase_nitrogenase superfamily,33,220
+CDD,Smc,75,223
+CDD,PLN02372,62,150
+CDD,Lipocalin superfamily,62,150
+#Q97ZJ5
+InterProScan,Coil,132,167
+InterProScan,Coil,104,124
+InterProScan,consensus disorder prediction,232,248
+InterProScan,CdvA-like coiled-coil domain,113,231
+InterProScan,consensus disorder prediction,231,251
+CDD,Smc,98,229
+CDD,Smc superfamily,98,229
+#Q972B5
+InterProScan,CdvA-like coiled-coil domain,86,207
+InterProScan,consensus disorder prediction,205,222
+InterProScan,consensus disorder prediction,198,230
+InterProScan,Coil,109,147
+CDD,Smc,82,199
+CDD,Smc superfamily,82,199
+#Q4J923
+InterProScan,Coil,120,147
+InterProScan,CdvA-like coiled-coil domain,86,206
+#A4YHC3
+InterProScan,Coil,109,147
+InterProScan,consensus disorder prediction,199,239
+InterProScan,CdvA-like coiled-coil domain,86,194
+#F0NEW0
+InterProScan,Coil,104,124
+InterProScan,consensus disorder prediction,232,248
+InterProScan,Coil,147,167
+InterProScan,CdvA-like coiled-coil domain,113,231
+InterProScan,consensus disorder prediction,231,251
+#A0A2U9IP02
+InterProScan,CdvA-like coiled-coil domain,85,206
+InterProScan,Coil,119,146
+InterProScan,consensus disorder prediction,203,229
+InterProScan,consensus disorder prediction,205,225
+CDD,SerS,75,147
+CDD,SerS superfamily,75,147
+CDD,F-BAR_PSTPIP,81,181
+CDD,BAR superfamily,81,181
+CDD,Imp,61,147
+CDD,Imp superfamily,61,147
+#A0A1W6K1U8
+InterProScan,Coil,119,146
+InterProScan,consensus disorder prediction,205,222
+InterProScan,consensus disorder prediction,202,229
+InterProScan,CdvA-like coiled-coil domain,85,206
+CDD,SerS,75,147
+CDD,SerS superfamily,75,147
+#F4B4A8
+InterProScan,CdvA-like coiled-coil domain,85,205
+InterProScan,Coil,119,146
+InterProScan,consensus disorder prediction,204,223
+InterProScan,consensus disorder prediction,200,229
+CDD,F-BAR_PSTPIP,79,181
+CDD,BAR superfamily,79,181
+#L0AAQ7
+InterProScan,consensus disorder prediction,213,240
+InterProScan,CdvA-like coiled-coil domain,91,205
+InterProScan,Coil,177,204
+InterProScan,Coil,114,134
+InterProScan,consensus disorder prediction,222,240
+#D9Q2V6
+InterProScan,consensus disorder prediction,206,231
+InterProScan,Coil,111,131
+InterProScan,Coil,171,198
+InterProScan,consensus disorder prediction,207,228
+InterProScan,PRC-barrel domain,8,70
+InterProScan,CdvA-like coiled-coil domain,88,203
+#A9A4A7
+InterProScan,consensus disorder prediction,277,292
+InterProScan,CdvA-like coiled-coil domain,84,205
+InterProScan,Coil,125,145
+InterProScan,Coil,286,292
+InterProScan,consensus disorder prediction,221,292
+InterProScan,consensus disorder prediction,221,236
+CDD,PHA03247,205,286
+CDD,PHA03247 superfamily,205,286
+CDD,ActA,102,277
+CDD,ActA superfamily,102,277
+CDD,PRK14960,209,283
+CDD,PRK14960 superfamily,209,283
+#F3KIG5
+InterProScan,Coil,100,137
+InterProScan,CdvA-like coiled-coil domain,84,206
+InterProScan,consensus disorder prediction,230,277
+#K0INE2
+InterProScan,Coil,100,145
+InterProScan,PRC-barrel-like superfamily,8,64
+InterProScan,consensus disorder prediction,253,271
+InterProScan,consensus disorder prediction,205,271
+InterProScan,CdvA-like coiled-coil domain,84,205
+#A0A060HL45
+InterProScan,Coil,118,145
+InterProScan,consensus disorder prediction,207,274
+InterProScan,CdvA-like coiled-coil domain,84,203
+CDD,EzrA,71,194
+CDD,EzrA superfamily,71,194
+#I0A073
+InterProScan,Coil,78,98
+InterProScan,CdvA-like coiled-coil domain,90,208
+InterProScan,Coil,113,158
+InterProScan,SSF46579,84,156
